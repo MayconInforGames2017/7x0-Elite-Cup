@@ -1,0 +1,409 @@
+/* panel.css — Left sidebar (formations) + right roster panel. */
+
+/* ------------------------------------------------------------------ */
+/* Left sidebar: formation selector                                    */
+/* ------------------------------------------------------------------ */
+
+#formation-selector {
+  background: #1a2634;
+  border-right: 1px solid #2a3a4a;
+  padding: 16px 12px;
+  overflow-y: auto;
+}
+
+.sidebar-controls {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  height: 100%;
+  overflow: hidden;
+}
+
+.sidebar-phase {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  height: 100%;
+  overflow-y: auto;
+}
+
+.sidebar-title {
+  margin: 0;
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #7a8fa3;
+}
+
+/* Start button */
+.start-button {
+  margin-top: 8px;
+  padding: 12px;
+  border: none;
+  border-radius: 6px;
+  background: #e8c547;
+  color: #1a1a1a;
+  font-size: 13px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  cursor: pointer;
+  transition: background 0.12s, opacity 0.12s;
+}
+
+.start-button:hover:not(:disabled) {
+  background: #f0d060;
+}
+
+.start-button:disabled {
+  opacity: 0.35;
+  cursor: not-allowed;
+}
+
+/* Back button */
+.back-button {
+  padding: 6px 10px;
+  border: 1px solid #3a4f63;
+  border-radius: 5px;
+  background: transparent;
+  color: #7a8fa3;
+  font-size: 11px;
+  font-weight: 600;
+  cursor: pointer;
+  align-self: flex-start;
+}
+
+.back-button:hover {
+  color: #e8edf2;
+  border-color: #5a7a99;
+}
+
+/* Config summary shown in phase 2 */
+.config-summary {
+  font-size: 11px;
+  font-weight: 600;
+  color: #e8c547;
+  padding: 4px 0;
+}
+
+.formation-buttons {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 6px;
+}
+
+.formation-button {
+  padding: 8px 4px;
+  border: 1px solid #3a4f63;
+  border-radius: 6px;
+  background: #243447;
+  font-size: 12px;
+  font-weight: 600;
+  color: #c0d0df;
+  text-align: center;
+  transition: background 0.12s, border-color 0.12s, color 0.12s;
+}
+
+.formation-button:hover {
+  background: #2d4560;
+  border-color: #5a7a99;
+  color: #ffffff;
+}
+
+.formation-button.is-active {
+  background: #e8c547;
+  border-color: #e8c547;
+  color: #1a1a1a;
+}
+
+/* Tactical style buttons */
+.style-buttons {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 5px;
+}
+
+.style-button {
+  padding: 6px 2px;
+  border: 1px solid #3a4f63;
+  border-radius: 5px;
+  background: #243447;
+  font-size: 10px;
+  font-weight: 600;
+  color: #c0d0df;
+  text-align: center;
+  transition: background 0.12s, border-color 0.12s, color 0.12s;
+}
+
+.style-button:hover {
+  background: #2d4560;
+  border-color: #5a7a99;
+  color: #ffffff;
+}
+
+.style-button.is-active {
+  background: #4aad4a;
+  border-color: #4aad4a;
+  color: #ffffff;
+}
+
+/* ------------------------------------------------------------------ */
+/* Right panel: club/edition selectors + candidate list                */
+/* ------------------------------------------------------------------ */
+
+#player-panel {
+  background: #1a2634;
+  border-left: 1px solid #2a3a4a;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.panel {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  padding: 0;
+  height: 100%;
+  overflow: hidden;
+}
+
+.panel-divider {
+  border: none;
+  border-top: 1px solid #2a3a4a;
+  margin: 0;
+}
+
+.filter-section {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 10px 12px;
+}
+
+/* ------------------------------------------------------------------ */
+/* Box Score                                                            */
+/* ------------------------------------------------------------------ */
+
+.box-score {
+  padding: 10px 12px;
+  flex-shrink: 0;
+}
+
+.box-score-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 8px;
+}
+
+.box-score-title {
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #7a8fa3;
+}
+
+.box-score-count {
+  font-size: 12px;
+  font-weight: 800;
+  color: #e8c547;
+}
+
+.box-score-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+}
+
+.box-score-empty {
+  font-size: 11px;
+  color: #5a6a7a;
+  text-align: center;
+  padding: 8px;
+}
+
+.box-score-row {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 3px 0;
+  border-bottom: 1px solid #1f2f3f;
+}
+
+.box-score-row.is-filled {
+  border-bottom-color: #2a3a4a;
+}
+
+.box-score-pos {
+  font-size: 10px;
+  font-weight: 700;
+  color: #7a8fa3;
+  min-width: 28px;
+  text-transform: uppercase;
+}
+
+.box-score-name {
+  flex: 1;
+  font-size: 11px;
+  font-weight: 500;
+  color: #c0d0df;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.box-score-row.is-filled .box-score-name {
+  color: #e8edf2;
+  font-weight: 600;
+}
+
+.box-score-rating {
+  font-size: 11px;
+  font-weight: 700;
+  color: #e8c547;
+  min-width: 20px;
+  text-align: right;
+}
+
+.panel-section {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.panel-section-title {
+  margin: 0;
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #7a8fa3;
+}
+
+.panel-select {
+  width: 100%;
+  padding: 6px 8px;
+  border: 1px solid #3a4f63;
+  border-radius: 5px;
+  background: #243447;
+  color: #d0dde8;
+  font-size: 12px;
+}
+
+.panel-select:focus {
+  outline: none;
+  border-color: #e8c547;
+}
+
+.panel-select option:disabled,
+.panel-select option.is-unavailable {
+  color: #5a6a7a;
+  font-style: italic;
+}
+
+/* Candidate list */
+.candidate-list {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  flex: 1;
+  overflow-y: auto;
+  padding: 0 12px 12px;
+  min-height: 0;
+}
+
+.candidate-list::-webkit-scrollbar {
+  width: 5px;
+}
+
+.candidate-list::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.candidate-list::-webkit-scrollbar-thumb {
+  background: #3a4f63;
+  border-radius: 3px;
+}
+
+.candidate-empty,
+.candidate-instruction {
+  padding: 16px 10px;
+  border: 1px dashed #3a4f63;
+  border-radius: 6px;
+  font-size: 11px;
+  color: #7a8fa3;
+  text-align: center;
+}
+
+.candidate-error {
+  padding: 10px;
+  border: 1px solid #7a3030;
+  background: #2a1515;
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  font-size: 11px;
+  color: #f5a0a0;
+}
+
+.candidate-error button {
+  align-self: flex-start;
+  padding: 4px 10px;
+  border: 1px solid #f5a0a0;
+  background: transparent;
+  color: #f5a0a0;
+  border-radius: 4px;
+  font-size: 11px;
+}
+
+.candidate-error button:hover {
+  background: #3a2020;
+}
+
+/* ------------------------------------------------------------------ */
+/* Notification toasts                                                  */
+/* ------------------------------------------------------------------ */
+
+.notifications {
+  position: fixed;
+  right: 16px;
+  bottom: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  z-index: 1000;
+}
+
+.notification {
+  background: #243447;
+  color: #d0dde8;
+  padding: 8px 12px;
+  border-radius: 6px;
+  font-size: 12px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+  max-width: 280px;
+  border-left: 3px solid #e8c547;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.notification.is-error {
+  border-left-color: #e04545;
+  background: #2a1a1a;
+}
+
+.notification-close {
+  margin-left: auto;
+  color: #7a8fa3;
+  font-size: 14px;
+  padding: 0 2px;
+}
+
+.notification-close:hover {
+  color: #ffffff;
+}

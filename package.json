@@ -1,0 +1,16 @@
+{
+  "name": "champions-team-builder",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Static web app to build a fictional team from UEFA Champions League / European Cup history.",
+  "type": "module",
+  "scripts": {
+    "test": "vitest --run",
+    "test:watch": "vitest"
+  },
+  "devDependencies": {
+    "fast-check": "3.23.2",
+    "jsdom": "25.0.1",
+    "vitest": "2.1.9"
+  }
+}

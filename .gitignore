@@ -1,0 +1,7 @@
+node_modules/
+npm-debug.log*
+.vitest-cache/
+coverage/
+.DS_Store
+.kiro/
+.vscode/

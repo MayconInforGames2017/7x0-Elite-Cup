@@ -1,0 +1,12 @@
+[
+  { "id": "clube:real-madrid", "name": "Real Madrid", "country": "ES" },
+  { "id": "clube:ac-milan", "name": "AC Milan", "country": "IT" },
+  { "id": "clube:barcelona", "name": "Barcelona", "country": "ES" },
+  { "id": "clube:bayern-munich", "name": "Bayern Munich", "country": "DE" },
+  { "id": "clube:liverpool", "name": "Liverpool", "country": "EN" },
+  { "id": "clube:manchester-united", "name": "Manchester United", "country": "EN" },
+  { "id": "clube:juventus", "name": "Juventus", "country": "IT" },
+  { "id": "clube:inter-milan", "name": "Inter Milan", "country": "IT" },
+  { "id": "clube:ajax", "name": "Ajax", "country": "NL" },
+  { "id": "clube:benfica", "name": "Benfica", "country": "PT" }
+]

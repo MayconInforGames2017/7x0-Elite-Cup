@@ -1,0 +1,94 @@
+/* base.css — Reset, typography and three-column layout.
+   Inspired by pitch-centric team builders: controls | field | roster. */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  overflow: hidden;
+}
+
+body {
+  margin: 0;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  font-size: 13px;
+  line-height: 1.4;
+  color: #1e1e1e;
+  background: #0f1923;
+}
+
+button {
+  font: inherit;
+  color: inherit;
+  cursor: pointer;
+  border: none;
+  background: none;
+}
+
+select,
+input,
+textarea {
+  font: inherit;
+  color: inherit;
+}
+
+/* Three-column layout: sidebar | field | roster panel */
+.app-root {
+  display: grid;
+  grid-template-columns: 200px 1fr 260px;
+  grid-template-rows: auto 1fr;
+  height: 100vh;
+  gap: 0;
+}
+
+.app-header {
+  grid-column: 1 / -1;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 10px 20px;
+  background: #1a2634;
+  border-bottom: 1px solid #2a3a4a;
+}
+
+.app-title {
+  margin: 0;
+  font-size: 15px;
+  font-weight: 700;
+  color: #e8c547;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+.app-subtitle {
+  font-size: 11px;
+  color: #8a9bae;
+  font-weight: 400;
+}
+
+@media (max-width: 860px) {
+  .app-root {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto auto 1fr auto;
+    height: auto;
+    overflow: auto;
+  }
+}
+
+/* Visually-hidden helper for accessibility labels. */
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}

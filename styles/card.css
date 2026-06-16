@@ -1,0 +1,210 @@
+/* card.css — Player cards (compact dark theme) + slot states. */
+
+/* ------------------------------------------------------------------ */
+/* Player card — compact row layout: #N Name POS Rating               */
+/* ------------------------------------------------------------------ */
+
+.player-card {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 5px 8px;
+  border: 1px solid #3a4f63;
+  border-radius: 5px;
+  background: #243447;
+  cursor: grab;
+  transition: border-color 0.1s, background 0.1s;
+}
+
+.player-card:hover {
+  border-color: #e8c547;
+  background: #2d4560;
+}
+
+.player-card:active {
+  cursor: grabbing;
+}
+
+.player-card.is-assigned {
+  opacity: 0.35;
+  cursor: not-allowed;
+  pointer-events: none;
+  border-color: #2a3a4a;
+}
+
+.player-card.is-assigned:hover {
+  border-color: #2a3a4a;
+  background: #243447;
+}
+
+.player-card.is-selecting {
+  border-color: #4aad4a;
+  background: #1a3a2a;
+  box-shadow: 0 0 8px rgba(74, 173, 74, 0.3);
+}
+
+.player-card .player-number {
+  font-size: 10px;
+  font-weight: 700;
+  color: #7a8fa3;
+  min-width: 22px;
+}
+
+.player-card .player-name {
+  flex: 1;
+  font-weight: 600;
+  font-size: 12px;
+  color: #e8edf2;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.player-card .player-positions {
+  display: flex;
+  gap: 3px;
+  flex-shrink: 0;
+}
+
+.player-card .player-positions.positions-missing::before {
+  content: "—";
+  font-size: 9px;
+  color: #5a6a7a;
+}
+
+.player-card .player-rating {
+  font-size: 13px;
+  font-weight: 800;
+  color: #e8c547;
+  min-width: 24px;
+  text-align: right;
+}
+
+.player-card .player-rating.rating-missing {
+  color: #5a6a7a;
+}
+
+/* ------------------------------------------------------------------ */
+/* Position chips                                                       */
+/* ------------------------------------------------------------------ */
+
+.pos {
+  display: inline-block;
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  padding: 1px 5px;
+  border-radius: 3px;
+  border: none;
+  white-space: nowrap;
+  text-transform: uppercase;
+}
+
+.pos-Goleiro          { background: #e8c547; color: #1a1a1a; }
+.pos-Zagueiro         { background: #4a90d9; color: #ffffff; }
+.pos-Lateral_Esquerdo { background: #7b68ee; color: #ffffff; }
+.pos-Lateral_Direito  { background: #7b68ee; color: #ffffff; }
+.pos-Volante          { background: #4aad4a; color: #ffffff; }
+.pos-Meia_Central     { background: #3da06b; color: #ffffff; }
+.pos-Meia_Ofensivo    { background: #e09255; color: #ffffff; }
+.pos-Ponta_Esquerda   { background: #e07a3a; color: #ffffff; }
+.pos-Ponta_Direita    { background: #e07a3a; color: #ffffff; }
+.pos-Atacante         { background: #d64545; color: #ffffff; }
+
+/* ------------------------------------------------------------------ */
+/* Slot states (field circles/capsules)                                 */
+/* ------------------------------------------------------------------ */
+
+.slot {
+  color: #ffffff;
+  transition: background-color 0.12s ease, border-color 0.12s ease, box-shadow 0.12s ease;
+}
+
+/* Empty slot: dashed outline, semi-transparent */
+.slot.is-empty {
+  background-color: rgba(255, 255, 255, 0.06);
+  border: 1.5px dashed rgba(255, 255, 255, 0.45);
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.slot.is-empty:hover {
+  background-color: rgba(255, 255, 255, 0.12);
+  border-color: rgba(255, 255, 255, 0.7);
+}
+
+/* Occupied slot: solid fill, accent glow */
+.slot.is-occupied {
+  background-color: #e8c547;
+  border: 1.5px solid #e8c547;
+  color: #1a1a1a;
+  font-weight: 800;
+  box-shadow: 0 2px 8px rgba(232, 197, 71, 0.35);
+}
+
+.slot.is-occupied:hover {
+  background-color: #f0d060;
+  box-shadow: 0 3px 12px rgba(232, 197, 71, 0.5);
+}
+
+/* Drag-over target */
+.slot.is-drop-target {
+  outline: 2px solid #4aad4a;
+  outline-offset: 2px;
+  background-color: rgba(74, 173, 74, 0.15) !important;
+}
+
+/* Pick-target: slot is compatible during click-to-assign mode */
+.slot.is-pick-target {
+  animation: pulse-pick 1s ease-in-out infinite;
+  border-color: #4aad4a !important;
+  background-color: rgba(74, 173, 74, 0.25) !important;
+  cursor: pointer;
+  box-shadow: 0 0 10px rgba(74, 173, 74, 0.5);
+}
+
+.slot.is-pick-target:hover {
+  background-color: rgba(74, 173, 74, 0.45) !important;
+  transform: scale(1.15);
+}
+
+@keyframes pulse-pick {
+  0%, 100% { box-shadow: 0 0 6px rgba(74, 173, 74, 0.4); }
+  50% { box-shadow: 0 0 14px rgba(74, 173, 74, 0.7); }
+}
+
+/* Dim non-target slots during picking mode */
+.field.is-picking .slot:not(.is-pick-target) {
+  opacity: 0.4;
+}
+
+/* Picking mode hint */
+.field.is-picking::after {
+  background: rgba(74, 173, 74, 0.15);
+}
+
+/* Remove button */
+.slot .slot-remove {
+  position: absolute;
+  top: -5px;
+  right: -5px;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  border: 1px solid #1a1a1a;
+  background: #d64545;
+  color: #ffffff;
+  font-size: 9px;
+  line-height: 1;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+}
+
+.slot.is-occupied .slot-remove {
+  display: inline-flex;
+}
+
+.slot.is-occupied:hover .slot-remove {
+  display: inline-flex;
+}
