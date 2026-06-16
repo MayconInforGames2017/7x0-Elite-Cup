@@ -366,5 +366,2753 @@
   {
     "id": "jogador:julian-alvarez",
     "name": "Julián Álvarez"
+  },
+  {
+    "id": "jogador:marc-andre-ter-stegen",
+    "name": "Marc-André ter Stegen"
+  },
+  {
+    "id": "jogador:ronald-araujo",
+    "name": "Ronald Araújo"
+  },
+  {
+    "id": "jogador:jules-kounde",
+    "name": "Jules Koundé"
+  },
+  {
+    "id": "jogador:alejandro-balde",
+    "name": "Alejandro Balde"
+  },
+  {
+    "id": "jogador:joao-cancelo",
+    "name": "João Cancelo"
+  },
+  {
+    "id": "jogador:andreas-christensen",
+    "name": "Andreas Christensen"
+  },
+  {
+    "id": "jogador:pedri",
+    "name": "Pedri"
+  },
+  {
+    "id": "jogador:gavi",
+    "name": "Gavi"
+  },
+  {
+    "id": "jogador:frenkie-de-jong",
+    "name": "Frenkie de Jong"
+  },
+  {
+    "id": "jogador:ilkay-gundogan",
+    "name": "İlkay Gündoğan"
+  },
+  {
+    "id": "jogador:fermin-lopez",
+    "name": "Fermín López"
+  },
+  {
+    "id": "jogador:joao-felix",
+    "name": "João Félix"
+  },
+  {
+    "id": "jogador:lamine-yamal",
+    "name": "Lamine Yamal"
+  },
+  {
+    "id": "jogador:raphinha",
+    "name": "Raphinha"
+  },
+  {
+    "id": "jogador:robert-lewandowski",
+    "name": "Robert Lewandowski"
+  },
+  {
+    "id": "jogador:manuel-neuer",
+    "name": "Manuel Neuer"
+  },
+  {
+    "id": "jogador:dayot-upamecano",
+    "name": "Dayot Upamecano"
+  },
+  {
+    "id": "jogador:min-jae-kim",
+    "name": "Kim Min-jae"
+  },
+  {
+    "id": "jogador:matthijs-de-ligt",
+    "name": "Matthijs de Ligt"
+  },
+  {
+    "id": "jogador:alphonso-davies",
+    "name": "Alphonso Davies"
+  },
+  {
+    "id": "jogador:joshua-kimmich",
+    "name": "Joshua Kimmich"
+  },
+  {
+    "id": "jogador:leon-goretzka",
+    "name": "Leon Goretzka"
+  },
+  {
+    "id": "jogador:jamal-musiala",
+    "name": "Jamal Musiala"
+  },
+  {
+    "id": "jogador:leroy-sane",
+    "name": "Leroy Sané"
+  },
+  {
+    "id": "jogador:serge-gnabry",
+    "name": "Serge Gnabry"
+  },
+  {
+    "id": "jogador:kingsley-coman",
+    "name": "Kingsley Coman"
+  },
+  {
+    "id": "jogador:harry-kane",
+    "name": "Harry Kane"
+  },
+  {
+    "id": "jogador:thomas-muller",
+    "name": "Thomas Müller"
+  },
+  {
+    "id": "jogador:konrad-laimer",
+    "name": "Konrad Laimer"
+  },
+  {
+    "id": "jogador:raphael-guerreiro",
+    "name": "Raphaël Guerreiro"
+  },
+  {
+    "id": "jogador:yann-sommer",
+    "name": "Yann Sommer"
+  },
+  {
+    "id": "jogador:alessandro-bastoni",
+    "name": "Alessandro Bastoni"
+  },
+  {
+    "id": "jogador:francesco-acerbi",
+    "name": "Francesco Acerbi"
+  },
+  {
+    "id": "jogador:benjamin-pavard",
+    "name": "Benjamin Pavard"
+  },
+  {
+    "id": "jogador:federico-dimarco",
+    "name": "Federico Dimarco"
+  },
+  {
+    "id": "jogador:denzel-dumfries",
+    "name": "Denzel Dumfries"
+  },
+  {
+    "id": "jogador:nicolo-barella",
+    "name": "Nicolò Barella"
+  },
+  {
+    "id": "jogador:hakan-calhanoglu",
+    "name": "Hakan Çalhanoğlu"
+  },
+  {
+    "id": "jogador:henrikh-mkhitaryan",
+    "name": "Henrikh Mkhitaryan"
+  },
+  {
+    "id": "jogador:marcus-thuram",
+    "name": "Marcus Thuram"
+  },
+  {
+    "id": "jogador:lautaro-martinez",
+    "name": "Lautaro Martínez"
+  },
+  {
+    "id": "jogador:matteo-darmian",
+    "name": "Matteo Darmian"
+  },
+  {
+    "id": "jogador:stefan-de-vrij",
+    "name": "Stefan de Vrij"
+  },
+  {
+    "id": "jogador:davide-frattesi",
+    "name": "Davide Frattesi"
+  },
+  {
+    "id": "jogador:marko-arnautovic",
+    "name": "Marko Arnautović"
+  },
+  {
+    "id": "jogador:gianluigi-donnarumma",
+    "name": "Gianluigi Donnarumma"
+  },
+  {
+    "id": "jogador:marquinhos",
+    "name": "Marquinhos"
+  },
+  {
+    "id": "jogador:achraf-hakimi",
+    "name": "Achraf Hakimi"
+  },
+  {
+    "id": "jogador:lucas-hernandez",
+    "name": "Lucas Hernández"
+  },
+  {
+    "id": "jogador:nuno-mendes",
+    "name": "Nuno Mendes"
+  },
+  {
+    "id": "jogador:milan-skriniar",
+    "name": "Milan Škriniar"
+  },
+  {
+    "id": "jogador:vitinha",
+    "name": "Vitinha"
+  },
+  {
+    "id": "jogador:warren-zaire-emery",
+    "name": "Warren Zaïre-Emery"
+  },
+  {
+    "id": "jogador:fabian-ruiz",
+    "name": "Fabián Ruiz"
+  },
+  {
+    "id": "jogador:ousmane-dembele",
+    "name": "Ousmane Dembélé"
+  },
+  {
+    "id": "jogador:kylian-mbappe",
+    "name": "Kylian Mbappé"
+  },
+  {
+    "id": "jogador:bradley-barcola",
+    "name": "Bradley Barcola"
+  },
+  {
+    "id": "jogador:goncalo-ramos",
+    "name": "Gonçalo Ramos"
+  },
+  {
+    "id": "jogador:randal-kolo-muani",
+    "name": "Randal Kolo Muani"
+  },
+  {
+    "id": "jogador:lee-kang-in",
+    "name": "Lee Kang-in"
+  },
+  {
+    "id": "jogador:gregor-kobel",
+    "name": "Gregor Kobel"
+  },
+  {
+    "id": "jogador:mats-hummels",
+    "name": "Mats Hummels"
+  },
+  {
+    "id": "jogador:nico-schlotterbeck",
+    "name": "Nico Schlotterbeck"
+  },
+  {
+    "id": "jogador:ian-maatsen",
+    "name": "Ian Maatsen"
+  },
+  {
+    "id": "jogador:julian-ryerson",
+    "name": "Julian Ryerson"
+  },
+  {
+    "id": "jogador:marcel-sabitzer",
+    "name": "Marcel Sabitzer"
+  },
+  {
+    "id": "jogador:emre-can",
+    "name": "Emre Can"
+  },
+  {
+    "id": "jogador:julian-brandt",
+    "name": "Julian Brandt"
+  },
+  {
+    "id": "jogador:jadon-sancho",
+    "name": "Jadon Sancho"
+  },
+  {
+    "id": "jogador:karim-adeyemi",
+    "name": "Karim Adeyemi"
+  },
+  {
+    "id": "jogador:marco-reus",
+    "name": "Marco Reus"
+  },
+  {
+    "id": "jogador:niclas-fullkrug",
+    "name": "Niclas Füllkrug"
+  },
+  {
+    "id": "jogador:donyell-malen",
+    "name": "Donyell Malen"
+  },
+  {
+    "id": "jogador:sebastien-haller",
+    "name": "Sébastien Haller"
+  },
+  {
+    "id": "jogador:felix-nmecha",
+    "name": "Felix Nmecha"
+  },
+  {
+    "id": "jogador:david-raya",
+    "name": "David Raya"
+  },
+  {
+    "id": "jogador:william-saliba",
+    "name": "William Saliba"
+  },
+  {
+    "id": "jogador:gabriel-magalhaes",
+    "name": "Gabriel Magalhães"
+  },
+  {
+    "id": "jogador:ben-white",
+    "name": "Ben White"
+  },
+  {
+    "id": "jogador:oleksandr-zinchenko",
+    "name": "Oleksandr Zinchenko"
+  },
+  {
+    "id": "jogador:takehiro-tomiyasu",
+    "name": "Takehiro Tomiyasu"
+  },
+  {
+    "id": "jogador:declan-rice",
+    "name": "Declan Rice"
+  },
+  {
+    "id": "jogador:martin-odegaard",
+    "name": "Martin Ødegaard"
+  },
+  {
+    "id": "jogador:kai-havertz",
+    "name": "Kai Havertz"
+  },
+  {
+    "id": "jogador:bukayo-saka",
+    "name": "Bukayo Saka"
+  },
+  {
+    "id": "jogador:gabriel-martinelli",
+    "name": "Gabriel Martinelli"
+  },
+  {
+    "id": "jogador:leandro-trossard",
+    "name": "Leandro Trossard"
+  },
+  {
+    "id": "jogador:jorginho",
+    "name": "Jorginho"
+  },
+  {
+    "id": "jogador:gabriel-jesus",
+    "name": "Gabriel Jesus"
+  },
+  {
+    "id": "jogador:jakub-kiwior",
+    "name": "Jakub Kiwior"
+  },
+  {
+    "id": "jogador:jan-oblak",
+    "name": "Jan Oblak"
+  },
+  {
+    "id": "jogador:jose-gimenez",
+    "name": "José Giménez"
+  },
+  {
+    "id": "jogador:stefan-savic",
+    "name": "Stefan Savić"
+  },
+  {
+    "id": "jogador:reinildo",
+    "name": "Reinildo"
+  },
+  {
+    "id": "jogador:nahuel-molina",
+    "name": "Nahuel Molina"
+  },
+  {
+    "id": "jogador:mario-hermoso",
+    "name": "Mario Hermoso"
+  },
+  {
+    "id": "jogador:koke",
+    "name": "Koke"
+  },
+  {
+    "id": "jogador:rodrigo-de-paul",
+    "name": "Rodrigo De Paul"
+  },
+  {
+    "id": "jogador:marcos-llorente",
+    "name": "Marcos Llorente"
+  },
+  {
+    "id": "jogador:saul-niguez",
+    "name": "Saúl Ñíguez"
+  },
+  {
+    "id": "jogador:antoine-griezmann",
+    "name": "Antoine Griezmann"
+  },
+  {
+    "id": "jogador:alvaro-morata",
+    "name": "Álvaro Morata"
+  },
+  {
+    "id": "jogador:memphis-depay",
+    "name": "Memphis Depay"
+  },
+  {
+    "id": "jogador:angel-correa",
+    "name": "Ángel Correa"
+  },
+  {
+    "id": "jogador:samuel-lino",
+    "name": "Samuel Lino"
+  },
+  {
+    "id": "jogador:alex-meret",
+    "name": "Alex Meret"
+  },
+  {
+    "id": "jogador:amir-rrahmani",
+    "name": "Amir Rrahmani"
+  },
+  {
+    "id": "jogador:min-jae-kim-napoli",
+    "name": "Kim Min-jae"
+  },
+  {
+    "id": "jogador:giovanni-di-lorenzo",
+    "name": "Giovanni Di Lorenzo"
+  },
+  {
+    "id": "jogador:mario-rui",
+    "name": "Mário Rui"
+  },
+  {
+    "id": "jogador:juan-jesus",
+    "name": "Juan Jesus"
+  },
+  {
+    "id": "jogador:andre-zambo-anguissa",
+    "name": "André-Frank Zambo Anguissa"
+  },
+  {
+    "id": "jogador:stanislav-lobotka",
+    "name": "Stanislav Lobotka"
+  },
+  {
+    "id": "jogador:piotr-zielinski",
+    "name": "Piotr Zieliński"
+  },
+  {
+    "id": "jogador:matteo-politano",
+    "name": "Matteo Politano"
+  },
+  {
+    "id": "jogador:khvicha-kvaratskhelia",
+    "name": "Khvicha Kvaratskhelia"
+  },
+  {
+    "id": "jogador:victor-osimhen",
+    "name": "Victor Osimhen"
+  },
+  {
+    "id": "jogador:giacomo-raspadori",
+    "name": "Giacomo Raspadori"
+  },
+  {
+    "id": "jogador:eljif-elmas",
+    "name": "Eljif Elmas"
+  },
+  {
+    "id": "jogador:jesper-lindstrom",
+    "name": "Jesper Lindstrøm"
+  },
+  {
+    "id": "jogador:alisson-becker",
+    "name": "Alisson Becker"
+  },
+  {
+    "id": "jogador:virgil-van-dijk",
+    "name": "Virgil van Dijk"
+  },
+  {
+    "id": "jogador:ibrahima-konate",
+    "name": "Ibrahima Konaté"
+  },
+  {
+    "id": "jogador:joe-gomez",
+    "name": "Joe Gomez"
+  },
+  {
+    "id": "jogador:trent-alexander-arnold",
+    "name": "Trent Alexander-Arnold"
+  },
+  {
+    "id": "jogador:andrew-robertson",
+    "name": "Andrew Robertson"
+  },
+  {
+    "id": "jogador:alexis-mac-allister",
+    "name": "Alexis Mac Allister"
+  },
+  {
+    "id": "jogador:dominik-szoboszlai",
+    "name": "Dominik Szoboszlai"
+  },
+  {
+    "id": "jogador:wataru-endo",
+    "name": "Wataru Endo"
+  },
+  {
+    "id": "jogador:ryan-gravenberch",
+    "name": "Ryan Gravenberch"
+  },
+  {
+    "id": "jogador:mohamed-salah",
+    "name": "Mohamed Salah"
+  },
+  {
+    "id": "jogador:luis-diaz",
+    "name": "Luis Díaz"
+  },
+  {
+    "id": "jogador:cody-gakpo",
+    "name": "Cody Gakpo"
+  },
+  {
+    "id": "jogador:darwin-nunez",
+    "name": "Darwin Núñez"
+  },
+  {
+    "id": "jogador:diogo-jota",
+    "name": "Diogo Jota"
+  },
+  {
+    "id": "jogador:diogo-costa",
+    "name": "Diogo Costa"
+  },
+  {
+    "id": "jogador:pepe",
+    "name": "Pepe"
+  },
+  {
+    "id": "jogador:david-carmo",
+    "name": "David Carmo"
+  },
+  {
+    "id": "jogador:chancel-mbemba",
+    "name": "Chancel Mbemba"
+  },
+  {
+    "id": "jogador:joao-mario-porto",
+    "name": "João Mário"
+  },
+  {
+    "id": "jogador:zaidu-sanusi",
+    "name": "Zaidu Sanusi"
+  },
+  {
+    "id": "jogador:alan-varela",
+    "name": "Alan Varela"
+  },
+  {
+    "id": "jogador:otavio",
+    "name": "Otávio"
+  },
+  {
+    "id": "jogador:stephen-eustaquio",
+    "name": "Stephen Eustáquio"
+  },
+  {
+    "id": "jogador:galeno",
+    "name": "Galeno"
+  },
+  {
+    "id": "jogador:mehdi-taremi",
+    "name": "Mehdi Taremi"
+  },
+  {
+    "id": "jogador:evanilson",
+    "name": "Evanilson"
+  },
+  {
+    "id": "jogador:pepe-porto",
+    "name": "Pepê"
+  },
+  {
+    "id": "jogador:francisco-conceicao",
+    "name": "Francisco Conceição"
+  },
+  {
+    "id": "jogador:mike-maignan",
+    "name": "Mike Maignan"
+  },
+  {
+    "id": "jogador:fikayo-tomori",
+    "name": "Fikayo Tomori"
+  },
+  {
+    "id": "jogador:malick-thiaw",
+    "name": "Malick Thiaw"
+  },
+  {
+    "id": "jogador:theo-hernandez",
+    "name": "Theo Hernández"
+  },
+  {
+    "id": "jogador:davide-calabria",
+    "name": "Davide Calabria"
+  },
+  {
+    "id": "jogador:tijjani-reijnders",
+    "name": "Tijjani Reijnders"
+  },
+  {
+    "id": "jogador:ismael-bennacer",
+    "name": "Ismaël Bennacer"
+  },
+  {
+    "id": "jogador:ruben-loftus-cheek",
+    "name": "Ruben Loftus-Cheek"
+  },
+  {
+    "id": "jogador:christian-pulisic",
+    "name": "Christian Pulisic"
+  },
+  {
+    "id": "jogador:rafael-leao",
+    "name": "Rafael Leão"
+  },
+  {
+    "id": "jogador:samuel-chukwueze",
+    "name": "Samuel Chukwueze"
+  },
+  {
+    "id": "jogador:olivier-giroud",
+    "name": "Olivier Giroud"
+  },
+  {
+    "id": "jogador:noah-okafor",
+    "name": "Noah Okafor"
+  },
+  {
+    "id": "jogador:yunus-musah",
+    "name": "Yunus Musah"
+  },
+  {
+    "id": "jogador:andre-onana",
+    "name": "André Onana"
+  },
+  {
+    "id": "jogador:raphael-varane",
+    "name": "Raphaël Varane"
+  },
+  {
+    "id": "jogador:lisandro-martinez",
+    "name": "Lisandro Martínez"
+  },
+  {
+    "id": "jogador:luke-shaw",
+    "name": "Luke Shaw"
+  },
+  {
+    "id": "jogador:diogo-dalot",
+    "name": "Diogo Dalot"
+  },
+  {
+    "id": "jogador:harry-maguire",
+    "name": "Harry Maguire"
+  },
+  {
+    "id": "jogador:casemiro",
+    "name": "Casemiro"
+  },
+  {
+    "id": "jogador:kobbie-mainoo",
+    "name": "Kobbie Mainoo"
+  },
+  {
+    "id": "jogador:bruno-fernandes",
+    "name": "Bruno Fernandes"
+  },
+  {
+    "id": "jogador:mason-mount",
+    "name": "Mason Mount"
+  },
+  {
+    "id": "jogador:marcus-rashford",
+    "name": "Marcus Rashford"
+  },
+  {
+    "id": "jogador:alejandro-garnacho",
+    "name": "Alejandro Garnacho"
+  },
+  {
+    "id": "jogador:rasmus-hojlund",
+    "name": "Rasmus Højlund"
+  },
+  {
+    "id": "jogador:antony",
+    "name": "Antony"
+  },
+  {
+    "id": "jogador:wojciech-szczesny",
+    "name": "Wojciech Szczęsny"
+  },
+  {
+    "id": "jogador:gleison-bremer",
+    "name": "Gleison Bremer"
+  },
+  {
+    "id": "jogador:federico-gatti",
+    "name": "Federico Gatti"
+  },
+  {
+    "id": "jogador:danilo",
+    "name": "Danilo"
+  },
+  {
+    "id": "jogador:alex-sandro",
+    "name": "Alex Sandro"
+  },
+  {
+    "id": "jogador:andrea-cambiaso",
+    "name": "Andrea Cambiaso"
+  },
+  {
+    "id": "jogador:adrien-rabiot",
+    "name": "Adrien Rabiot"
+  },
+  {
+    "id": "jogador:manuel-locatelli",
+    "name": "Manuel Locatelli"
+  },
+  {
+    "id": "jogador:weston-mckennie",
+    "name": "Weston McKennie"
+  },
+  {
+    "id": "jogador:filip-kostic",
+    "name": "Filip Kostić"
+  },
+  {
+    "id": "jogador:federico-chiesa",
+    "name": "Federico Chiesa"
+  },
+  {
+    "id": "jogador:dusan-vlahovic",
+    "name": "Dušan Vlahović"
+  },
+  {
+    "id": "jogador:diant-ramaj",
+    "name": "Diant Ramaj"
+  },
+  {
+    "id": "jogador:josip-sutalo",
+    "name": "Josip Šutalo"
+  },
+  {
+    "id": "jogador:devyne-rensch",
+    "name": "Devyne Rensch"
+  },
+  {
+    "id": "jogador:jorrel-hato",
+    "name": "Jorrel Hato"
+  },
+  {
+    "id": "jogador:steven-bergwijn",
+    "name": "Steven Bergwijn"
+  },
+  {
+    "id": "jogador:kenneth-taylor",
+    "name": "Kenneth Taylor"
+  },
+  {
+    "id": "jogador:steven-berghuis",
+    "name": "Steven Berghuis"
+  },
+  {
+    "id": "jogador:mohammed-kudus",
+    "name": "Mohammed Kudus"
+  },
+  {
+    "id": "jogador:brian-brobbey",
+    "name": "Brian Brobbey"
+  },
+  {
+    "id": "jogador:carlos-forbs",
+    "name": "Carlos Forbs"
+  },
+  {
+    "id": "jogador:anatoliy-trubin",
+    "name": "Anatoliy Trubin"
+  },
+  {
+    "id": "jogador:antonio-silva",
+    "name": "António Silva"
+  },
+  {
+    "id": "jogador:nicolas-otamendi",
+    "name": "Nicolás Otamendi"
+  },
+  {
+    "id": "jogador:alexander-bah",
+    "name": "Alexander Bah"
+  },
+  {
+    "id": "jogador:alvaro-carreras",
+    "name": "Álvaro Carreras"
+  },
+  {
+    "id": "jogador:joao-neves",
+    "name": "João Neves"
+  },
+  {
+    "id": "jogador:florentino-luis",
+    "name": "Florentino Luís"
+  },
+  {
+    "id": "jogador:rafa-silva",
+    "name": "Rafa Silva"
+  },
+  {
+    "id": "jogador:angel-di-maria",
+    "name": "Ángel Di María"
+  },
+  {
+    "id": "jogador:joao-mario-benfica",
+    "name": "João Mário"
+  },
+  {
+    "id": "jogador:petar-musa",
+    "name": "Petar Musa"
+  },
+  {
+    "id": "jogador:peter-gulacsi",
+    "name": "Péter Gulácsi"
+  },
+  {
+    "id": "jogador:willi-orban",
+    "name": "Willi Orbán"
+  },
+  {
+    "id": "jogador:castello-lukeba",
+    "name": "Castello Lukeba"
+  },
+  {
+    "id": "jogador:benjamin-henrichs",
+    "name": "Benjamin Henrichs"
+  },
+  {
+    "id": "jogador:david-raum",
+    "name": "David Raum"
+  },
+  {
+    "id": "jogador:xavi-simons",
+    "name": "Xavi Simons"
+  },
+  {
+    "id": "jogador:dani-olmo",
+    "name": "Dani Olmo"
+  },
+  {
+    "id": "jogador:amadou-haidara",
+    "name": "Amadou Haidara"
+  },
+  {
+    "id": "jogador:kevin-kampl",
+    "name": "Kevin Kampl"
+  },
+  {
+    "id": "jogador:lois-openda",
+    "name": "Loïs Openda"
+  },
+  {
+    "id": "jogador:walter-benitez",
+    "name": "Walter Benítez"
+  },
+  {
+    "id": "jogador:jordan-teze",
+    "name": "Jordan Teze"
+  },
+  {
+    "id": "jogador:andre-ramalho",
+    "name": "André Ramalho"
+  },
+  {
+    "id": "jogador:olivier-boscagli",
+    "name": "Olivier Boscagli"
+  },
+  {
+    "id": "jogador:lutsharel-geertruida",
+    "name": "Lutsharel Geertruida"
+  },
+  {
+    "id": "jogador:joey-veerman",
+    "name": "Joey Veerman"
+  },
+  {
+    "id": "jogador:jerdy-schouten",
+    "name": "Jerdy Schouten"
+  },
+  {
+    "id": "jogador:ibrahim-sangare",
+    "name": "Ibrahim Sangaré"
+  },
+  {
+    "id": "jogador:hirving-lozano",
+    "name": "Hirving Lozano"
+  },
+  {
+    "id": "jogador:johan-bakayoko",
+    "name": "Johan Bakayoko"
+  },
+  {
+    "id": "jogador:luuk-de-jong",
+    "name": "Luuk de Jong"
+  },
+  {
+    "id": "jogador:ivan-provedel",
+    "name": "Ivan Provedel"
+  },
+  {
+    "id": "jogador:alessio-romagnoli",
+    "name": "Alessio Romagnoli"
+  },
+  {
+    "id": "jogador:patric",
+    "name": "Patric"
+  },
+  {
+    "id": "jogador:adam-marusic",
+    "name": "Adam Marušić"
+  },
+  {
+    "id": "jogador:mattia-zaccagni",
+    "name": "Mattia Zaccagni"
+  },
+  {
+    "id": "jogador:sergej-milinkovic-savic",
+    "name": "Sergej Milinković-Savić"
+  },
+  {
+    "id": "jogador:luis-alberto",
+    "name": "Luis Alberto"
+  },
+  {
+    "id": "jogador:daichi-kamada",
+    "name": "Daichi Kamada"
+  },
+  {
+    "id": "jogador:felipe-anderson",
+    "name": "Felipe Anderson"
+  },
+  {
+    "id": "jogador:ciro-immobile",
+    "name": "Ciro Immobile"
+  },
+  {
+    "id": "jogador:alex-remiro",
+    "name": "Álex Remiro"
+  },
+  {
+    "id": "jogador:robin-le-normand",
+    "name": "Robin Le Normand"
+  },
+  {
+    "id": "jogador:igor-zubeldia",
+    "name": "Igor Zubeldia"
+  },
+  {
+    "id": "jogador:aritz-elustondo",
+    "name": "Aritz Elustondo"
+  },
+  {
+    "id": "jogador:mikel-oyarzabal",
+    "name": "Mikel Oyarzabal"
+  },
+  {
+    "id": "jogador:martin-zubimendi",
+    "name": "Martín Zubimendi"
+  },
+  {
+    "id": "jogador:mikel-merino",
+    "name": "Mikel Merino"
+  },
+  {
+    "id": "jogador:brais-mendez",
+    "name": "Brais Méndez"
+  },
+  {
+    "id": "jogador:takefusa-kubo",
+    "name": "Takefusa Kubo"
+  },
+  {
+    "id": "jogador:alexander-sorloth",
+    "name": "Alexander Sørloth"
+  },
+  {
+    "id": "jogador:kamil-grabara",
+    "name": "Kamil Grabara"
+  },
+  {
+    "id": "jogador:denis-vavro",
+    "name": "Denis Vavro"
+  },
+  {
+    "id": "jogador:davit-khocholava",
+    "name": "Davit Khocholava"
+  },
+  {
+    "id": "jogador:victor-kristiansen",
+    "name": "Victor Kristiansen"
+  },
+  {
+    "id": "jogador:elias-jelert",
+    "name": "Elias Jelert"
+  },
+  {
+    "id": "jogador:lukas-lerager",
+    "name": "Lukas Lerager"
+  },
+  {
+    "id": "jogador:oscar-hojlund",
+    "name": "Oscar Højlund"
+  },
+  {
+    "id": "jogador:roony-bardghji",
+    "name": "Roony Bardghji"
+  },
+  {
+    "id": "jogador:mohamed-daramy",
+    "name": "Mohamed Daramy"
+  },
+  {
+    "id": "jogador:orri-oskarsson",
+    "name": "Orri Óskarsson"
+  },
+  {
+    "id": "jogador:nick-pope",
+    "name": "Nick Pope"
+  },
+  {
+    "id": "jogador:kieran-trippier",
+    "name": "Kieran Trippier"
+  },
+  {
+    "id": "jogador:sven-botman",
+    "name": "Sven Botman"
+  },
+  {
+    "id": "jogador:fabian-schar",
+    "name": "Fabian Schär"
+  },
+  {
+    "id": "jogador:dan-burn",
+    "name": "Dan Burn"
+  },
+  {
+    "id": "jogador:bruno-guimaraes",
+    "name": "Bruno Guimarães"
+  },
+  {
+    "id": "jogador:joelinton",
+    "name": "Joelinton"
+  },
+  {
+    "id": "jogador:sean-longstaff",
+    "name": "Sean Longstaff"
+  },
+  {
+    "id": "jogador:anthony-gordon",
+    "name": "Anthony Gordon"
+  },
+  {
+    "id": "jogador:alexander-isak",
+    "name": "Alexander Isak"
+  },
+  {
+    "id": "jogador:yassine-bounou",
+    "name": "Yassine Bounou"
+  },
+  {
+    "id": "jogador:loic-bade",
+    "name": "Loïc Badé"
+  },
+  {
+    "id": "jogador:sergio-ramos",
+    "name": "Sergio Ramos"
+  },
+  {
+    "id": "jogador:jesus-navas",
+    "name": "Jesús Navas"
+  },
+  {
+    "id": "jogador:marcos-acuna",
+    "name": "Marcos Acuña"
+  },
+  {
+    "id": "jogador:ivan-rakitic",
+    "name": "Ivan Rakitić"
+  },
+  {
+    "id": "jogador:lucas-ocampos",
+    "name": "Lucas Ocampos"
+  },
+  {
+    "id": "jogador:youssef-en-nesyri",
+    "name": "Youssef En-Nesyri"
+  },
+  {
+    "id": "jogador:fernando-muslera",
+    "name": "Fernando Muslera"
+  },
+  {
+    "id": "jogador:davinson-sanchez",
+    "name": "Davinson Sánchez"
+  },
+  {
+    "id": "jogador:victor-nelsson",
+    "name": "Victor Nelsson"
+  },
+  {
+    "id": "jogador:sacha-boey",
+    "name": "Sacha Boey"
+  },
+  {
+    "id": "jogador:angelino",
+    "name": "Angeliño"
+  },
+  {
+    "id": "jogador:lucas-torreira",
+    "name": "Lucas Torreira"
+  },
+  {
+    "id": "jogador:kerem-akturkoglu",
+    "name": "Kerem Aktürkoğlu"
+  },
+  {
+    "id": "jogador:hakim-ziyech",
+    "name": "Hakim Ziyech"
+  },
+  {
+    "id": "jogador:wilfried-zaha",
+    "name": "Wilfried Zaha"
+  },
+  {
+    "id": "jogador:mauro-icardi",
+    "name": "Mauro Icardi"
+  },
+  {
+    "id": "jogador:joe-hart",
+    "name": "Joe Hart"
+  },
+  {
+    "id": "jogador:cameron-carter-vickers",
+    "name": "Cameron Carter-Vickers"
+  },
+  {
+    "id": "jogador:gustaf-lagerbielke",
+    "name": "Gustaf Lagerbielke"
+  },
+  {
+    "id": "jogador:alistair-johnston",
+    "name": "Alistair Johnston"
+  },
+  {
+    "id": "jogador:greg-taylor",
+    "name": "Greg Taylor"
+  },
+  {
+    "id": "jogador:callum-mcgregor",
+    "name": "Callum McGregor"
+  },
+  {
+    "id": "jogador:reo-hatate",
+    "name": "Reo Hatate"
+  },
+  {
+    "id": "jogador:matt-oreilly",
+    "name": "Matt O'Riley"
+  },
+  {
+    "id": "jogador:daizen-maeda",
+    "name": "Daizen Maeda"
+  },
+  {
+    "id": "jogador:kyogo-furuhashi",
+    "name": "Kyogo Furuhashi"
+  },
+  {
+    "id": "jogador:justin-bijlow",
+    "name": "Justin Bijlow"
+  },
+  {
+    "id": "jogador:gernot-trauner",
+    "name": "Gernot Trauner"
+  },
+  {
+    "id": "jogador:lutsharel-geertruida-fey",
+    "name": "Lutsharel Geertruida"
+  },
+  {
+    "id": "jogador:quilindschy-hartman",
+    "name": "Quilindschy Hartman"
+  },
+  {
+    "id": "jogador:mats-wieffer",
+    "name": "Mats Wieffer"
+  },
+  {
+    "id": "jogador:quinten-timber",
+    "name": "Quinten Timber"
+  },
+  {
+    "id": "jogador:sebastian-szymanski",
+    "name": "Sebastian Szymański"
+  },
+  {
+    "id": "jogador:igor-paixao",
+    "name": "Igor Paixão"
+  },
+  {
+    "id": "jogador:santiago-gimenez",
+    "name": "Santiago Giménez"
+  },
+  {
+    "id": "jogador:matheus-braga",
+    "name": "Matheus"
+  },
+  {
+    "id": "jogador:niakate",
+    "name": "Sikou Niakaté"
+  },
+  {
+    "id": "jogador:rodrigo-gomes",
+    "name": "Rodrigo Gomes"
+  },
+  {
+    "id": "jogador:ricardo-horta",
+    "name": "Ricardo Horta"
+  },
+  {
+    "id": "jogador:simon-banza",
+    "name": "Simon Banza"
+  },
+  {
+    "id": "jogador:andre-castro",
+    "name": "André Castro"
+  },
+  {
+    "id": "jogador:bruma",
+    "name": "Bruma"
+  },
+  {
+    "id": "jogador:alvaro-djalo",
+    "name": "Álvaro Djaló"
+  },
+  {
+    "id": "jogador:janis-blaswich",
+    "name": "Janis Blaswich"
+  },
+  {
+    "id": "jogador:strahinja-pavlovic",
+    "name": "Strahinja Pavlović"
+  },
+  {
+    "id": "jogador:amar-dedic",
+    "name": "Amar Dedić"
+  },
+  {
+    "id": "jogador:oscar-gloukh",
+    "name": "Oscar Gloukh"
+  },
+  {
+    "id": "jogador:lucas-gourna-douath",
+    "name": "Lucas Gourna-Douath"
+  },
+  {
+    "id": "jogador:luka-sucic",
+    "name": "Luka Sučić"
+  },
+  {
+    "id": "jogador:adam-daghim",
+    "name": "Adam Daghim"
+  },
+  {
+    "id": "jogador:karim-konate",
+    "name": "Karim Konaté"
+  },
+  {
+    "id": "jogador:frederik-ronnow",
+    "name": "Frederik Rønnow"
+  },
+  {
+    "id": "jogador:robin-knoche",
+    "name": "Robin Knoche"
+  },
+  {
+    "id": "jogador:danilho-doekhi",
+    "name": "Danilho Doekhi"
+  },
+  {
+    "id": "jogador:christopher-trimmel",
+    "name": "Christopher Trimmel"
+  },
+  {
+    "id": "jogador:rani-khedira",
+    "name": "Rani Khedira"
+  },
+  {
+    "id": "jogador:robin-gosens",
+    "name": "Robin Gosens"
+  },
+  {
+    "id": "jogador:kevin-volland",
+    "name": "Kevin Volland"
+  },
+  {
+    "id": "jogador:sheraldo-becker",
+    "name": "Sheraldo Becker"
+  },
+  {
+    "id": "jogador:brice-samba",
+    "name": "Brice Samba"
+  },
+  {
+    "id": "jogador:kevin-danso",
+    "name": "Kevin Danso"
+  },
+  {
+    "id": "jogador:facundo-medina",
+    "name": "Facundo Medina"
+  },
+  {
+    "id": "jogador:jonathan-clauss",
+    "name": "Jonathan Clauss"
+  },
+  {
+    "id": "jogador:abdukodir-khusanov",
+    "name": "Abdukodir Khusanov"
+  },
+  {
+    "id": "jogador:seko-fofana",
+    "name": "Séko Fofana"
+  },
+  {
+    "id": "jogador:andy-diouf",
+    "name": "Andy Diouf"
+  },
+  {
+    "id": "jogador:florian-sotoca",
+    "name": "Florian Sotoca"
+  },
+  {
+    "id": "jogador:elye-wahi",
+    "name": "Élye Wahi"
+  },
+  {
+    "id": "jogador:david-von-ballmoos",
+    "name": "David von Ballmoos"
+  },
+  {
+    "id": "jogador:loris-benito",
+    "name": "Loris Benito"
+  },
+  {
+    "id": "jogador:mohamed-camara-yb",
+    "name": "Mohamed Ali Camara"
+  },
+  {
+    "id": "jogador:ulisses-garcia",
+    "name": "Ulisses Garcia"
+  },
+  {
+    "id": "jogador:sandro-lauper",
+    "name": "Sandro Lauper"
+  },
+  {
+    "id": "jogador:filip-ugrinic",
+    "name": "Filip Ugrinić"
+  },
+  {
+    "id": "jogador:joel-monteiro",
+    "name": "Joël Monteiro"
+  },
+  {
+    "id": "jogador:cedric-itten",
+    "name": "Cedric Itten"
+  },
+  {
+    "id": "jogador:omri-glazer",
+    "name": "Omri Glazer"
+  },
+  {
+    "id": "jogador:uros-spajic",
+    "name": "Uroš Spajić"
+  },
+  {
+    "id": "jogador:milan-rodic",
+    "name": "Milan Rodić"
+  },
+  {
+    "id": "jogador:guelor-kanga",
+    "name": "Guélor Kanga"
+  },
+  {
+    "id": "jogador:mirko-ivanic",
+    "name": "Mirko Ivanić"
+  },
+  {
+    "id": "jogador:osman-bukari",
+    "name": "Osman Bukari"
+  },
+  {
+    "id": "jogador:aleksandar-katai",
+    "name": "Aleksandar Katai"
+  },
+  {
+    "id": "jogador:cherif-ndiaye",
+    "name": "Cherif Ndiaye"
+  },
+  {
+    "id": "jogador:jean-butez",
+    "name": "Jean Butez"
+  },
+  {
+    "id": "jogador:toby-alderweireld",
+    "name": "Toby Alderweireld"
+  },
+  {
+    "id": "jogador:zeno-debast",
+    "name": "Zeno Debast"
+  },
+  {
+    "id": "jogador:arthur-vermeeren",
+    "name": "Arthur Vermeeren"
+  },
+  {
+    "id": "jogador:vincent-janssen",
+    "name": "Vincent Janssen"
+  },
+  {
+    "id": "jogador:mandela-keita",
+    "name": "Mandela Keita"
+  },
+  {
+    "id": "jogador:gyrano-kerk",
+    "name": "Gyrano Kerk"
+  },
+  {
+    "id": "jogador:michel-ange-balikwisha",
+    "name": "Michel-Ange Balikwisha"
+  },
+  {
+    "id": "jogador:anatoliy-trubin-shk",
+    "name": "Dmytro Riznyk"
+  },
+  {
+    "id": "jogador:mykola-matviyenko",
+    "name": "Mykola Matviyenko"
+  },
+  {
+    "id": "jogador:valeriy-bondar",
+    "name": "Valeriy Bondar"
+  },
+  {
+    "id": "jogador:yukhym-konoplya",
+    "name": "Yukhym Konoplya"
+  },
+  {
+    "id": "jogador:taras-stepanenko",
+    "name": "Taras Stepanenko"
+  },
+  {
+    "id": "jogador:georgiy-sudakov",
+    "name": "Georgiy Sudakov"
+  },
+  {
+    "id": "jogador:marian-shved",
+    "name": "Marian Shved"
+  },
+  {
+    "id": "jogador:danylo-sikan",
+    "name": "Danylo Sikan"
+  },
+  {
+    "id": "jogador:eguinaldo",
+    "name": "Eguinaldo"
+  },
+  {
+    "id": "jogador:scott-carson",
+    "name": "Scott Carson"
+  },
+  {
+    "id": "jogador:sergio-gomez",
+    "name": "Sergio Gomez"
+  },
+  {
+    "id": "jogador:inaki-pena",
+    "name": "Inaki Pena"
+  },
+  {
+    "id": "jogador:inigo-martinez",
+    "name": "Inigo Martinez"
+  },
+  {
+    "id": "jogador:eric-garcia",
+    "name": "Eric Garcia"
+  },
+  {
+    "id": "jogador:marcos-alonso",
+    "name": "Marcos Alonso"
+  },
+  {
+    "id": "jogador:sergi-roberto",
+    "name": "Sergi Roberto"
+  },
+  {
+    "id": "jogador:oriol-romeu",
+    "name": "Oriol Romeu"
+  },
+  {
+    "id": "jogador:vitor-roque",
+    "name": "Vitor Roque"
+  },
+  {
+    "id": "jogador:ansu-fati",
+    "name": "Ansu Fati"
+  },
+  {
+    "id": "jogador:sven-ulreich",
+    "name": "Sven Ulreich"
+  },
+  {
+    "id": "jogador:eric-dier",
+    "name": "Eric Dier"
+  },
+  {
+    "id": "jogador:noussair-mazraoui",
+    "name": "Noussair Mazraoui"
+  },
+  {
+    "id": "jogador:sacha-boey-bay",
+    "name": "Sacha Boey"
+  },
+  {
+    "id": "jogador:aleksandar-pavlovic",
+    "name": "Aleksandar Pavlovic"
+  },
+  {
+    "id": "jogador:ryan-gravenberch-bay",
+    "name": "Ryan Gravenberch"
+  },
+  {
+    "id": "jogador:mathys-tel",
+    "name": "Mathys Tel"
+  },
+  {
+    "id": "jogador:bryan-zaragoza",
+    "name": "Bryan Zaragoza"
+  },
+  {
+    "id": "jogador:emil-audero",
+    "name": "Emil Audero"
+  },
+  {
+    "id": "jogador:carlos-augusto",
+    "name": "Carlos Augusto"
+  },
+  {
+    "id": "jogador:yann-bisseck",
+    "name": "Yann Bisseck"
+  },
+  {
+    "id": "jogador:tajon-buchanan",
+    "name": "Tajon Buchanan"
+  },
+  {
+    "id": "jogador:kristjan-asllani",
+    "name": "Kristjan Asllani"
+  },
+  {
+    "id": "jogador:juan-cuadrado",
+    "name": "Juan Cuadrado"
+  },
+  {
+    "id": "jogador:alexis-sanchez",
+    "name": "Alexis Sanchez"
+  },
+  {
+    "id": "jogador:davy-klaassen",
+    "name": "Davy Klaassen"
+  },
+  {
+    "id": "jogador:keylor-navas",
+    "name": "Keylor Navas"
+  },
+  {
+    "id": "jogador:presnel-kimpembe",
+    "name": "Presnel Kimpembe"
+  },
+  {
+    "id": "jogador:nordi-mukiele",
+    "name": "Nordi Mukiele"
+  },
+  {
+    "id": "jogador:danilo-pereira",
+    "name": "Danilo Pereira"
+  },
+  {
+    "id": "jogador:manuel-ugarte",
+    "name": "Manuel Ugarte"
+  },
+  {
+    "id": "jogador:carlos-soler",
+    "name": "Carlos Soler"
+  },
+  {
+    "id": "jogador:hugo-ekitike",
+    "name": "Hugo Ekitike"
+  },
+  {
+    "id": "jogador:marco-asensio",
+    "name": "Marco Asensio"
+  },
+  {
+    "id": "jogador:alexander-meyer",
+    "name": "Alexander Meyer"
+  },
+  {
+    "id": "jogador:marius-wolf",
+    "name": "Marius Wolf"
+  },
+  {
+    "id": "jogador:ramy-bensebaini",
+    "name": "Ramy Bensebaini"
+  },
+  {
+    "id": "jogador:niklas-sule",
+    "name": "Niklas Sule"
+  },
+  {
+    "id": "jogador:salih-ozcan",
+    "name": "Salih Ozcan"
+  },
+  {
+    "id": "jogador:giovanni-reyna",
+    "name": "Giovanni Reyna"
+  },
+  {
+    "id": "jogador:youssoufa-moukoko",
+    "name": "Youssoufa Moukoko"
+  },
+  {
+    "id": "jogador:jamie-bynoe-gittens",
+    "name": "Jamie Bynoe-Gittens"
+  },
+  {
+    "id": "jogador:aaron-ramsdale",
+    "name": "Aaron Ramsdale"
+  },
+  {
+    "id": "jogador:jurrien-timber",
+    "name": "Jurrien Timber"
+  },
+  {
+    "id": "jogador:kieran-tierney",
+    "name": "Kieran Tierney"
+  },
+  {
+    "id": "jogador:thomas-partey",
+    "name": "Thomas Partey"
+  },
+  {
+    "id": "jogador:fabio-vieira",
+    "name": "Fabio Vieira"
+  },
+  {
+    "id": "jogador:emile-smith-rowe",
+    "name": "Emile Smith Rowe"
+  },
+  {
+    "id": "jogador:eddie-nketiah",
+    "name": "Eddie Nketiah"
+  },
+  {
+    "id": "jogador:reiss-nelson",
+    "name": "Reiss Nelson"
+  },
+  {
+    "id": "jogador:ivo-grbic",
+    "name": "Ivo Grbic"
+  },
+  {
+    "id": "jogador:axel-witsel",
+    "name": "Axel Witsel"
+  },
+  {
+    "id": "jogador:cesar-azpilicueta",
+    "name": "Cesar Azpilicueta"
+  },
+  {
+    "id": "jogador:javi-galan",
+    "name": "Javi Galan"
+  },
+  {
+    "id": "jogador:pablo-barrios",
+    "name": "Pablo Barrios"
+  },
+  {
+    "id": "jogador:thomas-lemar",
+    "name": "Thomas Lemar"
+  },
+  {
+    "id": "jogador:rodrigo-riquelme",
+    "name": "Rodrigo Riquelme"
+  },
+  {
+    "id": "jogador:samuel-lino-atl",
+    "name": "Samuel Lino"
+  },
+  {
+    "id": "jogador:pierluigi-gollini",
+    "name": "Pierluigi Gollini"
+  },
+  {
+    "id": "jogador:natan",
+    "name": "Natan"
+  },
+  {
+    "id": "jogador:leo-ostigard",
+    "name": "Leo Ostigard"
+  },
+  {
+    "id": "jogador:mathias-olivera",
+    "name": "Mathias Olivera"
+  },
+  {
+    "id": "jogador:pasquale-mazzocchi",
+    "name": "Pasquale Mazzocchi"
+  },
+  {
+    "id": "jogador:gianluca-gaetano",
+    "name": "Gianluca Gaetano"
+  },
+  {
+    "id": "jogador:jens-cajuste",
+    "name": "Jens Cajuste"
+  },
+  {
+    "id": "jogador:alessio-zerbin",
+    "name": "Alessio Zerbin"
+  },
+  {
+    "id": "jogador:caoimhin-kelleher",
+    "name": "Caoimhin Kelleher"
+  },
+  {
+    "id": "jogador:joel-matip",
+    "name": "Joel Matip"
+  },
+  {
+    "id": "jogador:jarell-quansah",
+    "name": "Jarell Quansah"
+  },
+  {
+    "id": "jogador:kostas-tsimikas",
+    "name": "Kostas Tsimikas"
+  },
+  {
+    "id": "jogador:conor-bradley",
+    "name": "Conor Bradley"
+  },
+  {
+    "id": "jogador:curtis-jones",
+    "name": "Curtis Jones"
+  },
+  {
+    "id": "jogador:harvey-elliott",
+    "name": "Harvey Elliott"
+  },
+  {
+    "id": "jogador:stefan-bajcetic",
+    "name": "Stefan Bajcetic"
+  },
+  {
+    "id": "jogador:claudio-ramos",
+    "name": "Claudio Ramos"
+  },
+  {
+    "id": "jogador:ivan-marcano",
+    "name": "Ivan Marcano"
+  },
+  {
+    "id": "jogador:wendell",
+    "name": "Wendell"
+  },
+  {
+    "id": "jogador:danny-namaso",
+    "name": "Danny Namaso"
+  },
+  {
+    "id": "jogador:toni-martinez",
+    "name": "Toni Martinez"
+  },
+  {
+    "id": "jogador:marko-grujic",
+    "name": "Marko Grujic"
+  },
+  {
+    "id": "jogador:fabio-cardoso",
+    "name": "Fabio Cardoso"
+  },
+  {
+    "id": "jogador:andre-franco",
+    "name": "Andre Franco"
+  },
+  {
+    "id": "jogador:ivan-jaime",
+    "name": "Ivan Jaime"
+  },
+  {
+    "id": "jogador:marco-sportiello",
+    "name": "Marco Sportiello"
+  },
+  {
+    "id": "jogador:simon-kjaer",
+    "name": "Simon Kjaer"
+  },
+  {
+    "id": "jogador:pierre-kalulu",
+    "name": "Pierre Kalulu"
+  },
+  {
+    "id": "jogador:matteo-gabbia",
+    "name": "Matteo Gabbia"
+  },
+  {
+    "id": "jogador:alessandro-florenzi",
+    "name": "Alessandro Florenzi"
+  },
+  {
+    "id": "jogador:tommaso-pobega",
+    "name": "Tommaso Pobega"
+  },
+  {
+    "id": "jogador:rade-krunic",
+    "name": "Rade Krunic"
+  },
+  {
+    "id": "jogador:luka-jovic",
+    "name": "Luka Jovic"
+  },
+  {
+    "id": "jogador:divock-origi",
+    "name": "Divock Origi"
+  },
+  {
+    "id": "jogador:tom-heaton",
+    "name": "Tom Heaton"
+  },
+  {
+    "id": "jogador:jonny-evans",
+    "name": "Jonny Evans"
+  },
+  {
+    "id": "jogador:victor-lindelof",
+    "name": "Victor Lindelof"
+  },
+  {
+    "id": "jogador:aaron-wan-bissaka",
+    "name": "Aaron Wan-Bissaka"
+  },
+  {
+    "id": "jogador:tyrell-malacia",
+    "name": "Tyrell Malacia"
+  },
+  {
+    "id": "jogador:scott-mctominay",
+    "name": "Scott McTominay"
+  },
+  {
+    "id": "jogador:christian-eriksen",
+    "name": "Christian Eriksen"
+  },
+  {
+    "id": "jogador:sofyan-amrabat",
+    "name": "Sofyan Amrabat"
+  },
+  {
+    "id": "jogador:facundo-pellistri",
+    "name": "Facundo Pellistri"
+  },
+  {
+    "id": "jogador:mattia-perin",
+    "name": "Mattia Perin"
+  },
+  {
+    "id": "jogador:carlo-pinsoglio",
+    "name": "Carlo Pinsoglio"
+  },
+  {
+    "id": "jogador:timothy-weah",
+    "name": "Timothy Weah"
+  },
+  {
+    "id": "jogador:fabio-miretti",
+    "name": "Fabio Miretti"
+  },
+  {
+    "id": "jogador:arkadiusz-milik",
+    "name": "Arkadiusz Milik"
+  },
+  {
+    "id": "jogador:samuel-iling-junior",
+    "name": "Samuel Iling-Junior"
+  },
+  {
+    "id": "jogador:tiago-djalo",
+    "name": "Tiago Djalo"
+  },
+  {
+    "id": "jogador:mattia-de-sciglio",
+    "name": "Mattia De Sciglio"
+  },
+  {
+    "id": "jogador:kenan-yildiz",
+    "name": "Kenan Yildiz"
+  },
+  {
+    "id": "jogador:paul-pogba",
+    "name": "Paul Pogba"
+  },
+  {
+    "id": "jogador:nicolussi-caviglia",
+    "name": "Nicolussi Caviglia"
+  },
+  {
+    "id": "jogador:carlos-alcaraz-juv",
+    "name": "Carlos Alcaraz"
+  },
+  {
+    "id": "jogador:helton-leite",
+    "name": "Helton Leite"
+  },
+  {
+    "id": "jogador:samuel-soares",
+    "name": "Samuel Soares"
+  },
+  {
+    "id": "jogador:joao-victor",
+    "name": "Joao Victor"
+  },
+  {
+    "id": "jogador:tomas-araujo",
+    "name": "Tomas Araujo"
+  },
+  {
+    "id": "jogador:jan-vertonghen",
+    "name": "Jan Vertonghen"
+  },
+  {
+    "id": "jogador:david-neres",
+    "name": "David Neres"
+  },
+  {
+    "id": "jogador:chiquinho-benfica",
+    "name": "Chiquinho"
+  },
+  {
+    "id": "jogador:orkun-kokcu",
+    "name": "Orkun Kokcu"
+  },
+  {
+    "id": "jogador:benjamin-rollheiser",
+    "name": "Benjamin Rollheiser"
+  },
+  {
+    "id": "jogador:casper-tengstedt",
+    "name": "Casper Tengstedt"
+  },
+  {
+    "id": "jogador:fredrik-aursnes",
+    "name": "Fredrik Aursnes"
+  },
+  {
+    "id": "jogador:gianluca-prestianni",
+    "name": "Gianluca Prestianni"
+  },
+  {
+    "id": "jogador:joel-drommel",
+    "name": "Joel Drommel"
+  },
+  {
+    "id": "jogador:boy-waterman",
+    "name": "Boy Waterman"
+  },
+  {
+    "id": "jogador:armando-obispo",
+    "name": "Armando Obispo"
+  },
+  {
+    "id": "jogador:philipp-mwene",
+    "name": "Philipp Mwene"
+  },
+  {
+    "id": "jogador:sergino-dest",
+    "name": "Sergino Dest"
+  },
+  {
+    "id": "jogador:xavi-simons-psv",
+    "name": "Xavi Simons"
+  },
+  {
+    "id": "jogador:guus-til",
+    "name": "Guus Til"
+  },
+  {
+    "id": "jogador:malik-tillman",
+    "name": "Malik Tillman"
+  },
+  {
+    "id": "jogador:noa-lang",
+    "name": "Noa Lang"
+  },
+  {
+    "id": "jogador:ricardo-pepi",
+    "name": "Ricardo Pepi"
+  },
+  {
+    "id": "jogador:ismael-saibari",
+    "name": "Ismael Saibari"
+  },
+  {
+    "id": "jogador:patrick-van-aanholt",
+    "name": "Patrick van Aanholt"
+  },
+  {
+    "id": "jogador:geronimo-rulli",
+    "name": "Geronimo Rulli"
+  },
+  {
+    "id": "jogador:jay-gorter",
+    "name": "Jay Gorter"
+  },
+  {
+    "id": "jogador:anton-gaaei",
+    "name": "Anton Gaaei"
+  },
+  {
+    "id": "jogador:owen-wijndal",
+    "name": "Owen Wijndal"
+  },
+  {
+    "id": "jogador:jakov-medic",
+    "name": "Jakov Medic"
+  },
+  {
+    "id": "jogador:ahmetcan-kaplan",
+    "name": "Ahmetcan Kaplan"
+  },
+  {
+    "id": "jogador:edson-alvarez",
+    "name": "Edson Alvarez"
+  },
+  {
+    "id": "jogador:branco-van-den-boomen",
+    "name": "Branco van den Boomen"
+  },
+  {
+    "id": "jogador:benjamin-tahirovic",
+    "name": "Benjamin Tahirovic"
+  },
+  {
+    "id": "jogador:chuba-akpom",
+    "name": "Chuba Akpom"
+  },
+  {
+    "id": "jogador:sivert-mannsverk",
+    "name": "Sivert Mannsverk"
+  },
+  {
+    "id": "jogador:mika-godts",
+    "name": "Mika Godts"
+  },
+  {
+    "id": "jogador:davy-klaassen-ajax",
+    "name": "Davy Klaassen"
+  },
+  {
+    "id": "jogador:janis-blaswich-lei",
+    "name": "Janis Blaswich"
+  },
+  {
+    "id": "jogador:leopold-zingerle",
+    "name": "Leopold Zingerle"
+  },
+  {
+    "id": "jogador:lukas-klostermann",
+    "name": "Lukas Klostermann"
+  },
+  {
+    "id": "jogador:marcel-halstenberg",
+    "name": "Marcel Halstenberg"
+  },
+  {
+    "id": "jogador:abdou-diallo",
+    "name": "Abdou Diallo"
+  },
+  {
+    "id": "jogador:christoph-baumgartner",
+    "name": "Christoph Baumgartner"
+  },
+  {
+    "id": "jogador:nicolas-seiwald",
+    "name": "Nicolas Seiwald"
+  },
+  {
+    "id": "jogador:timo-werner",
+    "name": "Timo Werner"
+  },
+  {
+    "id": "jogador:andre-silva",
+    "name": "Andre Silva"
+  },
+  {
+    "id": "jogador:benjamin-sesko",
+    "name": "Benjamin Sesko"
+  },
+  {
+    "id": "jogador:yussuf-poulsen",
+    "name": "Yussuf Poulsen"
+  },
+  {
+    "id": "jogador:dominik-szoboszlai-lei",
+    "name": "Dominik Szoboszlai"
+  },
+  {
+    "id": "jogador:mohamed-simakan",
+    "name": "Mohamed Simakan"
+  },
+  {
+    "id": "jogador:christos-mandas",
+    "name": "Christos Mandas"
+  },
+  {
+    "id": "jogador:luigi-sepe",
+    "name": "Luigi Sepe"
+  },
+  {
+    "id": "jogador:mario-gila",
+    "name": "Mario Gila"
+  },
+  {
+    "id": "jogador:nicolo-casale",
+    "name": "Nicolo Casale"
+  },
+  {
+    "id": "jogador:elseid-hysaj",
+    "name": "Elseid Hysaj"
+  },
+  {
+    "id": "jogador:luca-pellegrini",
+    "name": "Luca Pellegrini"
+  },
+  {
+    "id": "jogador:danilo-cataldi",
+    "name": "Danilo Cataldi"
+  },
+  {
+    "id": "jogador:matias-vecino",
+    "name": "Matias Vecino"
+  },
+  {
+    "id": "jogador:toma-basic",
+    "name": "Toma Basic"
+  },
+  {
+    "id": "jogador:gustav-isaksen",
+    "name": "Gustav Isaksen"
+  },
+  {
+    "id": "jogador:pedro-lazio",
+    "name": "Pedro"
+  },
+  {
+    "id": "jogador:taty-castellanos",
+    "name": "Taty Castellanos"
+  },
+  {
+    "id": "jogador:diego-gonzalez-lazio",
+    "name": "Diego Gonzalez"
+  },
+  {
+    "id": "jogador:unai-marrero",
+    "name": "Unai Marrero"
+  },
+  {
+    "id": "jogador:aihen-munoz",
+    "name": "Aihen Munoz"
+  },
+  {
+    "id": "jogador:hamari-traore",
+    "name": "Hamari Traore"
+  },
+  {
+    "id": "jogador:jon-pacheco",
+    "name": "Jon Pacheco"
+  },
+  {
+    "id": "jogador:nayef-aguerd",
+    "name": "Nayef Aguerd"
+  },
+  {
+    "id": "jogador:ander-barrenetxea",
+    "name": "Ander Barrenetxea"
+  },
+  {
+    "id": "jogador:carlos-fernandez",
+    "name": "Carlos Fernandez"
+  },
+  {
+    "id": "jogador:pablo-marin",
+    "name": "Pablo Marin"
+  },
+  {
+    "id": "jogador:benat-turrientes",
+    "name": "Benat Turrientes"
+  },
+  {
+    "id": "jogador:umar-sadiq",
+    "name": "Umar Sadiq"
+  },
+  {
+    "id": "jogador:andre-silva-rs",
+    "name": "Andre Silva"
+  },
+  {
+    "id": "jogador:asier-illarramendi",
+    "name": "Asier Illarramendi"
+  },
+  {
+    "id": "jogador:kieran-tierney-rs",
+    "name": "Kieran Tierney"
+  },
+  {
+    "id": "jogador:matt-ryan",
+    "name": "Mat Ryan"
+  },
+  {
+    "id": "jogador:karl-darlow",
+    "name": "Karl Darlow"
+  },
+  {
+    "id": "jogador:kevin-diks",
+    "name": "Kevin Diks"
+  },
+  {
+    "id": "jogador:peter-ankersen",
+    "name": "Peter Ankersen"
+  },
+  {
+    "id": "jogador:nicolai-boilesen",
+    "name": "Nicolai Boilesen"
+  },
+  {
+    "id": "jogador:jacob-lungi-sorensen",
+    "name": "Jacob Lungi Sorensen"
+  },
+  {
+    "id": "jogador:diogo-goncalves-cop",
+    "name": "Diogo Goncalves"
+  },
+  {
+    "id": "jogador:hakan-haraldsson",
+    "name": "Hakon Haraldsson"
+  },
+  {
+    "id": "jogador:jordan-larsson",
+    "name": "Jordan Larsson"
+  },
+  {
+    "id": "jogador:isak-bergmann",
+    "name": "Isak Bergmann"
+  },
+  {
+    "id": "jogador:marko-stamenic",
+    "name": "Marko Stamenic"
+  },
+  {
+    "id": "jogador:andreas-cornelius",
+    "name": "Andreas Cornelius"
+  },
+  {
+    "id": "jogador:william-boving",
+    "name": "William Boving"
+  },
+  {
+    "id": "jogador:martin-dubravka",
+    "name": "Martin Dubravka"
+  },
+  {
+    "id": "jogador:mark-gillespie",
+    "name": "Mark Gillespie"
+  },
+  {
+    "id": "jogador:lewis-hall",
+    "name": "Lewis Hall"
+  },
+  {
+    "id": "jogador:tino-livramento",
+    "name": "Tino Livramento"
+  },
+  {
+    "id": "jogador:jamaal-lascelles",
+    "name": "Jamaal Lascelles"
+  },
+  {
+    "id": "jogador:matt-targett",
+    "name": "Matt Targett"
+  },
+  {
+    "id": "jogador:joe-willock",
+    "name": "Joe Willock"
+  },
+  {
+    "id": "jogador:elliot-anderson",
+    "name": "Elliot Anderson"
+  },
+  {
+    "id": "jogador:miguel-almiron",
+    "name": "Miguel Almiron"
+  },
+  {
+    "id": "jogador:jacob-murphy",
+    "name": "Jacob Murphy"
+  },
+  {
+    "id": "jogador:callum-wilson",
+    "name": "Callum Wilson"
+  },
+  {
+    "id": "jogador:harvey-barnes",
+    "name": "Harvey Barnes"
+  },
+  {
+    "id": "jogador:lloyd-kelly",
+    "name": "Lloyd Kelly"
+  },
+  {
+    "id": "jogador:abdulkerim-bardakci",
+    "name": "Abdulkerim Bardakci"
+  },
+  {
+    "id": "jogador:kaan-ayhan",
+    "name": "Kaan Ayhan"
+  },
+  {
+    "id": "jogador:ismail-jakobs",
+    "name": "Ismail Jakobs"
+  },
+  {
+    "id": "jogador:leo-dubois",
+    "name": "Leo Dubois"
+  },
+  {
+    "id": "jogador:sergio-oliveira",
+    "name": "Sergio Oliveira"
+  },
+  {
+    "id": "jogador:dries-mertens",
+    "name": "Dries Mertens"
+  },
+  {
+    "id": "jogador:yunus-akgun",
+    "name": "Yunus Akgun"
+  },
+  {
+    "id": "jogador:baris-alper-yilmaz",
+    "name": "Baris Alper Yilmaz"
+  },
+  {
+    "id": "jogador:tete-galatasaray",
+    "name": "Tete"
+  },
+  {
+    "id": "jogador:michy-batshuayi",
+    "name": "Michy Batshuayi"
+  },
+  {
+    "id": "jogador:derrick-kohn",
+    "name": "Derrick Kohn"
+  },
+  {
+    "id": "jogador:inaki-pena-gal",
+    "name": "Inaki Pena"
+  },
+  {
+    "id": "jogador:berkan-kutlu",
+    "name": "Berkan Kutlu"
+  },
+  {
+    "id": "jogador:scott-bain",
+    "name": "Scott Bain"
+  },
+  {
+    "id": "jogador:benjamin-siegrist",
+    "name": "Benjamin Siegrist"
+  },
+  {
+    "id": "jogador:liam-scales",
+    "name": "Liam Scales"
+  },
+  {
+    "id": "jogador:nat-phillips",
+    "name": "Nat Phillips"
+  },
+  {
+    "id": "jogador:alexandro-bernabei",
+    "name": "Alexandro Bernabei"
+  },
+  {
+    "id": "jogador:anthony-ralston",
+    "name": "Anthony Ralston"
+  },
+  {
+    "id": "jogador:david-turnbull",
+    "name": "David Turnbull"
+  },
+  {
+    "id": "jogador:odin-thiago-holm",
+    "name": "Odin Thiago Holm"
+  },
+  {
+    "id": "jogador:sead-haksabanovic",
+    "name": "Sead Haksabanovic"
+  },
+  {
+    "id": "jogador:liel-abada",
+    "name": "Liel Abada"
+  },
+  {
+    "id": "jogador:james-forrest",
+    "name": "James Forrest"
+  },
+  {
+    "id": "jogador:hyeongyu-oh",
+    "name": "Hyeon-gyu Oh"
+  },
+  {
+    "id": "jogador:luis-palma",
+    "name": "Luis Palma"
+  },
+  {
+    "id": "jogador:timon-wellenreuther",
+    "name": "Timon Wellenreuther"
+  },
+  {
+    "id": "jogador:yannik-mantel",
+    "name": "Yannik Mantel"
+  },
+  {
+    "id": "jogador:david-hancko",
+    "name": "David Hancko"
+  },
+  {
+    "id": "jogador:thomas-beelen",
+    "name": "Thomas Beelen"
+  },
+  {
+    "id": "jogador:marcos-lopez",
+    "name": "Marcos Lopez"
+  },
+  {
+    "id": "jogador:jordan-lotomba",
+    "name": "Jordan Lotomba"
+  },
+  {
+    "id": "jogador:calvin-stengs",
+    "name": "Calvin Stengs"
+  },
+  {
+    "id": "jogador:javairô-dilrosun",
+    "name": "Javairô Dilrosun"
+  },
+  {
+    "id": "jogador:ramiz-zerrouki",
+    "name": "Ramiz Zerrouki"
+  },
+  {
+    "id": "jogador:oussama-idrissi",
+    "name": "Oussama Idrissi"
+  },
+  {
+    "id": "jogador:luka-ivanusec",
+    "name": "Luka Ivanusec"
+  },
+  {
+    "id": "jogador:alireza-jahanbakhsh",
+    "name": "Alireza Jahanbakhsh"
+  },
+  {
+    "id": "jogador:yankuba-minteh",
+    "name": "Yankuba Minteh"
+  },
+  {
+    "id": "jogador:ayase-ueda",
+    "name": "Ayase Ueda"
+  },
+  {
+    "id": "jogador:jean-louis-leca",
+    "name": "Jean-Louis Leca"
+  },
+  {
+    "id": "jogador:wuilker-farinez",
+    "name": "Wuilker Farinez"
+  },
+  {
+    "id": "jogador:massadio-haidara",
+    "name": "Massadio Haidara"
+  },
+  {
+    "id": "jogador:deiver-machado",
+    "name": "Deiver Machado"
+  },
+  {
+    "id": "jogador:jimmy-cabot",
+    "name": "Jimmy Cabot"
+  },
+  {
+    "id": "jogador:kevin-danso-lens",
+    "name": "Kevin Danso"
+  },
+  {
+    "id": "jogador:abdukodir-khusanov-lens",
+    "name": "Abdukodir Khusanov"
+  },
+  {
+    "id": "jogador:neil-el-aynaoui",
+    "name": "Neil El Aynaoui"
+  },
+  {
+    "id": "jogador:adrien-thomasson",
+    "name": "Adrien Thomasson"
+  },
+  {
+    "id": "jogador:david-costa-lens",
+    "name": "David Costa"
+  },
+  {
+    "id": "jogador:przemyslaw-frankowski",
+    "name": "Przemyslaw Frankowski"
+  },
+  {
+    "id": "jogador:wesley-said",
+    "name": "Wesley Said"
+  },
+  {
+    "id": "jogador:lois-openda-lens",
+    "name": "Lois Openda"
+  },
+  {
+    "id": "jogador:angelo-fulgini",
+    "name": "Angelo Fulgini"
+  },
+  {
+    "id": "jogador:dmytro-riznyk",
+    "name": "Dmytro Riznyk"
+  },
+  {
+    "id": "jogador:andriy-pyatov",
+    "name": "Andriy Pyatov"
+  },
+  {
+    "id": "jogador:ivan-petryak",
+    "name": "Ivan Petryak"
+  },
+  {
+    "id": "jogador:marian-shved-shk",
+    "name": "Marian Shved"
+  },
+  {
+    "id": "jogador:lucas-taylor",
+    "name": "Lucas Taylor"
+  },
+  {
+    "id": "jogador:vitao",
+    "name": "Vitao"
+  },
+  {
+    "id": "jogador:nikita-konoplya",
+    "name": "Nikita Konoplya"
+  },
+  {
+    "id": "jogador:irakli-azarovi",
+    "name": "Irakli Azarovi"
+  },
+  {
+    "id": "jogador:heorhii-sudakov-shk",
+    "name": "Heorhii Sudakov"
+  },
+  {
+    "id": "jogador:artem-bondarenko",
+    "name": "Artem Bondarenko"
+  },
+  {
+    "id": "jogador:kevin-kelsy",
+    "name": "Kevin Kelsy"
+  },
+  {
+    "id": "jogador:lassina-traore-shk",
+    "name": "Lassina Traore"
+  },
+  {
+    "id": "jogador:eguinaldo-shk",
+    "name": "Eguinaldo"
+  },
+  {
+    "id": "jogador:oleksandr-zubkov",
+    "name": "Oleksandr Zubkov"
+  },
+  {
+    "id": "jogador:marko-dmitrovic",
+    "name": "Marko Dmitrovic"
+  },
+  {
+    "id": "jogador:orjan-nyland",
+    "name": "Orjan Nyland"
+  },
+  {
+    "id": "jogador:tanguy-nianzou",
+    "name": "Tanguy Nianzou"
+  },
+  {
+    "id": "jogador:marcao",
+    "name": "Marcao"
+  },
+  {
+    "id": "jogador:gonzalo-montiel",
+    "name": "Gonzalo Montiel"
+  },
+  {
+    "id": "jogador:alex-telles",
+    "name": "Alex Telles"
+  },
+  {
+    "id": "jogador:adria-pedrosa",
+    "name": "Adria Pedrosa"
+  },
+  {
+    "id": "jogador:nemanja-gudelj",
+    "name": "Nemanja Gudelj"
+  },
+  {
+    "id": "jogador:joan-jordan",
+    "name": "Joan Jordan"
+  },
+  {
+    "id": "jogador:fernando-sevilla",
+    "name": "Fernando"
+  },
+  {
+    "id": "jogador:oliver-torres",
+    "name": "Oliver Torres"
+  },
+  {
+    "id": "jogador:suso",
+    "name": "Suso"
+  },
+  {
+    "id": "jogador:dodi-lukebakio",
+    "name": "Dodi Lukebakio"
+  },
+  {
+    "id": "jogador:erik-lamela",
+    "name": "Erik Lamela"
+  },
+  {
+    "id": "jogador:rafa-mir",
+    "name": "Rafa Mir"
+  },
+  {
+    "id": "jogador:matheus-magalhaes",
+    "name": "Matheus Magalhaes"
+  },
+  {
+    "id": "jogador:tiago-sa",
+    "name": "Tiago Sa"
+  },
+  {
+    "id": "jogador:victor-gomez",
+    "name": "Victor Gomez"
+  },
+  {
+    "id": "jogador:fabiano",
+    "name": "Fabiano"
+  },
+  {
+    "id": "jogador:jose-fonte",
+    "name": "Jose Fonte"
+  },
+  {
+    "id": "jogador:paulo-oliveira",
+    "name": "Paulo Oliveira"
+  },
+  {
+    "id": "jogador:robson-bambu",
+    "name": "Robson Bambu"
+  },
+  {
+    "id": "jogador:al-musrati",
+    "name": "Al Musrati"
+  },
+  {
+    "id": "jogador:joao-moutinho",
+    "name": "Joao Moutinho"
+  },
+  {
+    "id": "jogador:andre-horta",
+    "name": "Andre Horta"
+  },
+  {
+    "id": "jogador:oscar-zambrano",
+    "name": "Oscar Zambrano"
+  },
+  {
+    "id": "jogador:el-ouazzani",
+    "name": "El Ouazzani"
+  },
+  {
+    "id": "jogador:roberto-fernandez",
+    "name": "Roberto Fernandez"
+  },
+  {
+    "id": "jogador:joao-marques",
+    "name": "Joao Marques"
+  },
+  {
+    "id": "jogador:racine-coly",
+    "name": "Racine Coly"
   }
 ]

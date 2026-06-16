@@ -1206,147 +1206,6698 @@
     "playerId": "jogador:ederson",
     "clubId": "clube:manchester-city",
     "editionId": "edicao:champions-league:2023-24",
-    "positions": ["Goleiro"],
+    "positions": [
+      "Goleiro"
+    ],
     "rating": 90
   },
   {
     "playerId": "jogador:stefan-ortega",
     "clubId": "clube:manchester-city",
     "editionId": "edicao:champions-league:2023-24",
-    "positions": ["Goleiro"],
+    "positions": [
+      "Goleiro"
+    ],
     "rating": 83
   },
   {
     "playerId": "jogador:kyle-walker",
     "clubId": "clube:manchester-city",
     "editionId": "edicao:champions-league:2023-24",
-    "positions": ["Lateral_Direito"],
+    "positions": [
+      "Lateral_Direito"
+    ],
     "rating": 88
   },
   {
     "playerId": "jogador:rico-lewis",
     "clubId": "clube:manchester-city",
     "editionId": "edicao:champions-league:2023-24",
-    "positions": ["Lateral_Direito", "Volante"],
+    "positions": [
+      "Lateral_Direito",
+      "Volante"
+    ],
     "rating": 82
   },
   {
     "playerId": "jogador:manuel-akanji",
     "clubId": "clube:manchester-city",
     "editionId": "edicao:champions-league:2023-24",
-    "positions": ["Zagueiro", "Lateral_Direito"],
+    "positions": [
+      "Zagueiro",
+      "Lateral_Direito"
+    ],
     "rating": 87
   },
   {
     "playerId": "jogador:ruben-dias",
     "clubId": "clube:manchester-city",
     "editionId": "edicao:champions-league:2023-24",
-    "positions": ["Zagueiro"],
+    "positions": [
+      "Zagueiro"
+    ],
     "rating": 91
   },
   {
     "playerId": "jogador:nathan-ake",
     "clubId": "clube:manchester-city",
     "editionId": "edicao:champions-league:2023-24",
-    "positions": ["Zagueiro", "Lateral_Esquerdo"],
+    "positions": [
+      "Zagueiro",
+      "Lateral_Esquerdo"
+    ],
     "rating": 86
   },
   {
     "playerId": "jogador:josko-gvardiol",
     "clubId": "clube:manchester-city",
     "editionId": "edicao:champions-league:2023-24",
-    "positions": ["Zagueiro", "Lateral_Esquerdo"],
+    "positions": [
+      "Zagueiro",
+      "Lateral_Esquerdo"
+    ],
     "rating": 89
   },
   {
     "playerId": "jogador:john-stones",
     "clubId": "clube:manchester-city",
     "editionId": "edicao:champions-league:2023-24",
-    "positions": ["Zagueiro", "Volante"],
+    "positions": [
+      "Zagueiro",
+      "Volante"
+    ],
     "rating": 89
   },
   {
     "playerId": "jogador:rodri",
     "clubId": "clube:manchester-city",
     "editionId": "edicao:champions-league:2023-24",
-    "positions": ["Volante", "Meia_Central"],
+    "positions": [
+      "Volante",
+      "Meia_Central"
+    ],
     "rating": 97
   },
   {
     "playerId": "jogador:kevin-de-bruyne",
     "clubId": "clube:manchester-city",
     "editionId": "edicao:champions-league:2023-24",
-    "positions": ["Meia_Ofensivo", "Meia_Central"],
+    "positions": [
+      "Meia_Ofensivo",
+      "Meia_Central"
+    ],
     "rating": 96
   },
   {
     "playerId": "jogador:bernardo-silva",
     "clubId": "clube:manchester-city",
     "editionId": "edicao:champions-league:2023-24",
-    "positions": ["Meia_Ofensivo", "Ponta_Direita"],
+    "positions": [
+      "Meia_Ofensivo",
+      "Ponta_Direita"
+    ],
     "rating": 93
   },
   {
     "playerId": "jogador:mateo-kovacic",
     "clubId": "clube:manchester-city",
     "editionId": "edicao:champions-league:2023-24",
-    "positions": ["Meia_Central"],
+    "positions": [
+      "Meia_Central"
+    ],
     "rating": 86
   },
   {
     "playerId": "jogador:matheus-nunes",
     "clubId": "clube:manchester-city",
     "editionId": "edicao:champions-league:2023-24",
-    "positions": ["Meia_Central"],
+    "positions": [
+      "Meia_Central"
+    ],
     "rating": 82
   },
   {
     "playerId": "jogador:kalvin-phillips",
     "clubId": "clube:manchester-city",
     "editionId": "edicao:champions-league:2023-24",
-    "positions": ["Volante"],
+    "positions": [
+      "Volante"
+    ],
     "rating": 79
   },
   {
     "playerId": "jogador:phil-foden",
     "clubId": "clube:manchester-city",
     "editionId": "edicao:champions-league:2023-24",
-    "positions": ["Ponta_Direita", "Meia_Ofensivo", "Ponta_Esquerda"],
+    "positions": [
+      "Ponta_Direita",
+      "Meia_Ofensivo",
+      "Ponta_Esquerda"
+    ],
     "rating": 94
   },
   {
     "playerId": "jogador:jack-grealish",
     "clubId": "clube:manchester-city",
     "editionId": "edicao:champions-league:2023-24",
-    "positions": ["Ponta_Esquerda"],
+    "positions": [
+      "Ponta_Esquerda"
+    ],
     "rating": 87
   },
   {
     "playerId": "jogador:jeremy-doku",
     "clubId": "clube:manchester-city",
     "editionId": "edicao:champions-league:2023-24",
-    "positions": ["Ponta_Esquerda", "Ponta_Direita"],
+    "positions": [
+      "Ponta_Esquerda",
+      "Ponta_Direita"
+    ],
     "rating": 87
   },
   {
     "playerId": "jogador:oscar-bobb",
     "clubId": "clube:manchester-city",
     "editionId": "edicao:champions-league:2023-24",
-    "positions": ["Ponta_Direita", "Ponta_Esquerda"],
+    "positions": [
+      "Ponta_Direita",
+      "Ponta_Esquerda"
+    ],
     "rating": 80
   },
   {
     "playerId": "jogador:erling-haaland",
     "clubId": "clube:manchester-city",
     "editionId": "edicao:champions-league:2023-24",
-    "positions": ["Atacante"],
+    "positions": [
+      "Atacante"
+    ],
     "rating": 97
   },
   {
     "playerId": "jogador:julian-alvarez",
     "clubId": "clube:manchester-city",
     "editionId": "edicao:champions-league:2023-24",
-    "positions": ["Atacante", "Meia_Ofensivo"],
+    "positions": [
+      "Atacante",
+      "Meia_Ofensivo"
+    ],
     "rating": 89
+  },
+  {
+    "playerId": "jogador:marc-andre-ter-stegen",
+    "clubId": "clube:barcelona",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 90
+  },
+  {
+    "playerId": "jogador:ronald-araujo",
+    "clubId": "clube:barcelona",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro",
+      "Lateral_Direito"
+    ],
+    "rating": 87
+  },
+  {
+    "playerId": "jogador:jules-kounde",
+    "clubId": "clube:barcelona",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito",
+      "Zagueiro"
+    ],
+    "rating": 87
+  },
+  {
+    "playerId": "jogador:alejandro-balde",
+    "clubId": "clube:barcelona",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo"
+    ],
+    "rating": 82
+  },
+  {
+    "playerId": "jogador:joao-cancelo",
+    "clubId": "clube:barcelona",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito",
+      "Lateral_Esquerdo"
+    ],
+    "rating": 86
+  },
+  {
+    "playerId": "jogador:andreas-christensen",
+    "clubId": "clube:barcelona",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 83
+  },
+  {
+    "playerId": "jogador:pedri",
+    "clubId": "clube:barcelona",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Meia_Ofensivo"
+    ],
+    "rating": 89
+  },
+  {
+    "playerId": "jogador:gavi",
+    "clubId": "clube:barcelona",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Volante"
+    ],
+    "rating": 85
+  },
+  {
+    "playerId": "jogador:frenkie-de-jong",
+    "clubId": "clube:barcelona",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Volante"
+    ],
+    "rating": 87
+  },
+  {
+    "playerId": "jogador:ilkay-gundogan",
+    "clubId": "clube:barcelona",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Meia_Ofensivo"
+    ],
+    "rating": 87
+  },
+  {
+    "playerId": "jogador:fermin-lopez",
+    "clubId": "clube:barcelona",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Ofensivo",
+      "Ponta_Direita"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:joao-felix",
+    "clubId": "clube:barcelona",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante",
+      "Meia_Ofensivo"
+    ],
+    "rating": 82
+  },
+  {
+    "playerId": "jogador:lamine-yamal",
+    "clubId": "clube:barcelona",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita"
+    ],
+    "rating": 82
+  },
+  {
+    "playerId": "jogador:raphinha",
+    "clubId": "clube:barcelona",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda",
+      "Ponta_Direita"
+    ],
+    "rating": 85
+  },
+  {
+    "playerId": "jogador:robert-lewandowski",
+    "clubId": "clube:barcelona",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 90
+  },
+  {
+    "playerId": "jogador:manuel-neuer",
+    "clubId": "clube:bayern-munich",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 89
+  },
+  {
+    "playerId": "jogador:dayot-upamecano",
+    "clubId": "clube:bayern-munich",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 85
+  },
+  {
+    "playerId": "jogador:min-jae-kim",
+    "clubId": "clube:bayern-munich",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 87
+  },
+  {
+    "playerId": "jogador:matthijs-de-ligt",
+    "clubId": "clube:bayern-munich",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 84
+  },
+  {
+    "playerId": "jogador:alphonso-davies",
+    "clubId": "clube:bayern-munich",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo"
+    ],
+    "rating": 86
+  },
+  {
+    "playerId": "jogador:joshua-kimmich",
+    "clubId": "clube:bayern-munich",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito",
+      "Volante"
+    ],
+    "rating": 89
+  },
+  {
+    "playerId": "jogador:leon-goretzka",
+    "clubId": "clube:bayern-munich",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Volante"
+    ],
+    "rating": 84
+  },
+  {
+    "playerId": "jogador:jamal-musiala",
+    "clubId": "clube:bayern-munich",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Ofensivo",
+      "Ponta_Esquerda"
+    ],
+    "rating": 88
+  },
+  {
+    "playerId": "jogador:leroy-sane",
+    "clubId": "clube:bayern-munich",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita",
+      "Ponta_Esquerda"
+    ],
+    "rating": 86
+  },
+  {
+    "playerId": "jogador:serge-gnabry",
+    "clubId": "clube:bayern-munich",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita",
+      "Atacante"
+    ],
+    "rating": 83
+  },
+  {
+    "playerId": "jogador:kingsley-coman",
+    "clubId": "clube:bayern-munich",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda",
+      "Ponta_Direita"
+    ],
+    "rating": 84
+  },
+  {
+    "playerId": "jogador:harry-kane",
+    "clubId": "clube:bayern-munich",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 91
+  },
+  {
+    "playerId": "jogador:thomas-muller",
+    "clubId": "clube:bayern-munich",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Ofensivo",
+      "Atacante"
+    ],
+    "rating": 83
+  },
+  {
+    "playerId": "jogador:konrad-laimer",
+    "clubId": "clube:bayern-munich",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Volante",
+      "Lateral_Direito"
+    ],
+    "rating": 82
+  },
+  {
+    "playerId": "jogador:raphael-guerreiro",
+    "clubId": "clube:bayern-munich",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo",
+      "Meia_Central"
+    ],
+    "rating": 82
+  },
+  {
+    "playerId": "jogador:yann-sommer",
+    "clubId": "clube:inter-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 87
+  },
+  {
+    "playerId": "jogador:alessandro-bastoni",
+    "clubId": "clube:inter-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro",
+      "Lateral_Esquerdo"
+    ],
+    "rating": 87
+  },
+  {
+    "playerId": "jogador:francesco-acerbi",
+    "clubId": "clube:inter-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 84
+  },
+  {
+    "playerId": "jogador:benjamin-pavard",
+    "clubId": "clube:inter-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro",
+      "Lateral_Direito"
+    ],
+    "rating": 84
+  },
+  {
+    "playerId": "jogador:federico-dimarco",
+    "clubId": "clube:inter-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo",
+      "Ponta_Esquerda"
+    ],
+    "rating": 86
+  },
+  {
+    "playerId": "jogador:denzel-dumfries",
+    "clubId": "clube:inter-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito"
+    ],
+    "rating": 83
+  },
+  {
+    "playerId": "jogador:nicolo-barella",
+    "clubId": "clube:inter-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Volante"
+    ],
+    "rating": 89
+  },
+  {
+    "playerId": "jogador:hakan-calhanoglu",
+    "clubId": "clube:inter-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Volante",
+      "Meia_Central"
+    ],
+    "rating": 87
+  },
+  {
+    "playerId": "jogador:henrikh-mkhitaryan",
+    "clubId": "clube:inter-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Meia_Ofensivo"
+    ],
+    "rating": 82
+  },
+  {
+    "playerId": "jogador:marcus-thuram",
+    "clubId": "clube:inter-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante",
+      "Ponta_Esquerda"
+    ],
+    "rating": 85
+  },
+  {
+    "playerId": "jogador:lautaro-martinez",
+    "clubId": "clube:inter-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 90
+  },
+  {
+    "playerId": "jogador:matteo-darmian",
+    "clubId": "clube:inter-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito",
+      "Zagueiro"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:stefan-de-vrij",
+    "clubId": "clube:inter-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 82
+  },
+  {
+    "playerId": "jogador:davide-frattesi",
+    "clubId": "clube:inter-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central"
+    ],
+    "rating": 82
+  },
+  {
+    "playerId": "jogador:marko-arnautovic",
+    "clubId": "clube:inter-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:gianluigi-donnarumma",
+    "clubId": "clube:psg",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 89
+  },
+  {
+    "playerId": "jogador:marquinhos",
+    "clubId": "clube:psg",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro",
+      "Volante"
+    ],
+    "rating": 87
+  },
+  {
+    "playerId": "jogador:achraf-hakimi",
+    "clubId": "clube:psg",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito"
+    ],
+    "rating": 87
+  },
+  {
+    "playerId": "jogador:lucas-hernandez",
+    "clubId": "clube:psg",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro",
+      "Lateral_Esquerdo"
+    ],
+    "rating": 84
+  },
+  {
+    "playerId": "jogador:nuno-mendes",
+    "clubId": "clube:psg",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo"
+    ],
+    "rating": 84
+  },
+  {
+    "playerId": "jogador:milan-skriniar",
+    "clubId": "clube:psg",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 84
+  },
+  {
+    "playerId": "jogador:vitinha",
+    "clubId": "clube:psg",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Volante"
+    ],
+    "rating": 86
+  },
+  {
+    "playerId": "jogador:warren-zaire-emery",
+    "clubId": "clube:psg",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Volante"
+    ],
+    "rating": 82
+  },
+  {
+    "playerId": "jogador:fabian-ruiz",
+    "clubId": "clube:psg",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central"
+    ],
+    "rating": 83
+  },
+  {
+    "playerId": "jogador:ousmane-dembele",
+    "clubId": "clube:psg",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita",
+      "Ponta_Esquerda"
+    ],
+    "rating": 87
+  },
+  {
+    "playerId": "jogador:kylian-mbappe",
+    "clubId": "clube:psg",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante",
+      "Ponta_Esquerda"
+    ],
+    "rating": 94
+  },
+  {
+    "playerId": "jogador:bradley-barcola",
+    "clubId": "clube:psg",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:goncalo-ramos",
+    "clubId": "clube:psg",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 82
+  },
+  {
+    "playerId": "jogador:randal-kolo-muani",
+    "clubId": "clube:psg",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante",
+      "Ponta_Esquerda"
+    ],
+    "rating": 83
+  },
+  {
+    "playerId": "jogador:lee-kang-in",
+    "clubId": "clube:psg",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Ofensivo",
+      "Ponta_Direita"
+    ],
+    "rating": 81
+  },
+  {
+    "playerId": "jogador:gregor-kobel",
+    "clubId": "clube:borussia-dortmund",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 87
+  },
+  {
+    "playerId": "jogador:mats-hummels",
+    "clubId": "clube:borussia-dortmund",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 85
+  },
+  {
+    "playerId": "jogador:nico-schlotterbeck",
+    "clubId": "clube:borussia-dortmund",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 84
+  },
+  {
+    "playerId": "jogador:ian-maatsen",
+    "clubId": "clube:borussia-dortmund",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:julian-ryerson",
+    "clubId": "clube:borussia-dortmund",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:marcel-sabitzer",
+    "clubId": "clube:borussia-dortmund",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Volante"
+    ],
+    "rating": 83
+  },
+  {
+    "playerId": "jogador:emre-can",
+    "clubId": "clube:borussia-dortmund",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Volante",
+      "Zagueiro"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:julian-brandt",
+    "clubId": "clube:borussia-dortmund",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Ofensivo",
+      "Meia_Central"
+    ],
+    "rating": 84
+  },
+  {
+    "playerId": "jogador:jadon-sancho",
+    "clubId": "clube:borussia-dortmund",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita",
+      "Ponta_Esquerda"
+    ],
+    "rating": 82
+  },
+  {
+    "playerId": "jogador:karim-adeyemi",
+    "clubId": "clube:borussia-dortmund",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda",
+      "Atacante"
+    ],
+    "rating": 81
+  },
+  {
+    "playerId": "jogador:marco-reus",
+    "clubId": "clube:borussia-dortmund",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Ofensivo",
+      "Ponta_Esquerda"
+    ],
+    "rating": 82
+  },
+  {
+    "playerId": "jogador:niclas-fullkrug",
+    "clubId": "clube:borussia-dortmund",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 84
+  },
+  {
+    "playerId": "jogador:donyell-malen",
+    "clubId": "clube:borussia-dortmund",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita",
+      "Atacante"
+    ],
+    "rating": 82
+  },
+  {
+    "playerId": "jogador:sebastien-haller",
+    "clubId": "clube:borussia-dortmund",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:felix-nmecha",
+    "clubId": "clube:borussia-dortmund",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:david-raya",
+    "clubId": "clube:arsenal",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 87
+  },
+  {
+    "playerId": "jogador:william-saliba",
+    "clubId": "clube:arsenal",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 87
+  },
+  {
+    "playerId": "jogador:gabriel-magalhaes",
+    "clubId": "clube:arsenal",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 86
+  },
+  {
+    "playerId": "jogador:ben-white",
+    "clubId": "clube:arsenal",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito",
+      "Zagueiro"
+    ],
+    "rating": 84
+  },
+  {
+    "playerId": "jogador:oleksandr-zinchenko",
+    "clubId": "clube:arsenal",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo",
+      "Meia_Central"
+    ],
+    "rating": 82
+  },
+  {
+    "playerId": "jogador:takehiro-tomiyasu",
+    "clubId": "clube:arsenal",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito",
+      "Zagueiro"
+    ],
+    "rating": 82
+  },
+  {
+    "playerId": "jogador:declan-rice",
+    "clubId": "clube:arsenal",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Volante",
+      "Meia_Central"
+    ],
+    "rating": 89
+  },
+  {
+    "playerId": "jogador:martin-odegaard",
+    "clubId": "clube:arsenal",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Ofensivo",
+      "Meia_Central"
+    ],
+    "rating": 90
+  },
+  {
+    "playerId": "jogador:kai-havertz",
+    "clubId": "clube:arsenal",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante",
+      "Meia_Ofensivo"
+    ],
+    "rating": 83
+  },
+  {
+    "playerId": "jogador:bukayo-saka",
+    "clubId": "clube:arsenal",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita"
+    ],
+    "rating": 89
+  },
+  {
+    "playerId": "jogador:gabriel-martinelli",
+    "clubId": "clube:arsenal",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda"
+    ],
+    "rating": 84
+  },
+  {
+    "playerId": "jogador:leandro-trossard",
+    "clubId": "clube:arsenal",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda",
+      "Meia_Ofensivo"
+    ],
+    "rating": 83
+  },
+  {
+    "playerId": "jogador:jorginho",
+    "clubId": "clube:arsenal",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Volante",
+      "Meia_Central"
+    ],
+    "rating": 82
+  },
+  {
+    "playerId": "jogador:gabriel-jesus",
+    "clubId": "clube:arsenal",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante",
+      "Ponta_Direita"
+    ],
+    "rating": 83
+  },
+  {
+    "playerId": "jogador:jakub-kiwior",
+    "clubId": "clube:arsenal",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro",
+      "Lateral_Esquerdo"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:jan-oblak",
+    "clubId": "clube:atletico-madrid",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 89
+  },
+  {
+    "playerId": "jogador:jose-gimenez",
+    "clubId": "clube:atletico-madrid",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 84
+  },
+  {
+    "playerId": "jogador:stefan-savic",
+    "clubId": "clube:atletico-madrid",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 81
+  },
+  {
+    "playerId": "jogador:reinildo",
+    "clubId": "clube:atletico-madrid",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo",
+      "Zagueiro"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:nahuel-molina",
+    "clubId": "clube:atletico-madrid",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito"
+    ],
+    "rating": 83
+  },
+  {
+    "playerId": "jogador:mario-hermoso",
+    "clubId": "clube:atletico-madrid",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro",
+      "Lateral_Esquerdo"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:koke",
+    "clubId": "clube:atletico-madrid",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Volante"
+    ],
+    "rating": 84
+  },
+  {
+    "playerId": "jogador:rodrigo-de-paul",
+    "clubId": "clube:atletico-madrid",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Volante"
+    ],
+    "rating": 84
+  },
+  {
+    "playerId": "jogador:marcos-llorente",
+    "clubId": "clube:atletico-madrid",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Lateral_Direito"
+    ],
+    "rating": 84
+  },
+  {
+    "playerId": "jogador:saul-niguez",
+    "clubId": "clube:atletico-madrid",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:antoine-griezmann",
+    "clubId": "clube:atletico-madrid",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante",
+      "Meia_Ofensivo"
+    ],
+    "rating": 88
+  },
+  {
+    "playerId": "jogador:alvaro-morata",
+    "clubId": "clube:atletico-madrid",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 83
+  },
+  {
+    "playerId": "jogador:memphis-depay",
+    "clubId": "clube:atletico-madrid",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante",
+      "Ponta_Esquerda"
+    ],
+    "rating": 82
+  },
+  {
+    "playerId": "jogador:angel-correa",
+    "clubId": "clube:atletico-madrid",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante",
+      "Ponta_Direita"
+    ],
+    "rating": 82
+  },
+  {
+    "playerId": "jogador:samuel-lino",
+    "clubId": "clube:atletico-madrid",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:alex-meret",
+    "clubId": "clube:napoli",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 83
+  },
+  {
+    "playerId": "jogador:amir-rrahmani",
+    "clubId": "clube:napoli",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 82
+  },
+  {
+    "playerId": "jogador:giovanni-di-lorenzo",
+    "clubId": "clube:napoli",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito",
+      "Zagueiro"
+    ],
+    "rating": 84
+  },
+  {
+    "playerId": "jogador:mario-rui",
+    "clubId": "clube:napoli",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:juan-jesus",
+    "clubId": "clube:napoli",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:andre-zambo-anguissa",
+    "clubId": "clube:napoli",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Volante"
+    ],
+    "rating": 84
+  },
+  {
+    "playerId": "jogador:stanislav-lobotka",
+    "clubId": "clube:napoli",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Volante",
+      "Meia_Central"
+    ],
+    "rating": 86
+  },
+  {
+    "playerId": "jogador:piotr-zielinski",
+    "clubId": "clube:napoli",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Meia_Ofensivo"
+    ],
+    "rating": 84
+  },
+  {
+    "playerId": "jogador:matteo-politano",
+    "clubId": "clube:napoli",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita"
+    ],
+    "rating": 82
+  },
+  {
+    "playerId": "jogador:khvicha-kvaratskhelia",
+    "clubId": "clube:napoli",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda",
+      "Atacante"
+    ],
+    "rating": 87
+  },
+  {
+    "playerId": "jogador:victor-osimhen",
+    "clubId": "clube:napoli",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 89
+  },
+  {
+    "playerId": "jogador:giacomo-raspadori",
+    "clubId": "clube:napoli",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante",
+      "Meia_Ofensivo"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:eljif-elmas",
+    "clubId": "clube:napoli",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Ponta_Esquerda"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:jesper-lindstrom",
+    "clubId": "clube:napoli",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita",
+      "Meia_Ofensivo"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:min-jae-kim-napoli",
+    "clubId": "clube:napoli",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 86
+  },
+  {
+    "playerId": "jogador:alisson-becker",
+    "clubId": "clube:liverpool",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 89
+  },
+  {
+    "playerId": "jogador:virgil-van-dijk",
+    "clubId": "clube:liverpool",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 89
+  },
+  {
+    "playerId": "jogador:ibrahima-konate",
+    "clubId": "clube:liverpool",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 84
+  },
+  {
+    "playerId": "jogador:joe-gomez",
+    "clubId": "clube:liverpool",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro",
+      "Lateral_Direito"
+    ],
+    "rating": 81
+  },
+  {
+    "playerId": "jogador:trent-alexander-arnold",
+    "clubId": "clube:liverpool",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito"
+    ],
+    "rating": 87
+  },
+  {
+    "playerId": "jogador:andrew-robertson",
+    "clubId": "clube:liverpool",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo"
+    ],
+    "rating": 84
+  },
+  {
+    "playerId": "jogador:alexis-mac-allister",
+    "clubId": "clube:liverpool",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Volante"
+    ],
+    "rating": 85
+  },
+  {
+    "playerId": "jogador:dominik-szoboszlai",
+    "clubId": "clube:liverpool",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Ofensivo",
+      "Meia_Central"
+    ],
+    "rating": 83
+  },
+  {
+    "playerId": "jogador:wataru-endo",
+    "clubId": "clube:liverpool",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Volante"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:ryan-gravenberch",
+    "clubId": "clube:liverpool",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Volante"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:mohamed-salah",
+    "clubId": "clube:liverpool",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita",
+      "Atacante"
+    ],
+    "rating": 90
+  },
+  {
+    "playerId": "jogador:luis-diaz",
+    "clubId": "clube:liverpool",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda"
+    ],
+    "rating": 85
+  },
+  {
+    "playerId": "jogador:cody-gakpo",
+    "clubId": "clube:liverpool",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda",
+      "Atacante"
+    ],
+    "rating": 83
+  },
+  {
+    "playerId": "jogador:darwin-nunez",
+    "clubId": "clube:liverpool",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 84
+  },
+  {
+    "playerId": "jogador:diogo-jota",
+    "clubId": "clube:liverpool",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante",
+      "Ponta_Esquerda"
+    ],
+    "rating": 84
+  },
+  {
+    "playerId": "jogador:diogo-costa",
+    "clubId": "clube:porto",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 85
+  },
+  {
+    "playerId": "jogador:pepe",
+    "clubId": "clube:porto",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 82
+  },
+  {
+    "playerId": "jogador:david-carmo",
+    "clubId": "clube:porto",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:chancel-mbemba",
+    "clubId": "clube:porto",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:joao-mario-porto",
+    "clubId": "clube:porto",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:zaidu-sanusi",
+    "clubId": "clube:porto",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:alan-varela",
+    "clubId": "clube:porto",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Volante",
+      "Meia_Central"
+    ],
+    "rating": 82
+  },
+  {
+    "playerId": "jogador:otavio",
+    "clubId": "clube:porto",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Ponta_Direita"
+    ],
+    "rating": 83
+  },
+  {
+    "playerId": "jogador:stephen-eustaquio",
+    "clubId": "clube:porto",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Volante"
+    ],
+    "rating": 81
+  },
+  {
+    "playerId": "jogador:galeno",
+    "clubId": "clube:porto",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda",
+      "Ponta_Direita"
+    ],
+    "rating": 82
+  },
+  {
+    "playerId": "jogador:mehdi-taremi",
+    "clubId": "clube:porto",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 84
+  },
+  {
+    "playerId": "jogador:evanilson",
+    "clubId": "clube:porto",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 81
+  },
+  {
+    "playerId": "jogador:pepe-porto",
+    "clubId": "clube:porto",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda",
+      "Ponta_Direita"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:francisco-conceicao",
+    "clubId": "clube:porto",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:mike-maignan",
+    "clubId": "clube:ac-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 88
+  },
+  {
+    "playerId": "jogador:fikayo-tomori",
+    "clubId": "clube:ac-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 84
+  },
+  {
+    "playerId": "jogador:malick-thiaw",
+    "clubId": "clube:ac-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:theo-hernandez",
+    "clubId": "clube:ac-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo"
+    ],
+    "rating": 87
+  },
+  {
+    "playerId": "jogador:davide-calabria",
+    "clubId": "clube:ac-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:tijjani-reijnders",
+    "clubId": "clube:ac-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central"
+    ],
+    "rating": 82
+  },
+  {
+    "playerId": "jogador:ismael-bennacer",
+    "clubId": "clube:ac-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Volante",
+      "Meia_Central"
+    ],
+    "rating": 83
+  },
+  {
+    "playerId": "jogador:ruben-loftus-cheek",
+    "clubId": "clube:ac-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Meia_Ofensivo"
+    ],
+    "rating": 82
+  },
+  {
+    "playerId": "jogador:christian-pulisic",
+    "clubId": "clube:ac-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita",
+      "Meia_Ofensivo"
+    ],
+    "rating": 83
+  },
+  {
+    "playerId": "jogador:rafael-leao",
+    "clubId": "clube:ac-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda",
+      "Atacante"
+    ],
+    "rating": 86
+  },
+  {
+    "playerId": "jogador:samuel-chukwueze",
+    "clubId": "clube:ac-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:olivier-giroud",
+    "clubId": "clube:ac-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 82
+  },
+  {
+    "playerId": "jogador:noah-okafor",
+    "clubId": "clube:ac-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante",
+      "Ponta_Esquerda"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:yunus-musah",
+    "clubId": "clube:ac-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Volante"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:andre-onana",
+    "clubId": "clube:manchester-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 84
+  },
+  {
+    "playerId": "jogador:raphael-varane",
+    "clubId": "clube:manchester-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 83
+  },
+  {
+    "playerId": "jogador:lisandro-martinez",
+    "clubId": "clube:manchester-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro",
+      "Lateral_Esquerdo"
+    ],
+    "rating": 84
+  },
+  {
+    "playerId": "jogador:luke-shaw",
+    "clubId": "clube:manchester-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo"
+    ],
+    "rating": 83
+  },
+  {
+    "playerId": "jogador:diogo-dalot",
+    "clubId": "clube:manchester-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito",
+      "Lateral_Esquerdo"
+    ],
+    "rating": 82
+  },
+  {
+    "playerId": "jogador:harry-maguire",
+    "clubId": "clube:manchester-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:casemiro",
+    "clubId": "clube:manchester-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Volante",
+      "Meia_Central"
+    ],
+    "rating": 84
+  },
+  {
+    "playerId": "jogador:kobbie-mainoo",
+    "clubId": "clube:manchester-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:bruno-fernandes",
+    "clubId": "clube:manchester-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Ofensivo",
+      "Meia_Central"
+    ],
+    "rating": 88
+  },
+  {
+    "playerId": "jogador:mason-mount",
+    "clubId": "clube:manchester-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Ofensivo",
+      "Meia_Central"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:marcus-rashford",
+    "clubId": "clube:manchester-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda",
+      "Atacante"
+    ],
+    "rating": 84
+  },
+  {
+    "playerId": "jogador:alejandro-garnacho",
+    "clubId": "clube:manchester-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda",
+      "Ponta_Direita"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:rasmus-hojlund",
+    "clubId": "clube:manchester-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:antony",
+    "clubId": "clube:manchester-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:wojciech-szczesny",
+    "clubId": "clube:juventus",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 85
+  },
+  {
+    "playerId": "jogador:gleison-bremer",
+    "clubId": "clube:juventus",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 85
+  },
+  {
+    "playerId": "jogador:federico-gatti",
+    "clubId": "clube:juventus",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:danilo",
+    "clubId": "clube:juventus",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito",
+      "Zagueiro"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:alex-sandro",
+    "clubId": "clube:juventus",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:andrea-cambiaso",
+    "clubId": "clube:juventus",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo",
+      "Lateral_Direito"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:adrien-rabiot",
+    "clubId": "clube:juventus",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Volante"
+    ],
+    "rating": 82
+  },
+  {
+    "playerId": "jogador:manuel-locatelli",
+    "clubId": "clube:juventus",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Volante",
+      "Meia_Central"
+    ],
+    "rating": 81
+  },
+  {
+    "playerId": "jogador:filip-kostic",
+    "clubId": "clube:juventus",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda",
+      "Lateral_Esquerdo"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:federico-chiesa",
+    "clubId": "clube:juventus",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita",
+      "Ponta_Esquerda"
+    ],
+    "rating": 83
+  },
+  {
+    "playerId": "jogador:dusan-vlahovic",
+    "clubId": "clube:juventus",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 85
+  },
+  {
+    "playerId": "jogador:diant-ramaj",
+    "clubId": "clube:ajax",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:josip-sutalo",
+    "clubId": "clube:ajax",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:devyne-rensch",
+    "clubId": "clube:ajax",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito",
+      "Zagueiro"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:jorrel-hato",
+    "clubId": "clube:ajax",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo",
+      "Zagueiro"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:steven-bergwijn",
+    "clubId": "clube:ajax",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda",
+      "Ponta_Direita"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:kenneth-taylor",
+    "clubId": "clube:ajax",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Volante"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:steven-berghuis",
+    "clubId": "clube:ajax",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Ofensivo",
+      "Ponta_Direita"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:mohammed-kudus",
+    "clubId": "clube:ajax",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Ofensivo",
+      "Ponta_Direita"
+    ],
+    "rating": 81
+  },
+  {
+    "playerId": "jogador:brian-brobbey",
+    "clubId": "clube:ajax",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:carlos-forbs",
+    "clubId": "clube:ajax",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:anatoliy-trubin",
+    "clubId": "clube:benfica",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 81
+  },
+  {
+    "playerId": "jogador:antonio-silva",
+    "clubId": "clube:benfica",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 82
+  },
+  {
+    "playerId": "jogador:nicolas-otamendi",
+    "clubId": "clube:benfica",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 82
+  },
+  {
+    "playerId": "jogador:alexander-bah",
+    "clubId": "clube:benfica",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:alvaro-carreras",
+    "clubId": "clube:benfica",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:joao-neves",
+    "clubId": "clube:benfica",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Volante"
+    ],
+    "rating": 82
+  },
+  {
+    "playerId": "jogador:florentino-luis",
+    "clubId": "clube:benfica",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Volante"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:rafa-silva",
+    "clubId": "clube:benfica",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita",
+      "Meia_Ofensivo"
+    ],
+    "rating": 83
+  },
+  {
+    "playerId": "jogador:angel-di-maria",
+    "clubId": "clube:benfica",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita",
+      "Meia_Ofensivo"
+    ],
+    "rating": 84
+  },
+  {
+    "playerId": "jogador:joao-mario-benfica",
+    "clubId": "clube:benfica",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Meia_Ofensivo"
+    ],
+    "rating": 81
+  },
+  {
+    "playerId": "jogador:petar-musa",
+    "clubId": "clube:benfica",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:peter-gulacsi",
+    "clubId": "clube:rb-leipzig",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 84
+  },
+  {
+    "playerId": "jogador:willi-orban",
+    "clubId": "clube:rb-leipzig",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 82
+  },
+  {
+    "playerId": "jogador:castello-lukeba",
+    "clubId": "clube:rb-leipzig",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:benjamin-henrichs",
+    "clubId": "clube:rb-leipzig",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito",
+      "Lateral_Esquerdo"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:david-raum",
+    "clubId": "clube:rb-leipzig",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo"
+    ],
+    "rating": 81
+  },
+  {
+    "playerId": "jogador:xavi-simons",
+    "clubId": "clube:rb-leipzig",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Ofensivo",
+      "Ponta_Direita"
+    ],
+    "rating": 83
+  },
+  {
+    "playerId": "jogador:dani-olmo",
+    "clubId": "clube:rb-leipzig",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Ofensivo",
+      "Ponta_Esquerda"
+    ],
+    "rating": 85
+  },
+  {
+    "playerId": "jogador:amadou-haidara",
+    "clubId": "clube:rb-leipzig",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Volante"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:kevin-kampl",
+    "clubId": "clube:rb-leipzig",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Volante",
+      "Meia_Central"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:lois-openda",
+    "clubId": "clube:rb-leipzig",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 83
+  },
+  {
+    "playerId": "jogador:walter-benitez",
+    "clubId": "clube:psv",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 82
+  },
+  {
+    "playerId": "jogador:jordan-teze",
+    "clubId": "clube:psv",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito",
+      "Zagueiro"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:andre-ramalho",
+    "clubId": "clube:psv",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:olivier-boscagli",
+    "clubId": "clube:psv",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro",
+      "Lateral_Esquerdo"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:lutsharel-geertruida",
+    "clubId": "clube:psv",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito",
+      "Zagueiro"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:joey-veerman",
+    "clubId": "clube:psv",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central"
+    ],
+    "rating": 81
+  },
+  {
+    "playerId": "jogador:jerdy-schouten",
+    "clubId": "clube:psv",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Volante",
+      "Meia_Central"
+    ],
+    "rating": 81
+  },
+  {
+    "playerId": "jogador:ibrahim-sangare",
+    "clubId": "clube:psv",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Volante"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:hirving-lozano",
+    "clubId": "clube:psv",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita",
+      "Atacante"
+    ],
+    "rating": 81
+  },
+  {
+    "playerId": "jogador:johan-bakayoko",
+    "clubId": "clube:psv",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:luuk-de-jong",
+    "clubId": "clube:psv",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:ivan-provedel",
+    "clubId": "clube:lazio",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 82
+  },
+  {
+    "playerId": "jogador:alessio-romagnoli",
+    "clubId": "clube:lazio",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:patric",
+    "clubId": "clube:lazio",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito",
+      "Zagueiro"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:adam-marusic",
+    "clubId": "clube:lazio",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito",
+      "Lateral_Esquerdo"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:mattia-zaccagni",
+    "clubId": "clube:lazio",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda",
+      "Meia_Ofensivo"
+    ],
+    "rating": 82
+  },
+  {
+    "playerId": "jogador:sergej-milinkovic-savic",
+    "clubId": "clube:lazio",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Meia_Ofensivo"
+    ],
+    "rating": 86
+  },
+  {
+    "playerId": "jogador:luis-alberto",
+    "clubId": "clube:lazio",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Ofensivo",
+      "Meia_Central"
+    ],
+    "rating": 83
+  },
+  {
+    "playerId": "jogador:daichi-kamada",
+    "clubId": "clube:lazio",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Ofensivo",
+      "Meia_Central"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:felipe-anderson",
+    "clubId": "clube:lazio",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita",
+      "Meia_Ofensivo"
+    ],
+    "rating": 81
+  },
+  {
+    "playerId": "jogador:ciro-immobile",
+    "clubId": "clube:lazio",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 84
+  },
+  {
+    "playerId": "jogador:alex-remiro",
+    "clubId": "clube:real-sociedad",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 83
+  },
+  {
+    "playerId": "jogador:robin-le-normand",
+    "clubId": "clube:real-sociedad",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 83
+  },
+  {
+    "playerId": "jogador:igor-zubeldia",
+    "clubId": "clube:real-sociedad",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro",
+      "Volante"
+    ],
+    "rating": 81
+  },
+  {
+    "playerId": "jogador:aritz-elustondo",
+    "clubId": "clube:real-sociedad",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito",
+      "Zagueiro"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:mikel-oyarzabal",
+    "clubId": "clube:real-sociedad",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda",
+      "Atacante"
+    ],
+    "rating": 83
+  },
+  {
+    "playerId": "jogador:martin-zubimendi",
+    "clubId": "clube:real-sociedad",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Volante",
+      "Meia_Central"
+    ],
+    "rating": 85
+  },
+  {
+    "playerId": "jogador:mikel-merino",
+    "clubId": "clube:real-sociedad",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Volante"
+    ],
+    "rating": 83
+  },
+  {
+    "playerId": "jogador:brais-mendez",
+    "clubId": "clube:real-sociedad",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Ofensivo",
+      "Ponta_Direita"
+    ],
+    "rating": 81
+  },
+  {
+    "playerId": "jogador:takefusa-kubo",
+    "clubId": "clube:real-sociedad",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita",
+      "Meia_Ofensivo"
+    ],
+    "rating": 82
+  },
+  {
+    "playerId": "jogador:alexander-sorloth",
+    "clubId": "clube:real-sociedad",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 81
+  },
+  {
+    "playerId": "jogador:kamil-grabara",
+    "clubId": "clube:fc-copenhagen",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:denis-vavro",
+    "clubId": "clube:fc-copenhagen",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:davit-khocholava",
+    "clubId": "clube:fc-copenhagen",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:victor-kristiansen",
+    "clubId": "clube:fc-copenhagen",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:elias-jelert",
+    "clubId": "clube:fc-copenhagen",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:lukas-lerager",
+    "clubId": "clube:fc-copenhagen",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Volante"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:oscar-hojlund",
+    "clubId": "clube:fc-copenhagen",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central"
+    ],
+    "rating": 75
+  },
+  {
+    "playerId": "jogador:roony-bardghji",
+    "clubId": "clube:fc-copenhagen",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:mohamed-daramy",
+    "clubId": "clube:fc-copenhagen",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda",
+      "Ponta_Direita"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:orri-oskarsson",
+    "clubId": "clube:fc-copenhagen",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:nick-pope",
+    "clubId": "clube:newcastle-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 84
+  },
+  {
+    "playerId": "jogador:kieran-trippier",
+    "clubId": "clube:newcastle-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito"
+    ],
+    "rating": 84
+  },
+  {
+    "playerId": "jogador:sven-botman",
+    "clubId": "clube:newcastle-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 83
+  },
+  {
+    "playerId": "jogador:fabian-schar",
+    "clubId": "clube:newcastle-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 82
+  },
+  {
+    "playerId": "jogador:dan-burn",
+    "clubId": "clube:newcastle-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro",
+      "Lateral_Esquerdo"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:bruno-guimaraes",
+    "clubId": "clube:newcastle-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Volante"
+    ],
+    "rating": 86
+  },
+  {
+    "playerId": "jogador:joelinton",
+    "clubId": "clube:newcastle-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Ponta_Esquerda"
+    ],
+    "rating": 82
+  },
+  {
+    "playerId": "jogador:sean-longstaff",
+    "clubId": "clube:newcastle-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Volante"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:anthony-gordon",
+    "clubId": "clube:newcastle-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda"
+    ],
+    "rating": 82
+  },
+  {
+    "playerId": "jogador:alexander-isak",
+    "clubId": "clube:newcastle-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 85
+  },
+  {
+    "playerId": "jogador:yassine-bounou",
+    "clubId": "clube:sevilla",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 84
+  },
+  {
+    "playerId": "jogador:loic-bade",
+    "clubId": "clube:sevilla",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:sergio-ramos",
+    "clubId": "clube:sevilla",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:jesus-navas",
+    "clubId": "clube:sevilla",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:marcos-acuna",
+    "clubId": "clube:sevilla",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:ivan-rakitic",
+    "clubId": "clube:sevilla",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Volante"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:lucas-ocampos",
+    "clubId": "clube:sevilla",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita",
+      "Ponta_Esquerda"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:youssef-en-nesyri",
+    "clubId": "clube:sevilla",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:fernando-muslera",
+    "clubId": "clube:galatasaray",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 81
+  },
+  {
+    "playerId": "jogador:davinson-sanchez",
+    "clubId": "clube:galatasaray",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 81
+  },
+  {
+    "playerId": "jogador:victor-nelsson",
+    "clubId": "clube:galatasaray",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:sacha-boey",
+    "clubId": "clube:galatasaray",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:angelino",
+    "clubId": "clube:galatasaray",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:lucas-torreira",
+    "clubId": "clube:galatasaray",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Volante",
+      "Meia_Central"
+    ],
+    "rating": 81
+  },
+  {
+    "playerId": "jogador:kerem-akturkoglu",
+    "clubId": "clube:galatasaray",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:hakim-ziyech",
+    "clubId": "clube:galatasaray",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita",
+      "Meia_Ofensivo"
+    ],
+    "rating": 82
+  },
+  {
+    "playerId": "jogador:wilfried-zaha",
+    "clubId": "clube:galatasaray",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda",
+      "Atacante"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:mauro-icardi",
+    "clubId": "clube:galatasaray",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 82
+  },
+  {
+    "playerId": "jogador:joe-hart",
+    "clubId": "clube:celtic",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:cameron-carter-vickers",
+    "clubId": "clube:celtic",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:gustaf-lagerbielke",
+    "clubId": "clube:celtic",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:alistair-johnston",
+    "clubId": "clube:celtic",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:greg-taylor",
+    "clubId": "clube:celtic",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:callum-mcgregor",
+    "clubId": "clube:celtic",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Volante"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:reo-hatate",
+    "clubId": "clube:celtic",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:matt-oreilly",
+    "clubId": "clube:celtic",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Ofensivo",
+      "Meia_Central"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:daizen-maeda",
+    "clubId": "clube:celtic",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda",
+      "Atacante"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:kyogo-furuhashi",
+    "clubId": "clube:celtic",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:justin-bijlow",
+    "clubId": "clube:feyenoord",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:gernot-trauner",
+    "clubId": "clube:feyenoord",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:lutsharel-geertruida-fey",
+    "clubId": "clube:feyenoord",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito",
+      "Zagueiro"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:quilindschy-hartman",
+    "clubId": "clube:feyenoord",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:mats-wieffer",
+    "clubId": "clube:feyenoord",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Volante",
+      "Meia_Central"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:quinten-timber",
+    "clubId": "clube:feyenoord",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:sebastian-szymanski",
+    "clubId": "clube:feyenoord",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Ofensivo",
+      "Ponta_Direita"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:igor-paixao",
+    "clubId": "clube:feyenoord",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:santiago-gimenez",
+    "clubId": "clube:feyenoord",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 81
+  },
+  {
+    "playerId": "jogador:matheus-braga",
+    "clubId": "clube:braga",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:niakate",
+    "clubId": "clube:braga",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:rodrigo-gomes",
+    "clubId": "clube:braga",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita",
+      "Lateral_Direito"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:ricardo-horta",
+    "clubId": "clube:braga",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda",
+      "Meia_Ofensivo"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:simon-banza",
+    "clubId": "clube:braga",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:andre-castro",
+    "clubId": "clube:braga",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Volante"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:bruma",
+    "clubId": "clube:braga",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda",
+      "Ponta_Direita"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:alvaro-djalo",
+    "clubId": "clube:braga",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:janis-blaswich",
+    "clubId": "clube:salzburg",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:strahinja-pavlovic",
+    "clubId": "clube:salzburg",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:amar-dedic",
+    "clubId": "clube:salzburg",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:oscar-gloukh",
+    "clubId": "clube:salzburg",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Ofensivo",
+      "Ponta_Direita"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:lucas-gourna-douath",
+    "clubId": "clube:salzburg",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Volante",
+      "Meia_Central"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:luka-sucic",
+    "clubId": "clube:salzburg",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Meia_Ofensivo"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:adam-daghim",
+    "clubId": "clube:salzburg",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda"
+    ],
+    "rating": 75
+  },
+  {
+    "playerId": "jogador:karim-konate",
+    "clubId": "clube:salzburg",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:frederik-ronnow",
+    "clubId": "clube:union-berlin",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:robin-knoche",
+    "clubId": "clube:union-berlin",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:danilho-doekhi",
+    "clubId": "clube:union-berlin",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:christopher-trimmel",
+    "clubId": "clube:union-berlin",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:rani-khedira",
+    "clubId": "clube:union-berlin",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Volante",
+      "Meia_Central"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:robin-gosens",
+    "clubId": "clube:union-berlin",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo",
+      "Ponta_Esquerda"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:kevin-volland",
+    "clubId": "clube:union-berlin",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante",
+      "Meia_Ofensivo"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:sheraldo-becker",
+    "clubId": "clube:union-berlin",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita",
+      "Atacante"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:brice-samba",
+    "clubId": "clube:lens",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 82
+  },
+  {
+    "playerId": "jogador:kevin-danso",
+    "clubId": "clube:lens",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 81
+  },
+  {
+    "playerId": "jogador:facundo-medina",
+    "clubId": "clube:lens",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro",
+      "Lateral_Esquerdo"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:jonathan-clauss",
+    "clubId": "clube:lens",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:abdukodir-khusanov",
+    "clubId": "clube:lens",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:seko-fofana",
+    "clubId": "clube:lens",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Volante"
+    ],
+    "rating": 83
+  },
+  {
+    "playerId": "jogador:andy-diouf",
+    "clubId": "clube:lens",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:florian-sotoca",
+    "clubId": "clube:lens",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante",
+      "Ponta_Direita"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:elye-wahi",
+    "clubId": "clube:lens",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:david-von-ballmoos",
+    "clubId": "clube:young-boys",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:loris-benito",
+    "clubId": "clube:young-boys",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo",
+      "Zagueiro"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:mohamed-camara-yb",
+    "clubId": "clube:young-boys",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:ulisses-garcia",
+    "clubId": "clube:young-boys",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:sandro-lauper",
+    "clubId": "clube:young-boys",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Volante"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:filip-ugrinic",
+    "clubId": "clube:young-boys",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Meia_Ofensivo"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:joel-monteiro",
+    "clubId": "clube:young-boys",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda",
+      "Ponta_Direita"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:cedric-itten",
+    "clubId": "clube:young-boys",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:omri-glazer",
+    "clubId": "clube:red-star-belgrade",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:uros-spajic",
+    "clubId": "clube:red-star-belgrade",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:milan-rodic",
+    "clubId": "clube:red-star-belgrade",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:guelor-kanga",
+    "clubId": "clube:red-star-belgrade",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Volante"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:mirko-ivanic",
+    "clubId": "clube:red-star-belgrade",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Ofensivo",
+      "Meia_Central"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:osman-bukari",
+    "clubId": "clube:red-star-belgrade",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:aleksandar-katai",
+    "clubId": "clube:red-star-belgrade",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda",
+      "Meia_Ofensivo"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:cherif-ndiaye",
+    "clubId": "clube:red-star-belgrade",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:jean-butez",
+    "clubId": "clube:antwerp",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:toby-alderweireld",
+    "clubId": "clube:antwerp",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:zeno-debast",
+    "clubId": "clube:antwerp",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:arthur-vermeeren",
+    "clubId": "clube:antwerp",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Volante"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:vincent-janssen",
+    "clubId": "clube:antwerp",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:mandela-keita",
+    "clubId": "clube:antwerp",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Volante"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:gyrano-kerk",
+    "clubId": "clube:antwerp",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:michel-ange-balikwisha",
+    "clubId": "clube:antwerp",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda",
+      "Meia_Ofensivo"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:anatoliy-trubin-shk",
+    "clubId": "clube:shakhtar-donetsk",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:mykola-matviyenko",
+    "clubId": "clube:shakhtar-donetsk",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro",
+      "Lateral_Esquerdo"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:valeriy-bondar",
+    "clubId": "clube:shakhtar-donetsk",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:yukhym-konoplya",
+    "clubId": "clube:shakhtar-donetsk",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:taras-stepanenko",
+    "clubId": "clube:shakhtar-donetsk",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Volante",
+      "Meia_Central"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:georgiy-sudakov",
+    "clubId": "clube:shakhtar-donetsk",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Ofensivo",
+      "Meia_Central"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:marian-shved",
+    "clubId": "clube:shakhtar-donetsk",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:danylo-sikan",
+    "clubId": "clube:shakhtar-donetsk",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:eguinaldo",
+    "clubId": "clube:shakhtar-donetsk",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda",
+      "Atacante"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:thibaut-courtois",
+    "clubId": "clube:real-madrid",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 90
+  },
+  {
+    "playerId": "jogador:toni-kroos",
+    "clubId": "clube:real-madrid",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Volante"
+    ],
+    "rating": 90
+  },
+  {
+    "playerId": "jogador:jude-bellingham",
+    "clubId": "clube:real-madrid",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Ofensivo",
+      "Meia_Central"
+    ],
+    "rating": 91
+  },
+  {
+    "playerId": "jogador:vinicius-junior",
+    "clubId": "clube:real-madrid",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda",
+      "Atacante"
+    ],
+    "rating": 95
+  },
+  {
+    "playerId": "jogador:rodrygo",
+    "clubId": "clube:real-madrid",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita",
+      "Atacante"
+    ],
+    "rating": 88
+  },
+  {
+    "playerId": "jogador:scott-carson",
+    "clubId": "clube:manchester-city",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:sergio-gomez",
+    "clubId": "clube:manchester-city",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:inaki-pena",
+    "clubId": "clube:barcelona",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:inigo-martinez",
+    "clubId": "clube:barcelona",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:eric-garcia",
+    "clubId": "clube:barcelona",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:marcos-alonso",
+    "clubId": "clube:barcelona",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:sergi-roberto",
+    "clubId": "clube:barcelona",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito",
+      "Meia_Central"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:oriol-romeu",
+    "clubId": "clube:barcelona",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Volante"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:vitor-roque",
+    "clubId": "clube:barcelona",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 75
+  },
+  {
+    "playerId": "jogador:ansu-fati",
+    "clubId": "clube:barcelona",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda",
+      "Atacante"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:sven-ulreich",
+    "clubId": "clube:bayern-munich",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:eric-dier",
+    "clubId": "clube:bayern-munich",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:noussair-mazraoui",
+    "clubId": "clube:bayern-munich",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:sacha-boey-bay",
+    "clubId": "clube:bayern-munich",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:aleksandar-pavlovic",
+    "clubId": "clube:bayern-munich",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Volante"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:ryan-gravenberch-bay",
+    "clubId": "clube:bayern-munich",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:mathys-tel",
+    "clubId": "clube:bayern-munich",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante",
+      "Ponta_Esquerda"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:bryan-zaragoza",
+    "clubId": "clube:bayern-munich",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:emil-audero",
+    "clubId": "clube:inter-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:carlos-augusto",
+    "clubId": "clube:inter-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo",
+      "Zagueiro"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:yann-bisseck",
+    "clubId": "clube:inter-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:tajon-buchanan",
+    "clubId": "clube:inter-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito",
+      "Ponta_Direita"
+    ],
+    "rating": 75
+  },
+  {
+    "playerId": "jogador:kristjan-asllani",
+    "clubId": "clube:inter-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Volante"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:juan-cuadrado",
+    "clubId": "clube:inter-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:alexis-sanchez",
+    "clubId": "clube:inter-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante",
+      "Ponta_Esquerda"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:davy-klaassen",
+    "clubId": "clube:inter-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:keylor-navas",
+    "clubId": "clube:psg",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:presnel-kimpembe",
+    "clubId": "clube:psg",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:nordi-mukiele",
+    "clubId": "clube:psg",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito",
+      "Zagueiro"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:danilo-pereira",
+    "clubId": "clube:psg",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Volante",
+      "Zagueiro"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:manuel-ugarte",
+    "clubId": "clube:psg",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Volante"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:carlos-soler",
+    "clubId": "clube:psg",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Meia_Ofensivo"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:hugo-ekitike",
+    "clubId": "clube:psg",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:marco-asensio",
+    "clubId": "clube:psg",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita",
+      "Meia_Ofensivo"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:alexander-meyer",
+    "clubId": "clube:borussia-dortmund",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 75
+  },
+  {
+    "playerId": "jogador:marius-wolf",
+    "clubId": "clube:borussia-dortmund",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:ramy-bensebaini",
+    "clubId": "clube:borussia-dortmund",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo",
+      "Zagueiro"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:niklas-sule",
+    "clubId": "clube:borussia-dortmund",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:salih-ozcan",
+    "clubId": "clube:borussia-dortmund",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Volante"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:giovanni-reyna",
+    "clubId": "clube:borussia-dortmund",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Ofensivo",
+      "Ponta_Direita"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:youssoufa-moukoko",
+    "clubId": "clube:borussia-dortmund",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:jamie-bynoe-gittens",
+    "clubId": "clube:borussia-dortmund",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:aaron-ramsdale",
+    "clubId": "clube:arsenal",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:jurrien-timber",
+    "clubId": "clube:arsenal",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito",
+      "Zagueiro"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:kieran-tierney",
+    "clubId": "clube:arsenal",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:thomas-partey",
+    "clubId": "clube:arsenal",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Volante",
+      "Meia_Central"
+    ],
+    "rating": 82
+  },
+  {
+    "playerId": "jogador:fabio-vieira",
+    "clubId": "clube:arsenal",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Ofensivo"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:emile-smith-rowe",
+    "clubId": "clube:arsenal",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Ofensivo",
+      "Ponta_Esquerda"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:eddie-nketiah",
+    "clubId": "clube:arsenal",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:reiss-nelson",
+    "clubId": "clube:arsenal",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita"
+    ],
+    "rating": 75
+  },
+  {
+    "playerId": "jogador:ivo-grbic",
+    "clubId": "clube:atletico-madrid",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:axel-witsel",
+    "clubId": "clube:atletico-madrid",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro",
+      "Volante"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:cesar-azpilicueta",
+    "clubId": "clube:atletico-madrid",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito",
+      "Zagueiro"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:javi-galan",
+    "clubId": "clube:atletico-madrid",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:pablo-barrios",
+    "clubId": "clube:atletico-madrid",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Volante"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:thomas-lemar",
+    "clubId": "clube:atletico-madrid",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Ofensivo",
+      "Ponta_Esquerda"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:rodrigo-riquelme",
+    "clubId": "clube:atletico-madrid",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:samuel-lino-atl",
+    "clubId": "clube:atletico-madrid",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda",
+      "Lateral_Esquerdo"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:pierluigi-gollini",
+    "clubId": "clube:napoli",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:natan",
+    "clubId": "clube:napoli",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:leo-ostigard",
+    "clubId": "clube:napoli",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:mathias-olivera",
+    "clubId": "clube:napoli",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:pasquale-mazzocchi",
+    "clubId": "clube:napoli",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:gianluca-gaetano",
+    "clubId": "clube:napoli",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:jens-cajuste",
+    "clubId": "clube:napoli",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Volante"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:alessio-zerbin",
+    "clubId": "clube:napoli",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita",
+      "Ponta_Esquerda"
+    ],
+    "rating": 73
+  },
+  {
+    "playerId": "jogador:caoimhin-kelleher",
+    "clubId": "clube:liverpool",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:joel-matip",
+    "clubId": "clube:liverpool",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:jarell-quansah",
+    "clubId": "clube:liverpool",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:kostas-tsimikas",
+    "clubId": "clube:liverpool",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:conor-bradley",
+    "clubId": "clube:liverpool",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:curtis-jones",
+    "clubId": "clube:liverpool",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:harvey-elliott",
+    "clubId": "clube:liverpool",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Ofensivo",
+      "Ponta_Direita"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:stefan-bajcetic",
+    "clubId": "clube:liverpool",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Volante"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:claudio-ramos",
+    "clubId": "clube:porto",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:ivan-marcano",
+    "clubId": "clube:porto",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:wendell",
+    "clubId": "clube:porto",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:danny-namaso",
+    "clubId": "clube:porto",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante",
+      "Ponta_Direita"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:toni-martinez",
+    "clubId": "clube:porto",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:marko-grujic",
+    "clubId": "clube:porto",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:fabio-cardoso",
+    "clubId": "clube:porto",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 75
+  },
+  {
+    "playerId": "jogador:andre-franco",
+    "clubId": "clube:porto",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Ofensivo"
+    ],
+    "rating": 75
+  },
+  {
+    "playerId": "jogador:ivan-jaime",
+    "clubId": "clube:porto",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:marco-sportiello",
+    "clubId": "clube:ac-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:simon-kjaer",
+    "clubId": "clube:ac-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:pierre-kalulu",
+    "clubId": "clube:ac-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro",
+      "Lateral_Direito"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:matteo-gabbia",
+    "clubId": "clube:ac-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 75
+  },
+  {
+    "playerId": "jogador:alessandro-florenzi",
+    "clubId": "clube:ac-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:tommaso-pobega",
+    "clubId": "clube:ac-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Volante"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:rade-krunic",
+    "clubId": "clube:ac-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central"
+    ],
+    "rating": 75
+  },
+  {
+    "playerId": "jogador:luka-jovic",
+    "clubId": "clube:ac-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:divock-origi",
+    "clubId": "clube:ac-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante",
+      "Ponta_Esquerda"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:tom-heaton",
+    "clubId": "clube:manchester-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:jonny-evans",
+    "clubId": "clube:manchester-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:victor-lindelof",
+    "clubId": "clube:manchester-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:aaron-wan-bissaka",
+    "clubId": "clube:manchester-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:tyrell-malacia",
+    "clubId": "clube:manchester-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:scott-mctominay",
+    "clubId": "clube:manchester-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Volante"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:christian-eriksen",
+    "clubId": "clube:manchester-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Meia_Ofensivo"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:sofyan-amrabat",
+    "clubId": "clube:manchester-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Volante"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:facundo-pellistri",
+    "clubId": "clube:manchester-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:mattia-perin",
+    "clubId": "clube:juventus",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:carlo-pinsoglio",
+    "clubId": "clube:juventus",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 72
+  },
+  {
+    "playerId": "jogador:timothy-weah",
+    "clubId": "clube:juventus",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita",
+      "Atacante"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:fabio-miretti",
+    "clubId": "clube:juventus",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:arkadiusz-milik",
+    "clubId": "clube:juventus",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:samuel-iling-junior",
+    "clubId": "clube:juventus",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda"
+    ],
+    "rating": 73
+  },
+  {
+    "playerId": "jogador:tiago-djalo",
+    "clubId": "clube:juventus",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 75
+  },
+  {
+    "playerId": "jogador:mattia-de-sciglio",
+    "clubId": "clube:juventus",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito",
+      "Lateral_Esquerdo"
+    ],
+    "rating": 75
+  },
+  {
+    "playerId": "jogador:kenan-yildiz",
+    "clubId": "clube:juventus",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda",
+      "Meia_Ofensivo"
+    ],
+    "rating": 75
+  },
+  {
+    "playerId": "jogador:paul-pogba",
+    "clubId": "clube:juventus",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Volante"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:nicolussi-caviglia",
+    "clubId": "clube:juventus",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central"
+    ],
+    "rating": 72
+  },
+  {
+    "playerId": "jogador:carlos-alcaraz-juv",
+    "clubId": "clube:juventus",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Meia_Ofensivo"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:helton-leite",
+    "clubId": "clube:benfica",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:samuel-soares",
+    "clubId": "clube:benfica",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 72
+  },
+  {
+    "playerId": "jogador:joao-victor",
+    "clubId": "clube:benfica",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:tomas-araujo",
+    "clubId": "clube:benfica",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:jan-vertonghen",
+    "clubId": "clube:benfica",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:david-neres",
+    "clubId": "clube:benfica",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita",
+      "Ponta_Esquerda"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:chiquinho-benfica",
+    "clubId": "clube:benfica",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita",
+      "Meia_Ofensivo"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:orkun-kokcu",
+    "clubId": "clube:benfica",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Meia_Ofensivo"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:benjamin-rollheiser",
+    "clubId": "clube:benfica",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante",
+      "Ponta_Esquerda"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:casper-tengstedt",
+    "clubId": "clube:benfica",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:fredrik-aursnes",
+    "clubId": "clube:benfica",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Lateral_Esquerdo"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:gianluca-prestianni",
+    "clubId": "clube:benfica",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita"
+    ],
+    "rating": 72
+  },
+  {
+    "playerId": "jogador:joel-drommel",
+    "clubId": "clube:psv",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:boy-waterman",
+    "clubId": "clube:psv",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 72
+  },
+  {
+    "playerId": "jogador:armando-obispo",
+    "clubId": "clube:psv",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 75
+  },
+  {
+    "playerId": "jogador:philipp-mwene",
+    "clubId": "clube:psv",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:sergino-dest",
+    "clubId": "clube:psv",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:xavi-simons-psv",
+    "clubId": "clube:psv",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Ofensivo",
+      "Ponta_Direita"
+    ],
+    "rating": 82
+  },
+  {
+    "playerId": "jogador:guus-til",
+    "clubId": "clube:psv",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Ofensivo",
+      "Meia_Central"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:malik-tillman",
+    "clubId": "clube:psv",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Ofensivo"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:noa-lang",
+    "clubId": "clube:psv",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda",
+      "Ponta_Direita"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:ricardo-pepi",
+    "clubId": "clube:psv",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:ismael-saibari",
+    "clubId": "clube:psv",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central"
+    ],
+    "rating": 75
+  },
+  {
+    "playerId": "jogador:patrick-van-aanholt",
+    "clubId": "clube:psv",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:geronimo-rulli",
+    "clubId": "clube:ajax",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:jay-gorter",
+    "clubId": "clube:ajax",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 72
+  },
+  {
+    "playerId": "jogador:anton-gaaei",
+    "clubId": "clube:ajax",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:owen-wijndal",
+    "clubId": "clube:ajax",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:jakov-medic",
+    "clubId": "clube:ajax",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:ahmetcan-kaplan",
+    "clubId": "clube:ajax",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:edson-alvarez",
+    "clubId": "clube:ajax",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Volante",
+      "Meia_Central"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:branco-van-den-boomen",
+    "clubId": "clube:ajax",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:benjamin-tahirovic",
+    "clubId": "clube:ajax",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Volante"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:chuba-akpom",
+    "clubId": "clube:ajax",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:sivert-mannsverk",
+    "clubId": "clube:ajax",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Volante"
+    ],
+    "rating": 72
+  },
+  {
+    "playerId": "jogador:mika-godts",
+    "clubId": "clube:ajax",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda"
+    ],
+    "rating": 72
+  },
+  {
+    "playerId": "jogador:davy-klaassen-ajax",
+    "clubId": "clube:ajax",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Meia_Ofensivo"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:janis-blaswich-lei",
+    "clubId": "clube:rb-leipzig",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:leopold-zingerle",
+    "clubId": "clube:rb-leipzig",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 72
+  },
+  {
+    "playerId": "jogador:lukas-klostermann",
+    "clubId": "clube:rb-leipzig",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito",
+      "Zagueiro"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:marcel-halstenberg",
+    "clubId": "clube:rb-leipzig",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo",
+      "Zagueiro"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:abdou-diallo",
+    "clubId": "clube:rb-leipzig",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:christoph-baumgartner",
+    "clubId": "clube:rb-leipzig",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Ofensivo",
+      "Ponta_Direita"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:nicolas-seiwald",
+    "clubId": "clube:rb-leipzig",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Volante",
+      "Meia_Central"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:timo-werner",
+    "clubId": "clube:rb-leipzig",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante",
+      "Ponta_Esquerda"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:andre-silva",
+    "clubId": "clube:rb-leipzig",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:benjamin-sesko",
+    "clubId": "clube:rb-leipzig",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:yussuf-poulsen",
+    "clubId": "clube:rb-leipzig",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante",
+      "Ponta_Direita"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:dominik-szoboszlai-lei",
+    "clubId": "clube:rb-leipzig",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Ofensivo",
+      "Meia_Central"
+    ],
+    "rating": 82
+  },
+  {
+    "playerId": "jogador:mohamed-simakan",
+    "clubId": "clube:rb-leipzig",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro",
+      "Lateral_Direito"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:christos-mandas",
+    "clubId": "clube:lazio",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:luigi-sepe",
+    "clubId": "clube:lazio",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 73
+  },
+  {
+    "playerId": "jogador:mario-gila",
+    "clubId": "clube:lazio",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:nicolo-casale",
+    "clubId": "clube:lazio",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:elseid-hysaj",
+    "clubId": "clube:lazio",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito",
+      "Lateral_Esquerdo"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:luca-pellegrini",
+    "clubId": "clube:lazio",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo"
+    ],
+    "rating": 75
+  },
+  {
+    "playerId": "jogador:danilo-cataldi",
+    "clubId": "clube:lazio",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Volante"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:matias-vecino",
+    "clubId": "clube:lazio",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Volante"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:toma-basic",
+    "clubId": "clube:lazio",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:gustav-isaksen",
+    "clubId": "clube:lazio",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita"
+    ],
+    "rating": 75
+  },
+  {
+    "playerId": "jogador:pedro-lazio",
+    "clubId": "clube:lazio",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita",
+      "Ponta_Esquerda"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:taty-castellanos",
+    "clubId": "clube:lazio",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:diego-gonzalez-lazio",
+    "clubId": "clube:lazio",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 73
+  },
+  {
+    "playerId": "jogador:unai-marrero",
+    "clubId": "clube:real-sociedad",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 72
+  },
+  {
+    "playerId": "jogador:aihen-munoz",
+    "clubId": "clube:real-sociedad",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:hamari-traore",
+    "clubId": "clube:real-sociedad",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:jon-pacheco",
+    "clubId": "clube:real-sociedad",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 75
+  },
+  {
+    "playerId": "jogador:nayef-aguerd",
+    "clubId": "clube:real-sociedad",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:ander-barrenetxea",
+    "clubId": "clube:real-sociedad",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda",
+      "Ponta_Direita"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:carlos-fernandez",
+    "clubId": "clube:real-sociedad",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:pablo-marin",
+    "clubId": "clube:real-sociedad",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita"
+    ],
+    "rating": 73
+  },
+  {
+    "playerId": "jogador:benat-turrientes",
+    "clubId": "clube:real-sociedad",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:umar-sadiq",
+    "clubId": "clube:real-sociedad",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:andre-silva-rs",
+    "clubId": "clube:real-sociedad",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:asier-illarramendi",
+    "clubId": "clube:real-sociedad",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Volante",
+      "Meia_Central"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:kieran-tierney-rs",
+    "clubId": "clube:real-sociedad",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:matt-ryan",
+    "clubId": "clube:fc-copenhagen",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:karl-darlow",
+    "clubId": "clube:fc-copenhagen",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 73
+  },
+  {
+    "playerId": "jogador:kevin-diks",
+    "clubId": "clube:fc-copenhagen",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito",
+      "Zagueiro"
+    ],
+    "rating": 75
+  },
+  {
+    "playerId": "jogador:peter-ankersen",
+    "clubId": "clube:fc-copenhagen",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:nicolai-boilesen",
+    "clubId": "clube:fc-copenhagen",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro",
+      "Lateral_Esquerdo"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:jacob-lungi-sorensen",
+    "clubId": "clube:fc-copenhagen",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro",
+      "Volante"
+    ],
+    "rating": 75
+  },
+  {
+    "playerId": "jogador:diogo-goncalves-cop",
+    "clubId": "clube:fc-copenhagen",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita",
+      "Lateral_Direito"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:hakan-haraldsson",
+    "clubId": "clube:fc-copenhagen",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Ofensivo",
+      "Ponta_Esquerda"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:jordan-larsson",
+    "clubId": "clube:fc-copenhagen",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante",
+      "Ponta_Direita"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:isak-bergmann",
+    "clubId": "clube:fc-copenhagen",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central"
+    ],
+    "rating": 75
+  },
+  {
+    "playerId": "jogador:marko-stamenic",
+    "clubId": "clube:fc-copenhagen",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Volante"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:andreas-cornelius",
+    "clubId": "clube:fc-copenhagen",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:william-boving",
+    "clubId": "clube:fc-copenhagen",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:martin-dubravka",
+    "clubId": "clube:newcastle-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:mark-gillespie",
+    "clubId": "clube:newcastle-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 72
+  },
+  {
+    "playerId": "jogador:lewis-hall",
+    "clubId": "clube:newcastle-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo"
+    ],
+    "rating": 75
+  },
+  {
+    "playerId": "jogador:tino-livramento",
+    "clubId": "clube:newcastle-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:jamaal-lascelles",
+    "clubId": "clube:newcastle-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:matt-targett",
+    "clubId": "clube:newcastle-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo"
+    ],
+    "rating": 75
+  },
+  {
+    "playerId": "jogador:joe-willock",
+    "clubId": "clube:newcastle-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Meia_Ofensivo"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:elliot-anderson",
+    "clubId": "clube:newcastle-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:miguel-almiron",
+    "clubId": "clube:newcastle-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:jacob-murphy",
+    "clubId": "clube:newcastle-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita",
+      "Lateral_Direito"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:callum-wilson",
+    "clubId": "clube:newcastle-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:harvey-barnes",
+    "clubId": "clube:newcastle-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:lloyd-kelly",
+    "clubId": "clube:newcastle-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 75
+  },
+  {
+    "playerId": "jogador:abdulkerim-bardakci",
+    "clubId": "clube:galatasaray",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:kaan-ayhan",
+    "clubId": "clube:galatasaray",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro",
+      "Lateral_Direito"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:ismail-jakobs",
+    "clubId": "clube:galatasaray",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo"
+    ],
+    "rating": 75
+  },
+  {
+    "playerId": "jogador:leo-dubois",
+    "clubId": "clube:galatasaray",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito"
+    ],
+    "rating": 75
+  },
+  {
+    "playerId": "jogador:sergio-oliveira",
+    "clubId": "clube:galatasaray",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Volante"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:dries-mertens",
+    "clubId": "clube:galatasaray",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Ofensivo",
+      "Atacante"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:yunus-akgun",
+    "clubId": "clube:galatasaray",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda"
+    ],
+    "rating": 75
+  },
+  {
+    "playerId": "jogador:baris-alper-yilmaz",
+    "clubId": "clube:galatasaray",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:tete-galatasaray",
+    "clubId": "clube:galatasaray",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita",
+      "Ponta_Esquerda"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:michy-batshuayi",
+    "clubId": "clube:galatasaray",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:derrick-kohn",
+    "clubId": "clube:galatasaray",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:inaki-pena-gal",
+    "clubId": "clube:galatasaray",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:berkan-kutlu",
+    "clubId": "clube:galatasaray",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central"
+    ],
+    "rating": 75
+  },
+  {
+    "playerId": "jogador:scott-bain",
+    "clubId": "clube:celtic",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 73
+  },
+  {
+    "playerId": "jogador:benjamin-siegrist",
+    "clubId": "clube:celtic",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 72
+  },
+  {
+    "playerId": "jogador:liam-scales",
+    "clubId": "clube:celtic",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 75
+  },
+  {
+    "playerId": "jogador:nat-phillips",
+    "clubId": "clube:celtic",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:alexandro-bernabei",
+    "clubId": "clube:celtic",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:anthony-ralston",
+    "clubId": "clube:celtic",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:david-turnbull",
+    "clubId": "clube:celtic",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Meia_Ofensivo"
+    ],
+    "rating": 75
+  },
+  {
+    "playerId": "jogador:odin-thiago-holm",
+    "clubId": "clube:celtic",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central"
+    ],
+    "rating": 73
+  },
+  {
+    "playerId": "jogador:sead-haksabanovic",
+    "clubId": "clube:celtic",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda",
+      "Meia_Ofensivo"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:liel-abada",
+    "clubId": "clube:celtic",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita"
+    ],
+    "rating": 75
+  },
+  {
+    "playerId": "jogador:james-forrest",
+    "clubId": "clube:celtic",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:hyeongyu-oh",
+    "clubId": "clube:celtic",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 75
+  },
+  {
+    "playerId": "jogador:luis-palma",
+    "clubId": "clube:celtic",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda",
+      "Ponta_Direita"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:timon-wellenreuther",
+    "clubId": "clube:feyenoord",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 75
+  },
+  {
+    "playerId": "jogador:yannik-mantel",
+    "clubId": "clube:feyenoord",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 72
+  },
+  {
+    "playerId": "jogador:david-hancko",
+    "clubId": "clube:feyenoord",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro",
+      "Lateral_Esquerdo"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:thomas-beelen",
+    "clubId": "clube:feyenoord",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 73
+  },
+  {
+    "playerId": "jogador:marcos-lopez",
+    "clubId": "clube:feyenoord",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo"
+    ],
+    "rating": 75
+  },
+  {
+    "playerId": "jogador:jordan-lotomba",
+    "clubId": "clube:feyenoord",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:calvin-stengs",
+    "clubId": "clube:feyenoord",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita",
+      "Meia_Ofensivo"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:javairô-dilrosun",
+    "clubId": "clube:feyenoord",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda"
+    ],
+    "rating": 75
+  },
+  {
+    "playerId": "jogador:ramiz-zerrouki",
+    "clubId": "clube:feyenoord",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Volante",
+      "Meia_Central"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:oussama-idrissi",
+    "clubId": "clube:feyenoord",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:luka-ivanusec",
+    "clubId": "clube:feyenoord",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Ofensivo",
+      "Ponta_Esquerda"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:alireza-jahanbakhsh",
+    "clubId": "clube:feyenoord",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:yankuba-minteh",
+    "clubId": "clube:feyenoord",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:ayase-ueda",
+    "clubId": "clube:feyenoord",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:jean-louis-leca",
+    "clubId": "clube:lens",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:wuilker-farinez",
+    "clubId": "clube:lens",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 73
+  },
+  {
+    "playerId": "jogador:massadio-haidara",
+    "clubId": "clube:lens",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo",
+      "Zagueiro"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:deiver-machado",
+    "clubId": "clube:lens",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo"
+    ],
+    "rating": 75
+  },
+  {
+    "playerId": "jogador:jimmy-cabot",
+    "clubId": "clube:lens",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito"
+    ],
+    "rating": 75
+  },
+  {
+    "playerId": "jogador:kevin-danso-lens",
+    "clubId": "clube:lens",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 79
+  },
+  {
+    "playerId": "jogador:abdukodir-khusanov-lens",
+    "clubId": "clube:lens",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:neil-el-aynaoui",
+    "clubId": "clube:lens",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Volante"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:adrien-thomasson",
+    "clubId": "clube:lens",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Ponta_Direita"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:david-costa-lens",
+    "clubId": "clube:lens",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita",
+      "Ponta_Esquerda"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:przemyslaw-frankowski",
+    "clubId": "clube:lens",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita",
+      "Lateral_Direito"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:wesley-said",
+    "clubId": "clube:lens",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante",
+      "Ponta_Esquerda"
+    ],
+    "rating": 75
+  },
+  {
+    "playerId": "jogador:lois-openda-lens",
+    "clubId": "clube:lens",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:angelo-fulgini",
+    "clubId": "clube:lens",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Ofensivo",
+      "Atacante"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:dmytro-riznyk",
+    "clubId": "clube:shakhtar-donetsk",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:andriy-pyatov",
+    "clubId": "clube:shakhtar-donetsk",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 73
+  },
+  {
+    "playerId": "jogador:ivan-petryak",
+    "clubId": "clube:shakhtar-donetsk",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:marian-shved-shk",
+    "clubId": "clube:shakhtar-donetsk",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:lucas-taylor",
+    "clubId": "clube:shakhtar-donetsk",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 73
+  },
+  {
+    "playerId": "jogador:vitao",
+    "clubId": "clube:shakhtar-donetsk",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:nikita-konoplya",
+    "clubId": "clube:shakhtar-donetsk",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:irakli-azarovi",
+    "clubId": "clube:shakhtar-donetsk",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo"
+    ],
+    "rating": 73
+  },
+  {
+    "playerId": "jogador:heorhii-sudakov-shk",
+    "clubId": "clube:shakhtar-donetsk",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Ofensivo",
+      "Meia_Central"
+    ],
+    "rating": 80
+  },
+  {
+    "playerId": "jogador:artem-bondarenko",
+    "clubId": "clube:shakhtar-donetsk",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:kevin-kelsy",
+    "clubId": "clube:shakhtar-donetsk",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita"
+    ],
+    "rating": 73
+  },
+  {
+    "playerId": "jogador:lassina-traore-shk",
+    "clubId": "clube:shakhtar-donetsk",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 75
+  },
+  {
+    "playerId": "jogador:eguinaldo-shk",
+    "clubId": "clube:shakhtar-donetsk",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante",
+      "Ponta_Direita"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:oleksandr-zubkov",
+    "clubId": "clube:shakhtar-donetsk",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda",
+      "Atacante"
+    ],
+    "rating": 75
+  },
+  {
+    "playerId": "jogador:marko-dmitrovic",
+    "clubId": "clube:sevilla",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:orjan-nyland",
+    "clubId": "clube:sevilla",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 73
+  },
+  {
+    "playerId": "jogador:tanguy-nianzou",
+    "clubId": "clube:sevilla",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:marcao",
+    "clubId": "clube:sevilla",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:gonzalo-montiel",
+    "clubId": "clube:sevilla",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:alex-telles",
+    "clubId": "clube:sevilla",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:adria-pedrosa",
+    "clubId": "clube:sevilla",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:nemanja-gudelj",
+    "clubId": "clube:sevilla",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Volante",
+      "Zagueiro"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:joan-jordan",
+    "clubId": "clube:sevilla",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Volante"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:fernando-sevilla",
+    "clubId": "clube:sevilla",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Volante"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:oliver-torres",
+    "clubId": "clube:sevilla",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Ofensivo",
+      "Meia_Central"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:suso",
+    "clubId": "clube:sevilla",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita",
+      "Meia_Ofensivo"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:dodi-lukebakio",
+    "clubId": "clube:sevilla",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita",
+      "Atacante"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:erik-lamela",
+    "clubId": "clube:sevilla",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Direita"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:rafa-mir",
+    "clubId": "clube:sevilla",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:matheus-magalhaes",
+    "clubId": "clube:braga",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:tiago-sa",
+    "clubId": "clube:braga",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Goleiro"
+    ],
+    "rating": 72
+  },
+  {
+    "playerId": "jogador:victor-gomez",
+    "clubId": "clube:braga",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Direito"
+    ],
+    "rating": 75
+  },
+  {
+    "playerId": "jogador:fabiano",
+    "clubId": "clube:braga",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:jose-fonte",
+    "clubId": "clube:braga",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:paulo-oliveira",
+    "clubId": "clube:braga",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 75
+  },
+  {
+    "playerId": "jogador:robson-bambu",
+    "clubId": "clube:braga",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Zagueiro"
+    ],
+    "rating": 73
+  },
+  {
+    "playerId": "jogador:al-musrati",
+    "clubId": "clube:braga",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Volante",
+      "Meia_Central"
+    ],
+    "rating": 78
+  },
+  {
+    "playerId": "jogador:joao-moutinho",
+    "clubId": "clube:braga",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central",
+      "Meia_Ofensivo"
+    ],
+    "rating": 77
+  },
+  {
+    "playerId": "jogador:andre-horta",
+    "clubId": "clube:braga",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Meia_Central"
+    ],
+    "rating": 76
+  },
+  {
+    "playerId": "jogador:oscar-zambrano",
+    "clubId": "clube:braga",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Volante"
+    ],
+    "rating": 73
+  },
+  {
+    "playerId": "jogador:el-ouazzani",
+    "clubId": "clube:braga",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:roberto-fernandez",
+    "clubId": "clube:braga",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Atacante"
+    ],
+    "rating": 74
+  },
+  {
+    "playerId": "jogador:joao-marques",
+    "clubId": "clube:braga",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Ponta_Esquerda"
+    ],
+    "rating": 73
+  },
+  {
+    "playerId": "jogador:racine-coly",
+    "clubId": "clube:braga",
+    "editionId": "edicao:champions-league:2023-24",
+    "positions": [
+      "Lateral_Esquerdo"
+    ],
+    "rating": 73
   }
 ]

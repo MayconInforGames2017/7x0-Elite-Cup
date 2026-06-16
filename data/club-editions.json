@@ -362,22 +362,22 @@
   {
     "clubId": "clube:ac-milan",
     "editionId": "edicao:champions-league:2023-24",
-    "finalStage": "QF"
+    "finalStage": "GroupStage"
   },
   {
     "clubId": "clube:barcelona",
     "editionId": "edicao:champions-league:2023-24",
-    "finalStage": "R16"
+    "finalStage": "QF"
   },
   {
     "clubId": "clube:bayern-munich",
     "editionId": "edicao:champions-league:2023-24",
-    "finalStage": "GroupStage"
+    "finalStage": "SF"
   },
   {
     "clubId": "clube:liverpool",
     "editionId": "edicao:champions-league:2023-24",
-    "finalStage": "Preliminary"
+    "finalStage": "GroupStage"
   },
   {
     "clubId": "clube:manchester-united",
@@ -387,21 +387,141 @@
   {
     "clubId": "clube:juventus",
     "editionId": "edicao:champions-league:2023-24",
-    "finalStage": "R16"
+    "finalStage": "GroupStage"
   },
   {
     "clubId": "clube:inter-milan",
     "editionId": "edicao:champions-league:2023-24",
-    "finalStage": "SF"
+    "finalStage": "R16"
   },
   {
     "clubId": "clube:ajax",
     "editionId": "edicao:champions-league:2023-24",
-    "finalStage": "Preliminary"
+    "finalStage": "GroupStage"
   },
   {
     "clubId": "clube:benfica",
     "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:rb-leipzig",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "R16"
+  },
+  {
+    "clubId": "clube:arsenal",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "QF"
+  },
+  {
+    "clubId": "clube:psv",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "R16"
+  },
+  {
+    "clubId": "clube:napoli",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "R16"
+  },
+  {
+    "clubId": "clube:borussia-dortmund",
+    "editionId": "edicao:champions-league:2023-24",
     "finalStage": "Final"
+  },
+  {
+    "clubId": "clube:psg",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "SF"
+  },
+  {
+    "clubId": "clube:atletico-madrid",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "QF"
+  },
+  {
+    "clubId": "clube:porto",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "R16"
+  },
+  {
+    "clubId": "clube:sevilla",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:lazio",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "R16"
+  },
+  {
+    "clubId": "clube:feyenoord",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:celtic",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:newcastle-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:galatasaray",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:braga",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:real-sociedad",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "R16"
+  },
+  {
+    "clubId": "clube:salzburg",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:union-berlin",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:lens",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:young-boys",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:red-star-belgrade",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:antwerp",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:fc-copenhagen",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "R16"
+  },
+  {
+    "clubId": "clube:shakhtar-donetsk",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
   }
 ]
