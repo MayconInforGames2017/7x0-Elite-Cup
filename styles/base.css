@@ -40,7 +40,7 @@ textarea {
 /* Three-column layout: sidebar | field | roster panel */
 .app-root {
   display: grid;
-  grid-template-columns: 200px 1fr 260px;
+  grid-template-columns: 300px 1fr 260px;
   grid-template-rows: auto 1fr;
   height: 100vh;
   gap: 0;

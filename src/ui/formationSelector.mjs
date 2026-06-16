@@ -12,6 +12,25 @@ import { clubParticipated, listAllEditions } from '../data/repository.mjs';
 import { listAssignedPlayerIds } from '../domain/team.mjs';
 import { abbreviatePosition } from './formatters.mjs';
 
+/** Position sort priority: GOL first, ATA last */
+const POSITION_ORDER = {
+  Goleiro: 0,
+  Zagueiro: 1,
+  Lateral_Esquerdo: 2,
+  Lateral_Direito: 3,
+  Volante: 4,
+  Meia_Central: 5,
+  Meia_Ofensivo: 6,
+  Ponta_Esquerda: 7,
+  Ponta_Direita: 8,
+  Atacante: 9,
+};
+
+function getPositionPriority(positions) {
+  if (!positions || positions.length === 0) return 99;
+  return Math.min(...positions.map(p => POSITION_ORDER[p] ?? 50));
+}
+
 const TACTICAL_STYLES = [
   { id: 'defensive', label: 'Defensivo' },
   { id: 'balanced', label: 'Equilibrado' },
@@ -194,6 +213,18 @@ export function createFormationSelector(store, repo) {
 
     if (!repo) return;
 
+    // Check if team is complete (11/11) — hide the list
+    if (state.team && state.team.assignments) {
+      const assignedCount = Object.values(state.team.assignments).filter(v => v != null).length;
+      if (assignedCount >= 11) {
+        const completeMsg = document.createElement('div');
+        completeMsg.classList.add('candidate-instruction');
+        completeMsg.innerHTML = '✅ <strong>Time completo!</strong><br>Use o botão abaixo para iniciar a liga.';
+        candidateList.appendChild(completeMsg);
+        return;
+      }
+    }
+
     const { clubId, editionId } = state.filter;
 
     if (clubId == null || editionId == null) {
@@ -216,8 +247,18 @@ export function createFormationSelector(store, repo) {
       listAssignedPlayerIds(state.team, repo.registrationsById)
     );
 
+    // Sort candidates by position priority (GOL→ZAG→...→ATA), then by rating desc
+    const sorted = [...state.candidates].sort((a, b) => {
+      const posA = getPositionPriority(a.registration.positions);
+      const posB = getPositionPriority(b.registration.positions);
+      if (posA !== posB) return posA - posB;
+      const rA = a.registration.rating ?? 0;
+      const rB = b.registration.rating ?? 0;
+      return rB - rA;
+    });
+
     let index = 0;
-    for (const candidate of state.candidates) {
+    for (const candidate of sorted) {
       index++;
       const player = repo.playersById.get(candidate.registration.playerId);
       const registrationId = deriveRegistrationId(

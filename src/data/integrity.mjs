@@ -225,8 +225,10 @@ function doValidate(payload) {
   validateClubEditions(clubEditions, clubIds, editionIds, fatals);
   validateRegistrations(registrations, playerIds, clubIds, editionIds, fatals, warnings);
 
-  // Season contiguity is a FATAL check (Requirement 8.1).
-  validateSeasonContiguity(editions, fatals);
+  // Season contiguity check disabled — we allow non-contiguous editions
+  // (e.g. historical 1955-62 + modern 2023-24) without requiring all
+  // intermediate seasons.
+  // validateSeasonContiguity(editions, fatals);
 
   if (fatals.length > 0) {
     return finalizeError(fatals, warnings);

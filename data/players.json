@@ -1,50 +1,370 @@
 [
-  { "id": "jogador:alfredo-di-stefano", "name": "Alfredo Di Stéfano" },
-  { "id": "jogador:francisco-gento", "name": "Francisco Gento" },
-  { "id": "jogador:raymond-kopa", "name": "Raymond Kopa" },
-  { "id": "jogador:hector-rial", "name": "Héctor Rial" },
-  { "id": "jogador:jose-santamaria", "name": "José Santamaría" },
-  { "id": "jogador:marquitos", "name": "Marquitos" },
-  { "id": "jogador:miguel-munoz", "name": "Miguel Muñoz" },
-  { "id": "jogador:juan-alonso", "name": "Juan Alonso" },
-  { "id": "jogador:rogelio-dominguez", "name": "Rogelio Domínguez" },
-  { "id": "jogador:puskas", "name": "Ferenc Puskás" },
-  { "id": "jogador:cesare-maldini", "name": "Cesare Maldini" },
-  { "id": "jogador:juan-alberto-schiaffino", "name": "Juan A. Schiaffino" },
-  { "id": "jogador:nils-liedholm", "name": "Nils Liedholm" },
-  { "id": "jogador:gunnar-nordahl", "name": "Gunnar Nordahl" },
-  { "id": "jogador:gianni-rivera", "name": "Gianni Rivera" },
-  { "id": "jogador:giovanni-trapattoni", "name": "Giovanni Trapattoni" },
-  { "id": "jogador:luis-suarez-miramontes", "name": "Luis Suárez" },
-  { "id": "jogador:kubala", "name": "Ladislao Kubala" },
-  { "id": "jogador:luis-enrique-58", "name": "Luisito Suárez" },
-  { "id": "jogador:evaristo", "name": "Evaristo" },
-  { "id": "jogador:czibor", "name": "Zoltán Czibor" },
-  { "id": "jogador:fritz-walter", "name": "Fritz Walter" },
-  { "id": "jogador:sepp-maier", "name": "Sepp Maier" },
-  { "id": "jogador:franz-beckenbauer", "name": "Franz Beckenbauer" },
-  { "id": "jogador:gerd-muller", "name": "Gerd Müller" },
-  { "id": "jogador:karl-heinz-rummenigge", "name": "K.H. Rummenigge" },
-  { "id": "jogador:billy-liddell", "name": "Billy Liddell" },
-  { "id": "jogador:roger-hunt", "name": "Roger Hunt" },
-  { "id": "jogador:ian-callaghan", "name": "Ian Callaghan" },
-  { "id": "jogador:duncan-edwards", "name": "Duncan Edwards" },
-  { "id": "jogador:bobby-charlton", "name": "Bobby Charlton" },
-  { "id": "jogador:dennis-law", "name": "Denis Law" },
-  { "id": "jogador:george-best", "name": "George Best" },
-  { "id": "jogador:john-charles", "name": "John Charles" },
-  { "id": "jogador:omar-sivori", "name": "Omar Sívori" },
-  { "id": "jogador:giampiero-boniperti", "name": "Giampiero Boniperti" },
-  { "id": "jogador:sandro-mazzola", "name": "Sandro Mazzola" },
-  { "id": "jogador:giacinto-facchetti", "name": "Giacinto Facchetti" },
-  { "id": "jogador:luis-suarez-inter", "name": "Luis Suárez (Inter)" },
-  { "id": "jogador:johan-cruyff", "name": "Johan Cruyff" },
-  { "id": "jogador:johnny-rep", "name": "Johnny Rep" },
-  { "id": "jogador:ruud-krol", "name": "Ruud Krol" },
-  { "id": "jogador:johan-neeskens", "name": "Johan Neeskens" },
-  { "id": "jogador:eusebio", "name": "Eusébio" },
-  { "id": "jogador:coluna", "name": "Mário Coluna" },
-  { "id": "jogador:jose-aguas", "name": "José Águas" },
-  { "id": "jogador:costa-pereira", "name": "Costa Pereira" },
-  { "id": "jogador:germano", "name": "Germano" }
+  {
+    "id": "jogador:alfredo-di-stefano",
+    "name": "Alfredo Di Stéfano"
+  },
+  {
+    "id": "jogador:francisco-gento",
+    "name": "Francisco Gento"
+  },
+  {
+    "id": "jogador:raymond-kopa",
+    "name": "Raymond Kopa"
+  },
+  {
+    "id": "jogador:hector-rial",
+    "name": "Héctor Rial"
+  },
+  {
+    "id": "jogador:jose-santamaria",
+    "name": "José Santamaría"
+  },
+  {
+    "id": "jogador:marquitos",
+    "name": "Marquitos"
+  },
+  {
+    "id": "jogador:miguel-munoz",
+    "name": "Miguel Muñoz"
+  },
+  {
+    "id": "jogador:juan-alonso",
+    "name": "Juan Alonso"
+  },
+  {
+    "id": "jogador:rogelio-dominguez",
+    "name": "Rogelio Domínguez"
+  },
+  {
+    "id": "jogador:puskas",
+    "name": "Ferenc Puskás"
+  },
+  {
+    "id": "jogador:cesare-maldini",
+    "name": "Cesare Maldini"
+  },
+  {
+    "id": "jogador:juan-alberto-schiaffino",
+    "name": "Juan A. Schiaffino"
+  },
+  {
+    "id": "jogador:nils-liedholm",
+    "name": "Nils Liedholm"
+  },
+  {
+    "id": "jogador:gunnar-nordahl",
+    "name": "Gunnar Nordahl"
+  },
+  {
+    "id": "jogador:gianni-rivera",
+    "name": "Gianni Rivera"
+  },
+  {
+    "id": "jogador:giovanni-trapattoni",
+    "name": "Giovanni Trapattoni"
+  },
+  {
+    "id": "jogador:luis-suarez-miramontes",
+    "name": "Luis Suárez"
+  },
+  {
+    "id": "jogador:kubala",
+    "name": "Ladislao Kubala"
+  },
+  {
+    "id": "jogador:luis-enrique-58",
+    "name": "Luisito Suárez"
+  },
+  {
+    "id": "jogador:evaristo",
+    "name": "Evaristo"
+  },
+  {
+    "id": "jogador:czibor",
+    "name": "Zoltán Czibor"
+  },
+  {
+    "id": "jogador:fritz-walter",
+    "name": "Fritz Walter"
+  },
+  {
+    "id": "jogador:sepp-maier",
+    "name": "Sepp Maier"
+  },
+  {
+    "id": "jogador:franz-beckenbauer",
+    "name": "Franz Beckenbauer"
+  },
+  {
+    "id": "jogador:gerd-muller",
+    "name": "Gerd Müller"
+  },
+  {
+    "id": "jogador:karl-heinz-rummenigge",
+    "name": "K.H. Rummenigge"
+  },
+  {
+    "id": "jogador:billy-liddell",
+    "name": "Billy Liddell"
+  },
+  {
+    "id": "jogador:roger-hunt",
+    "name": "Roger Hunt"
+  },
+  {
+    "id": "jogador:ian-callaghan",
+    "name": "Ian Callaghan"
+  },
+  {
+    "id": "jogador:duncan-edwards",
+    "name": "Duncan Edwards"
+  },
+  {
+    "id": "jogador:bobby-charlton",
+    "name": "Bobby Charlton"
+  },
+  {
+    "id": "jogador:dennis-law",
+    "name": "Denis Law"
+  },
+  {
+    "id": "jogador:george-best",
+    "name": "George Best"
+  },
+  {
+    "id": "jogador:john-charles",
+    "name": "John Charles"
+  },
+  {
+    "id": "jogador:omar-sivori",
+    "name": "Omar Sívori"
+  },
+  {
+    "id": "jogador:giampiero-boniperti",
+    "name": "Giampiero Boniperti"
+  },
+  {
+    "id": "jogador:sandro-mazzola",
+    "name": "Sandro Mazzola"
+  },
+  {
+    "id": "jogador:giacinto-facchetti",
+    "name": "Giacinto Facchetti"
+  },
+  {
+    "id": "jogador:luis-suarez-inter",
+    "name": "Luis Suárez (Inter)"
+  },
+  {
+    "id": "jogador:johan-cruyff",
+    "name": "Johan Cruyff"
+  },
+  {
+    "id": "jogador:johnny-rep",
+    "name": "Johnny Rep"
+  },
+  {
+    "id": "jogador:ruud-krol",
+    "name": "Ruud Krol"
+  },
+  {
+    "id": "jogador:johan-neeskens",
+    "name": "Johan Neeskens"
+  },
+  {
+    "id": "jogador:eusebio",
+    "name": "Eusébio"
+  },
+  {
+    "id": "jogador:coluna",
+    "name": "Mário Coluna"
+  },
+  {
+    "id": "jogador:jose-aguas",
+    "name": "José Águas"
+  },
+  {
+    "id": "jogador:costa-pereira",
+    "name": "Costa Pereira"
+  },
+  {
+    "id": "jogador:germano",
+    "name": "Germano"
+  },
+  {
+    "id": "jogador:thibaut-courtois",
+    "name": "Thibaut Courtois"
+  },
+  {
+    "id": "jogador:andriy-lunin",
+    "name": "Andriy Lunin"
+  },
+  {
+    "id": "jogador:kepa-arrizabalaga",
+    "name": "Kepa Arrizabalaga"
+  },
+  {
+    "id": "jogador:dani-carvajal",
+    "name": "Dani Carvajal"
+  },
+  {
+    "id": "jogador:antonio-rudiger",
+    "name": "Antonio Rüdiger"
+  },
+  {
+    "id": "jogador:eder-militao",
+    "name": "Éder Militão"
+  },
+  {
+    "id": "jogador:david-alaba",
+    "name": "David Alaba"
+  },
+  {
+    "id": "jogador:nacho-fernandez",
+    "name": "Nacho Fernández"
+  },
+  {
+    "id": "jogador:ferland-mendy",
+    "name": "Ferland Mendy"
+  },
+  {
+    "id": "jogador:fran-garcia",
+    "name": "Fran García"
+  },
+  {
+    "id": "jogador:lucas-vazquez",
+    "name": "Lucas Vázquez"
+  },
+  {
+    "id": "jogador:toni-kroos",
+    "name": "Toni Kroos"
+  },
+  {
+    "id": "jogador:luka-modric",
+    "name": "Luka Modrić"
+  },
+  {
+    "id": "jogador:federico-valverde",
+    "name": "Federico Valverde"
+  },
+  {
+    "id": "jogador:eduardo-camavinga",
+    "name": "Eduardo Camavinga"
+  },
+  {
+    "id": "jogador:aurelien-tchouameni",
+    "name": "Aurélien Tchouaméni"
+  },
+  {
+    "id": "jogador:jude-bellingham",
+    "name": "Jude Bellingham"
+  },
+  {
+    "id": "jogador:dani-ceballos",
+    "name": "Dani Ceballos"
+  },
+  {
+    "id": "jogador:vinicius-junior",
+    "name": "Vinícius Júnior"
+  },
+  {
+    "id": "jogador:rodrygo",
+    "name": "Rodrygo"
+  },
+  {
+    "id": "jogador:joselu",
+    "name": "Joselu"
+  },
+  {
+    "id": "jogador:brahim-diaz",
+    "name": "Brahim Díaz"
+  },
+  {
+    "id": "jogador:arda-guler",
+    "name": "Arda Güler"
+  },
+  {
+    "id": "jogador:ederson",
+    "name": "Ederson"
+  },
+  {
+    "id": "jogador:stefan-ortega",
+    "name": "Stefan Ortega"
+  },
+  {
+    "id": "jogador:kyle-walker",
+    "name": "Kyle Walker"
+  },
+  {
+    "id": "jogador:rico-lewis",
+    "name": "Rico Lewis"
+  },
+  {
+    "id": "jogador:manuel-akanji",
+    "name": "Manuel Akanji"
+  },
+  {
+    "id": "jogador:ruben-dias",
+    "name": "Rúben Dias"
+  },
+  {
+    "id": "jogador:nathan-ake",
+    "name": "Nathan Aké"
+  },
+  {
+    "id": "jogador:josko-gvardiol",
+    "name": "Joško Gvardiol"
+  },
+  {
+    "id": "jogador:john-stones",
+    "name": "John Stones"
+  },
+  {
+    "id": "jogador:rodri",
+    "name": "Rodri"
+  },
+  {
+    "id": "jogador:kevin-de-bruyne",
+    "name": "Kevin De Bruyne"
+  },
+  {
+    "id": "jogador:bernardo-silva",
+    "name": "Bernardo Silva"
+  },
+  {
+    "id": "jogador:mateo-kovacic",
+    "name": "Mateo Kovačić"
+  },
+  {
+    "id": "jogador:matheus-nunes",
+    "name": "Matheus Nunes"
+  },
+  {
+    "id": "jogador:kalvin-phillips",
+    "name": "Kalvin Phillips"
+  },
+  {
+    "id": "jogador:phil-foden",
+    "name": "Phil Foden"
+  },
+  {
+    "id": "jogador:jack-grealish",
+    "name": "Jack Grealish"
+  },
+  {
+    "id": "jogador:jeremy-doku",
+    "name": "Jérémy Doku"
+  },
+  {
+    "id": "jogador:oscar-bobb",
+    "name": "Oscar Bobb"
+  },
+  {
+    "id": "jogador:erling-haaland",
+    "name": "Erling Haaland"
+  },
+  {
+    "id": "jogador:julian-alvarez",
+    "name": "Julián Álvarez"
+  }
 ]

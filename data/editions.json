@@ -5,5 +5,6 @@
   { "id": "edicao:champions-league:1958-59", "leagueId": "liga:champions-league", "season": "1958-59", "label": "European Cup 1958-59" },
   { "id": "edicao:champions-league:1959-60", "leagueId": "liga:champions-league", "season": "1959-60", "label": "European Cup 1959-60" },
   { "id": "edicao:champions-league:1960-61", "leagueId": "liga:champions-league", "season": "1960-61", "label": "European Cup 1960-61" },
-  { "id": "edicao:champions-league:1961-62", "leagueId": "liga:champions-league", "season": "1961-62", "label": "European Cup 1961-62" }
+  { "id": "edicao:champions-league:1961-62", "leagueId": "liga:champions-league", "season": "1961-62", "label": "European Cup 1961-62" },
+  { "id": "edicao:champions-league:2023-24", "leagueId": "liga:champions-league", "season": "2023-24", "label": "European Cup 2023-24" }
 ]
