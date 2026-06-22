@@ -1,37 +1,266 @@
 [
-  { "id": "clube:real-madrid", "name": "Real Madrid", "country": "ES" },
-  { "id": "clube:ac-milan", "name": "AC Milan", "country": "IT" },
-  { "id": "clube:barcelona", "name": "Barcelona", "country": "ES" },
-  { "id": "clube:bayern-munich", "name": "Bayern Munich", "country": "DE" },
-  { "id": "clube:liverpool", "name": "Liverpool", "country": "EN" },
-  { "id": "clube:manchester-united", "name": "Manchester United", "country": "EN" },
-  { "id": "clube:juventus", "name": "Juventus", "country": "IT" },
-  { "id": "clube:inter-milan", "name": "Inter Milan", "country": "IT" },
-  { "id": "clube:ajax", "name": "Ajax", "country": "NL" },
-  { "id": "clube:benfica", "name": "Benfica", "country": "PT" },
-  { "id": "clube:rb-leipzig", "name": "RB Leipzig", "country": "DE" },
-  { "id": "clube:red-star-belgrade", "name": "Red Star Belgrade", "country": "RS" },
-  { "id": "clube:young-boys", "name": "Young Boys", "country": "CH" },
-  { "id": "clube:arsenal", "name": "Arsenal", "country": "EN" },
-  { "id": "clube:psv", "name": "PSV Eindhoven", "country": "NL" },
-  { "id": "clube:lens", "name": "Lens", "country": "FR" },
-  { "id": "clube:sevilla", "name": "Sevilla", "country": "ES" },
-  { "id": "clube:napoli", "name": "Napoli", "country": "IT" },
-  { "id": "clube:braga", "name": "Braga", "country": "PT" },
-  { "id": "clube:union-berlin", "name": "Union Berlin", "country": "DE" },
-  { "id": "clube:real-sociedad", "name": "Real Sociedad", "country": "ES" },
-  { "id": "clube:salzburg", "name": "Red Bull Salzburg", "country": "AT" },
-  { "id": "clube:atletico-madrid", "name": "Atlético Madrid", "country": "ES" },
-  { "id": "clube:lazio", "name": "Lazio", "country": "IT" },
-  { "id": "clube:feyenoord", "name": "Feyenoord", "country": "NL" },
-  { "id": "clube:celtic", "name": "Celtic", "country": "SC" },
-  { "id": "clube:borussia-dortmund", "name": "Borussia Dortmund", "country": "DE" },
-  { "id": "clube:psg", "name": "Paris Saint-Germain", "country": "FR" },
-  { "id": "clube:newcastle-united", "name": "Newcastle United", "country": "EN" },
-  { "id": "clube:porto", "name": "Porto", "country": "PT" },
-  { "id": "clube:shakhtar-donetsk", "name": "Shakhtar Donetsk", "country": "UA" },
-  { "id": "clube:antwerp", "name": "Royal Antwerp", "country": "BE" },
-  { "id": "clube:fc-copenhagen", "name": "FC Copenhagen", "country": "DK" },
-  { "id": "clube:galatasaray", "name": "Galatasaray", "country": "TR" },
-  { "id": "clube:manchester-city", "name": "Manchester City", "country": "EN" }
+  {
+    "id": "clube:manchester-city",
+    "name": "Manchester City",
+    "country": "",
+    "crest": "https://crests.football-data.org/65.svg"
+  },
+  {
+    "id": "clube:barcelona",
+    "name": "Barcelona",
+    "country": "",
+    "crest": "https://crests.football-data.org/81.svg"
+  },
+  {
+    "id": "clube:real-madrid",
+    "name": "Real Madrid",
+    "country": "",
+    "crest": "https://crests.football-data.org/86.svg"
+  },
+  {
+    "id": "clube:bayern-munich",
+    "name": "Bayern Munich",
+    "country": "",
+    "crest": "https://crests.football-data.org/5.svg"
+  },
+  {
+    "id": "clube:liverpool",
+    "name": "Liverpool",
+    "country": "",
+    "crest": "https://crests.football-data.org/64.svg"
+  },
+  {
+    "id": "clube:manchester-united",
+    "name": "Manchester United",
+    "country": "",
+    "crest": "https://crests.football-data.org/66.svg"
+  },
+  {
+    "id": "clube:napoli",
+    "name": "Napoli",
+    "country": "",
+    "crest": "https://crests.football-data.org/113.svg"
+  },
+  {
+    "id": "clube:atletico-madrid",
+    "name": "Atlético Madrid",
+    "country": "",
+    "crest": "https://crests.football-data.org/78.svg"
+  },
+  {
+    "id": "clube:arsenal",
+    "name": "Arsenal",
+    "country": "",
+    "crest": "https://crests.football-data.org/57.svg"
+  },
+  {
+    "id": "clube:inter-milan",
+    "name": "Inter",
+    "country": "",
+    "crest": "https://crests.football-data.org/108.svg"
+  },
+  {
+    "id": "clube:borussia-dortmund",
+    "name": "Borussia Dortmund",
+    "country": "",
+    "crest": "https://crests.football-data.org/4.svg"
+  },
+  {
+    "id": "clube:tottenham",
+    "name": "Tottenham Hotspur",
+    "country": "",
+    "crest": "https://crests.football-data.org/73.svg"
+  },
+  {
+    "id": "clube:newcastle-united",
+    "name": "Newcastle United",
+    "country": "",
+    "crest": "https://crests.football-data.org/67.svg"
+  },
+  {
+    "id": "clube:chelsea",
+    "name": "Chelsea",
+    "country": "",
+    "crest": "https://crests.football-data.org/61.svg"
+  },
+  {
+    "id": "clube:juventus",
+    "name": "Juventus",
+    "country": "",
+    "crest": "https://crests.football-data.org/109.svg"
+  },
+  {
+    "id": "clube:bayer-leverkusen",
+    "name": "Bayer Leverkusen",
+    "country": "",
+    "crest": "https://crests.football-data.org/3.svg"
+  },
+  {
+    "id": "clube:eintracht-frankfurt",
+    "name": "Eintracht Frankfurt",
+    "country": "",
+    "crest": "https://crests.football-data.org/19.svg"
+  },
+  {
+    "id": "clube:lazio",
+    "name": "Lazio",
+    "country": "",
+    "crest": "https://crests.football-data.org/110.svg"
+  },
+  {
+    "id": "clube:aston-villa",
+    "name": "Aston Villa",
+    "country": "",
+    "crest": "https://crests.football-data.org/58.svg"
+  },
+  {
+    "id": "clube:sevilla",
+    "name": "Sevilla",
+    "country": "",
+    "crest": "https://crests.football-data.org/559.svg"
+  },
+  {
+    "id": "clube:real-sociedad",
+    "name": "Real Sociedad",
+    "country": "",
+    "crest": "https://crests.football-data.org/92.svg"
+  },
+  {
+    "id": "clube:rb-leipzig",
+    "name": "RB Leipzig",
+    "country": "",
+    "crest": "https://crests.football-data.org/721.svg"
+  },
+  {
+    "id": "clube:wolfsburg",
+    "name": "VfL Wolfsburg",
+    "country": "",
+    "crest": "https://crests.football-data.org/11.svg"
+  },
+  {
+    "id": "clube:benfica",
+    "name": "Benfica",
+    "country": "",
+    "crest": "https://crests.football-data.org/1903.svg"
+  },
+  {
+    "id": "clube:olympique-lyonnais",
+    "name": "Olympique Lyonnais",
+    "country": "",
+    "crest": "https://crests.football-data.org/523.svg"
+  },
+  {
+    "id": "clube:porto",
+    "name": "Porto",
+    "country": "",
+    "crest": "https://crests.football-data.org/503.svg"
+  },
+  {
+    "id": "clube:sporting-cp",
+    "name": "Sporting CP",
+    "country": "",
+    "crest": "https://crests.football-data.org/498.svg"
+  },
+  {
+    "id": "clube:galatasaray",
+    "name": "Galatasaray",
+    "country": "",
+    "crest": "https://crests.football-data.org/610.svg"
+  },
+  {
+    "id": "clube:lens",
+    "name": "Lens",
+    "country": "",
+    "crest": "https://crests.football-data.org/546.svg"
+  },
+  {
+    "id": "clube:atalanta",
+    "name": "Atalanta",
+    "country": "",
+    "crest": "https://crests.football-data.org/102.svg"
+  },
+  {
+    "id": "clube:antwerp",
+    "name": "Antwerp",
+    "country": "",
+    "crest": "https://crests.football-data.org/1864.svg"
+  },
+  {
+    "id": "clube:ajax",
+    "name": "Ajax",
+    "country": "",
+    "crest": "https://crests.football-data.org/678.svg"
+  },
+  {
+    "id": "clube:marseille",
+    "name": "Olympique de Marseille",
+    "country": "",
+    "crest": "https://crests.football-data.org/516.svg"
+  },
+  {
+    "id": "clube:psv",
+    "name": "PSV",
+    "country": "",
+    "crest": "https://crests.football-data.org/674.svg"
+  },
+  {
+    "id": "clube:feyenoord",
+    "name": "Feyenoord",
+    "country": "",
+    "crest": "https://crests.football-data.org/675.svg"
+  },
+  {
+    "id": "clube:celtic",
+    "name": "Celtic",
+    "country": "",
+    "crest": "https://crests.football-data.org/732.svg"
+  },
+  {
+    "id": "clube:rangers",
+    "name": "Rangers",
+    "country": "",
+    "crest": "https://crests.football-data.org/738.svg"
+  },
+  {
+    "id": "clube:shakhtar-donetsk",
+    "name": "Shakhtar Donetsk",
+    "country": "",
+    "crest": "https://crests.football-data.org/1887.svg"
+  },
+  {
+    "id": "clube:dynamo-kyiv",
+    "name": "Dynamo Kyiv",
+    "country": "",
+    "crest": null
+  },
+  {
+    "id": "clube:slavia-praha",
+    "name": "Slavia Praha",
+    "country": "",
+    "crest": null
+  },
+  {
+    "id": "clube:viktoria-plze",
+    "name": "Viktoria Plzeň",
+    "country": "",
+    "crest": null
+  },
+  {
+    "id": "clube:paok",
+    "name": "PAOK",
+    "country": "",
+    "crest": null
+  },
+  {
+    "id": "clube:young-boys",
+    "name": "Young Boys",
+    "country": "",
+    "crest": "https://crests.football-data.org/1871.svg"
+  },
+  {
+    "id": "clube:malm-ff",
+    "name": "Malmö FF",
+    "country": "",
+    "crest": null
+  }
 ]

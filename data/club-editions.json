@@ -1,407 +1,2122 @@
 [
   {
-    "clubId": "clube:real-madrid",
-    "editionId": "edicao:champions-league:1955-56",
-    "finalStage": "Winner"
+    "clubId": "clube:manchester-city",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
   },
   {
-    "clubId": "clube:real-madrid",
-    "editionId": "edicao:champions-league:1956-57",
-    "finalStage": "Winner"
-  },
-  {
-    "clubId": "clube:real-madrid",
-    "editionId": "edicao:champions-league:1957-58",
-    "finalStage": "Winner"
-  },
-  {
-    "clubId": "clube:real-madrid",
-    "editionId": "edicao:champions-league:1958-59",
-    "finalStage": "Winner"
-  },
-  {
-    "clubId": "clube:real-madrid",
-    "editionId": "edicao:champions-league:1959-60",
-    "finalStage": "Winner"
-  },
-  {
-    "clubId": "clube:real-madrid",
-    "editionId": "edicao:champions-league:1960-61",
-    "finalStage": "SF"
-  },
-  {
-    "clubId": "clube:real-madrid",
-    "editionId": "edicao:champions-league:1961-62",
-    "finalStage": "QF"
+    "clubId": "clube:barcelona",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
   },
   {
     "clubId": "clube:real-madrid",
     "editionId": "edicao:champions-league:2023-24",
-    "finalStage": "Winner"
-  },
-  {
-    "clubId": "clube:ac-milan",
-    "editionId": "edicao:champions-league:1955-56",
-    "finalStage": "QF"
-  },
-  {
-    "clubId": "clube:ac-milan",
-    "editionId": "edicao:champions-league:1956-57",
-    "finalStage": "Final"
-  },
-  {
-    "clubId": "clube:ac-milan",
-    "editionId": "edicao:champions-league:1957-58",
-    "finalStage": "QF"
-  },
-  {
-    "clubId": "clube:ac-milan",
-    "editionId": "edicao:champions-league:1958-59",
-    "finalStage": "R16"
-  },
-  {
-    "clubId": "clube:ac-milan",
-    "editionId": "edicao:champions-league:1959-60",
-    "finalStage": "QF"
-  },
-  {
-    "clubId": "clube:ac-milan",
-    "editionId": "edicao:champions-league:1960-61",
-    "finalStage": "R16"
-  },
-  {
-    "clubId": "clube:ac-milan",
-    "editionId": "edicao:champions-league:1961-62",
-    "finalStage": "R16"
-  },
-  {
-    "clubId": "clube:barcelona",
-    "editionId": "edicao:champions-league:1955-56",
-    "finalStage": "R16"
-  },
-  {
-    "clubId": "clube:barcelona",
-    "editionId": "edicao:champions-league:1956-57",
-    "finalStage": "R16"
-  },
-  {
-    "clubId": "clube:barcelona",
-    "editionId": "edicao:champions-league:1957-58",
-    "finalStage": "SF"
-  },
-  {
-    "clubId": "clube:barcelona",
-    "editionId": "edicao:champions-league:1958-59",
-    "finalStage": "SF"
-  },
-  {
-    "clubId": "clube:barcelona",
-    "editionId": "edicao:champions-league:1959-60",
-    "finalStage": "R16"
-  },
-  {
-    "clubId": "clube:barcelona",
-    "editionId": "edicao:champions-league:1960-61",
-    "finalStage": "GroupStage"
-  },
-  {
-    "clubId": "clube:barcelona",
-    "editionId": "edicao:champions-league:1961-62",
-    "finalStage": "R16"
-  },
-  {
-    "clubId": "clube:bayern-munich",
-    "editionId": "edicao:champions-league:1955-56",
-    "finalStage": "Preliminary"
-  },
-  {
-    "clubId": "clube:bayern-munich",
-    "editionId": "edicao:champions-league:1956-57",
-    "finalStage": "Preliminary"
-  },
-  {
-    "clubId": "clube:bayern-munich",
-    "editionId": "edicao:champions-league:1957-58",
     "finalStage": "GroupStage"
   },
   {
     "clubId": "clube:bayern-munich",
-    "editionId": "edicao:champions-league:1958-59",
-    "finalStage": "Preliminary"
-  },
-  {
-    "clubId": "clube:bayern-munich",
-    "editionId": "edicao:champions-league:1959-60",
-    "finalStage": "GroupStage"
-  },
-  {
-    "clubId": "clube:bayern-munich",
-    "editionId": "edicao:champions-league:1960-61",
-    "finalStage": "Preliminary"
-  },
-  {
-    "clubId": "clube:bayern-munich",
-    "editionId": "edicao:champions-league:1961-62",
+    "editionId": "edicao:champions-league:2023-24",
     "finalStage": "GroupStage"
   },
   {
     "clubId": "clube:liverpool",
-    "editionId": "edicao:champions-league:1955-56",
-    "finalStage": "GroupStage"
-  },
-  {
-    "clubId": "clube:liverpool",
-    "editionId": "edicao:champions-league:1956-57",
-    "finalStage": "GroupStage"
-  },
-  {
-    "clubId": "clube:liverpool",
-    "editionId": "edicao:champions-league:1957-58",
-    "finalStage": "Preliminary"
-  },
-  {
-    "clubId": "clube:liverpool",
-    "editionId": "edicao:champions-league:1958-59",
-    "finalStage": "GroupStage"
-  },
-  {
-    "clubId": "clube:liverpool",
-    "editionId": "edicao:champions-league:1959-60",
-    "finalStage": "Preliminary"
-  },
-  {
-    "clubId": "clube:liverpool",
-    "editionId": "edicao:champions-league:1960-61",
-    "finalStage": "GroupStage"
-  },
-  {
-    "clubId": "clube:liverpool",
-    "editionId": "edicao:champions-league:1961-62",
-    "finalStage": "Preliminary"
-  },
-  {
-    "clubId": "clube:manchester-united",
-    "editionId": "edicao:champions-league:1955-56",
+    "editionId": "edicao:champions-league:2023-24",
     "finalStage": "GroupStage"
   },
   {
     "clubId": "clube:manchester-united",
-    "editionId": "edicao:champions-league:1956-57",
-    "finalStage": "SF"
-  },
-  {
-    "clubId": "clube:manchester-united",
-    "editionId": "edicao:champions-league:1957-58",
-    "finalStage": "SF"
-  },
-  {
-    "clubId": "clube:manchester-united",
-    "editionId": "edicao:champions-league:1958-59",
+    "editionId": "edicao:champions-league:2023-24",
     "finalStage": "GroupStage"
   },
   {
-    "clubId": "clube:manchester-united",
-    "editionId": "edicao:champions-league:1959-60",
-    "finalStage": "Preliminary"
-  },
-  {
-    "clubId": "clube:manchester-united",
-    "editionId": "edicao:champions-league:1960-61",
+    "clubId": "clube:napoli",
+    "editionId": "edicao:champions-league:2023-24",
     "finalStage": "GroupStage"
   },
   {
-    "clubId": "clube:manchester-united",
-    "editionId": "edicao:champions-league:1961-62",
-    "finalStage": "Preliminary"
-  },
-  {
-    "clubId": "clube:juventus",
-    "editionId": "edicao:champions-league:1955-56",
-    "finalStage": "R16"
-  },
-  {
-    "clubId": "clube:juventus",
-    "editionId": "edicao:champions-league:1956-57",
-    "finalStage": "QF"
-  },
-  {
-    "clubId": "clube:juventus",
-    "editionId": "edicao:champions-league:1957-58",
-    "finalStage": "R16"
-  },
-  {
-    "clubId": "clube:juventus",
-    "editionId": "edicao:champions-league:1958-59",
-    "finalStage": "QF"
-  },
-  {
-    "clubId": "clube:juventus",
-    "editionId": "edicao:champions-league:1959-60",
-    "finalStage": "R16"
-  },
-  {
-    "clubId": "clube:juventus",
-    "editionId": "edicao:champions-league:1960-61",
-    "finalStage": "QF"
-  },
-  {
-    "clubId": "clube:juventus",
-    "editionId": "edicao:champions-league:1961-62",
-    "finalStage": "QF"
-  },
-  {
-    "clubId": "clube:inter-milan",
-    "editionId": "edicao:champions-league:1955-56",
-    "finalStage": "Preliminary"
-  },
-  {
-    "clubId": "clube:inter-milan",
-    "editionId": "edicao:champions-league:1956-57",
-    "finalStage": "R16"
-  },
-  {
-    "clubId": "clube:inter-milan",
-    "editionId": "edicao:champions-league:1957-58",
-    "finalStage": "Preliminary"
-  },
-  {
-    "clubId": "clube:inter-milan",
-    "editionId": "edicao:champions-league:1958-59",
-    "finalStage": "R16"
-  },
-  {
-    "clubId": "clube:inter-milan",
-    "editionId": "edicao:champions-league:1959-60",
-    "finalStage": "R16"
-  },
-  {
-    "clubId": "clube:inter-milan",
-    "editionId": "edicao:champions-league:1960-61",
-    "finalStage": "R16"
-  },
-  {
-    "clubId": "clube:inter-milan",
-    "editionId": "edicao:champions-league:1961-62",
-    "finalStage": "Final"
-  },
-  {
-    "clubId": "clube:ajax",
-    "editionId": "edicao:champions-league:1955-56",
-    "finalStage": "Preliminary"
-  },
-  {
-    "clubId": "clube:ajax",
-    "editionId": "edicao:champions-league:1956-57",
-    "finalStage": "Preliminary"
-  },
-  {
-    "clubId": "clube:ajax",
-    "editionId": "edicao:champions-league:1957-58",
-    "finalStage": "Preliminary"
-  },
-  {
-    "clubId": "clube:ajax",
-    "editionId": "edicao:champions-league:1958-59",
-    "finalStage": "Preliminary"
-  },
-  {
-    "clubId": "clube:ajax",
-    "editionId": "edicao:champions-league:1959-60",
+    "clubId": "clube:atletico-madrid",
+    "editionId": "edicao:champions-league:2023-24",
     "finalStage": "GroupStage"
   },
   {
-    "clubId": "clube:ajax",
-    "editionId": "edicao:champions-league:1960-61",
-    "finalStage": "Preliminary"
+    "clubId": "clube:arsenal",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
   },
   {
-    "clubId": "clube:ajax",
-    "editionId": "edicao:champions-league:1961-62",
-    "finalStage": "Preliminary"
+    "clubId": "clube:inter-milan",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
   },
   {
-    "clubId": "clube:benfica",
-    "editionId": "edicao:champions-league:1955-56",
-    "finalStage": "Preliminary"
+    "clubId": "clube:borussia-dortmund",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
   },
   {
-    "clubId": "clube:benfica",
-    "editionId": "edicao:champions-league:1956-57",
+    "clubId": "clube:tottenham",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:newcastle-united",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:chelsea",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:juventus",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:bayer-leverkusen",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:eintracht-frankfurt",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:lazio",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:aston-villa",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:sevilla",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:real-sociedad",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:rb-leipzig",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:wolfsburg",
+    "editionId": "edicao:champions-league:2023-24",
     "finalStage": "GroupStage"
   },
   {
     "clubId": "clube:benfica",
-    "editionId": "edicao:champions-league:1957-58",
+    "editionId": "edicao:champions-league:2023-24",
     "finalStage": "GroupStage"
   },
   {
-    "clubId": "clube:benfica",
-    "editionId": "edicao:champions-league:1958-59",
-    "finalStage": "QF"
+    "clubId": "clube:olympique-lyonnais",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
   },
   {
-    "clubId": "clube:benfica",
-    "editionId": "edicao:champions-league:1959-60",
-    "finalStage": "SF"
+    "clubId": "clube:porto",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
   },
   {
-    "clubId": "clube:benfica",
-    "editionId": "edicao:champions-league:1960-61",
-    "finalStage": "Winner"
+    "clubId": "clube:sporting-cp",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
   },
   {
-    "clubId": "clube:benfica",
-    "editionId": "edicao:champions-league:1961-62",
-    "finalStage": "Winner"
+    "clubId": "clube:galatasaray",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:lens",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:atalanta",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:antwerp",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:ajax",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:marseille",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:psv",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:feyenoord",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:celtic",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:rangers",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:shakhtar-donetsk",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:dynamo-kyiv",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:slavia-praha",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:viktoria-plze",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:paok",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:young-boys",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:malm-ff",
+    "editionId": "edicao:champions-league:2023-24",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:real-madrid",
+    "editionId": "edicao:champions-league:2022-23",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:barcelona",
+    "editionId": "edicao:champions-league:2022-23",
+    "finalStage": "GroupStage"
   },
   {
     "clubId": "clube:manchester-city",
-    "editionId": "edicao:champions-league:2023-24",
-    "finalStage": "QF"
+    "editionId": "edicao:champions-league:2022-23",
+    "finalStage": "GroupStage"
   },
   {
-    "clubId": "clube:ac-milan",
-    "editionId": "edicao:champions-league:2023-24",
-    "finalStage": "QF"
-  },
-  {
-    "clubId": "clube:barcelona",
-    "editionId": "edicao:champions-league:2023-24",
-    "finalStage": "R16"
+    "clubId": "clube:manchester-united",
+    "editionId": "edicao:champions-league:2022-23",
+    "finalStage": "GroupStage"
   },
   {
     "clubId": "clube:bayern-munich",
-    "editionId": "edicao:champions-league:2023-24",
+    "editionId": "edicao:champions-league:2022-23",
     "finalStage": "GroupStage"
   },
   {
     "clubId": "clube:liverpool",
-    "editionId": "edicao:champions-league:2023-24",
-    "finalStage": "Preliminary"
+    "editionId": "edicao:champions-league:2022-23",
+    "finalStage": "GroupStage"
   },
   {
-    "clubId": "clube:manchester-united",
-    "editionId": "edicao:champions-league:2023-24",
+    "clubId": "clube:atletico-madrid",
+    "editionId": "edicao:champions-league:2022-23",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:tottenham",
+    "editionId": "edicao:champions-league:2022-23",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:chelsea",
+    "editionId": "edicao:champions-league:2022-23",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:inter-milan",
+    "editionId": "edicao:champions-league:2022-23",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:rb-leipzig",
+    "editionId": "edicao:champions-league:2022-23",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:lazio",
+    "editionId": "edicao:champions-league:2022-23",
     "finalStage": "GroupStage"
   },
   {
     "clubId": "clube:juventus",
-    "editionId": "edicao:champions-league:2023-24",
-    "finalStage": "R16"
+    "editionId": "edicao:champions-league:2022-23",
+    "finalStage": "GroupStage"
   },
   {
-    "clubId": "clube:inter-milan",
-    "editionId": "edicao:champions-league:2023-24",
-    "finalStage": "SF"
+    "clubId": "clube:eintracht-frankfurt",
+    "editionId": "edicao:champions-league:2022-23",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:borussia-dortmund",
+    "editionId": "edicao:champions-league:2022-23",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:bayer-leverkusen",
+    "editionId": "edicao:champions-league:2022-23",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:sevilla",
+    "editionId": "edicao:champions-league:2022-23",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:arsenal",
+    "editionId": "edicao:champions-league:2022-23",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:real-sociedad",
+    "editionId": "edicao:champions-league:2022-23",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:wolfsburg",
+    "editionId": "edicao:champions-league:2022-23",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:galatasaray",
+    "editionId": "edicao:champions-league:2022-23",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:newcastle-united",
+    "editionId": "edicao:champions-league:2022-23",
+    "finalStage": "GroupStage"
   },
   {
     "clubId": "clube:ajax",
-    "editionId": "edicao:champions-league:2023-24",
-    "finalStage": "Preliminary"
+    "editionId": "edicao:champions-league:2022-23",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:aston-villa",
+    "editionId": "edicao:champions-league:2022-23",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:napoli",
+    "editionId": "edicao:champions-league:2022-23",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:psv",
+    "editionId": "edicao:champions-league:2022-23",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:atalanta",
+    "editionId": "edicao:champions-league:2022-23",
+    "finalStage": "GroupStage"
   },
   {
     "clubId": "clube:benfica",
-    "editionId": "edicao:champions-league:2023-24",
-    "finalStage": "Final"
+    "editionId": "edicao:champions-league:2022-23",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:marseille",
+    "editionId": "edicao:champions-league:2022-23",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:antwerp",
+    "editionId": "edicao:champions-league:2022-23",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:sporting-cp",
+    "editionId": "edicao:champions-league:2022-23",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:olympique-lyonnais",
+    "editionId": "edicao:champions-league:2022-23",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:porto",
+    "editionId": "edicao:champions-league:2022-23",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:lens",
+    "editionId": "edicao:champions-league:2022-23",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:dynamo-kyiv",
+    "editionId": "edicao:champions-league:2022-23",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:feyenoord",
+    "editionId": "edicao:champions-league:2022-23",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:rangers",
+    "editionId": "edicao:champions-league:2022-23",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:shakhtar-donetsk",
+    "editionId": "edicao:champions-league:2022-23",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:slavia-praha",
+    "editionId": "edicao:champions-league:2022-23",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:paok",
+    "editionId": "edicao:champions-league:2022-23",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:celtic",
+    "editionId": "edicao:champions-league:2022-23",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:viktoria-plze",
+    "editionId": "edicao:champions-league:2022-23",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:young-boys",
+    "editionId": "edicao:champions-league:2022-23",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:malm-ff",
+    "editionId": "edicao:champions-league:2022-23",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:bayern-munich",
+    "editionId": "edicao:champions-league:2021-22",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:atletico-madrid",
+    "editionId": "edicao:champions-league:2021-22",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:manchester-united",
+    "editionId": "edicao:champions-league:2021-22",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:manchester-city",
+    "editionId": "edicao:champions-league:2021-22",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:barcelona",
+    "editionId": "edicao:champions-league:2021-22",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:tottenham",
+    "editionId": "edicao:champions-league:2021-22",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:chelsea",
+    "editionId": "edicao:champions-league:2021-22",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:real-madrid",
+    "editionId": "edicao:champions-league:2021-22",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:liverpool",
+    "editionId": "edicao:champions-league:2021-22",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:borussia-dortmund",
+    "editionId": "edicao:champions-league:2021-22",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:juventus",
+    "editionId": "edicao:champions-league:2021-22",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:lazio",
+    "editionId": "edicao:champions-league:2021-22",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:inter-milan",
+    "editionId": "edicao:champions-league:2021-22",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:wolfsburg",
+    "editionId": "edicao:champions-league:2021-22",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:napoli",
+    "editionId": "edicao:champions-league:2021-22",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:real-sociedad",
+    "editionId": "edicao:champions-league:2021-22",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:sevilla",
+    "editionId": "edicao:champions-league:2021-22",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:rb-leipzig",
+    "editionId": "edicao:champions-league:2021-22",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:arsenal",
+    "editionId": "edicao:champions-league:2021-22",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:aston-villa",
+    "editionId": "edicao:champions-league:2021-22",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:ajax",
+    "editionId": "edicao:champions-league:2021-22",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:atalanta",
+    "editionId": "edicao:champions-league:2021-22",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:eintracht-frankfurt",
+    "editionId": "edicao:champions-league:2021-22",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:olympique-lyonnais",
+    "editionId": "edicao:champions-league:2021-22",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:bayer-leverkusen",
+    "editionId": "edicao:champions-league:2021-22",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:sporting-cp",
+    "editionId": "edicao:champions-league:2021-22",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:benfica",
+    "editionId": "edicao:champions-league:2021-22",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:porto",
+    "editionId": "edicao:champions-league:2021-22",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:psv",
+    "editionId": "edicao:champions-league:2021-22",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:marseille",
+    "editionId": "edicao:champions-league:2021-22",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:shakhtar-donetsk",
+    "editionId": "edicao:champions-league:2021-22",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:newcastle-united",
+    "editionId": "edicao:champions-league:2021-22",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:dynamo-kyiv",
+    "editionId": "edicao:champions-league:2021-22",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:antwerp",
+    "editionId": "edicao:champions-league:2021-22",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:galatasaray",
+    "editionId": "edicao:champions-league:2021-22",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:feyenoord",
+    "editionId": "edicao:champions-league:2021-22",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:slavia-praha",
+    "editionId": "edicao:champions-league:2021-22",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:lens",
+    "editionId": "edicao:champions-league:2021-22",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:young-boys",
+    "editionId": "edicao:champions-league:2021-22",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:rangers",
+    "editionId": "edicao:champions-league:2021-22",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:viktoria-plze",
+    "editionId": "edicao:champions-league:2021-22",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:paok",
+    "editionId": "edicao:champions-league:2021-22",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:celtic",
+    "editionId": "edicao:champions-league:2021-22",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:malm-ff",
+    "editionId": "edicao:champions-league:2021-22",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:barcelona",
+    "editionId": "edicao:champions-league:2020-21",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:juventus",
+    "editionId": "edicao:champions-league:2020-21",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:atletico-madrid",
+    "editionId": "edicao:champions-league:2020-21",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:bayern-munich",
+    "editionId": "edicao:champions-league:2020-21",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:manchester-city",
+    "editionId": "edicao:champions-league:2020-21",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:liverpool",
+    "editionId": "edicao:champions-league:2020-21",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:real-madrid",
+    "editionId": "edicao:champions-league:2020-21",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:tottenham",
+    "editionId": "edicao:champions-league:2020-21",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:inter-milan",
+    "editionId": "edicao:champions-league:2020-21",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:napoli",
+    "editionId": "edicao:champions-league:2020-21",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:chelsea",
+    "editionId": "edicao:champions-league:2020-21",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:borussia-dortmund",
+    "editionId": "edicao:champions-league:2020-21",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:manchester-united",
+    "editionId": "edicao:champions-league:2020-21",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:arsenal",
+    "editionId": "edicao:champions-league:2020-21",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:lazio",
+    "editionId": "edicao:champions-league:2020-21",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:atalanta",
+    "editionId": "edicao:champions-league:2020-21",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:real-sociedad",
+    "editionId": "edicao:champions-league:2020-21",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:olympique-lyonnais",
+    "editionId": "edicao:champions-league:2020-21",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:rb-leipzig",
+    "editionId": "edicao:champions-league:2020-21",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:benfica",
+    "editionId": "edicao:champions-league:2020-21",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:ajax",
+    "editionId": "edicao:champions-league:2020-21",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:porto",
+    "editionId": "edicao:champions-league:2020-21",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:sevilla",
+    "editionId": "edicao:champions-league:2020-21",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:wolfsburg",
+    "editionId": "edicao:champions-league:2020-21",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:marseille",
+    "editionId": "edicao:champions-league:2020-21",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:eintracht-frankfurt",
+    "editionId": "edicao:champions-league:2020-21",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:bayer-leverkusen",
+    "editionId": "edicao:champions-league:2020-21",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:newcastle-united",
+    "editionId": "edicao:champions-league:2020-21",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:galatasaray",
+    "editionId": "edicao:champions-league:2020-21",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:shakhtar-donetsk",
+    "editionId": "edicao:champions-league:2020-21",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:sporting-cp",
+    "editionId": "edicao:champions-league:2020-21",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:feyenoord",
+    "editionId": "edicao:champions-league:2020-21",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:psv",
+    "editionId": "edicao:champions-league:2020-21",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:dynamo-kyiv",
+    "editionId": "edicao:champions-league:2020-21",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:aston-villa",
+    "editionId": "edicao:champions-league:2020-21",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:slavia-praha",
+    "editionId": "edicao:champions-league:2020-21",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:young-boys",
+    "editionId": "edicao:champions-league:2020-21",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:antwerp",
+    "editionId": "edicao:champions-league:2020-21",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:celtic",
+    "editionId": "edicao:champions-league:2020-21",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:lens",
+    "editionId": "edicao:champions-league:2020-21",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:rangers",
+    "editionId": "edicao:champions-league:2020-21",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:paok",
+    "editionId": "edicao:champions-league:2020-21",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:malm-ff",
+    "editionId": "edicao:champions-league:2020-21",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:viktoria-plze",
+    "editionId": "edicao:champions-league:2020-21",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:barcelona",
+    "editionId": "edicao:champions-league:2019-20",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:juventus",
+    "editionId": "edicao:champions-league:2019-20",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:atletico-madrid",
+    "editionId": "edicao:champions-league:2019-20",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:real-madrid",
+    "editionId": "edicao:champions-league:2019-20",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:manchester-city",
+    "editionId": "edicao:champions-league:2019-20",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:liverpool",
+    "editionId": "edicao:champions-league:2019-20",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:napoli",
+    "editionId": "edicao:champions-league:2019-20",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:tottenham",
+    "editionId": "edicao:champions-league:2019-20",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:manchester-united",
+    "editionId": "edicao:champions-league:2019-20",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:chelsea",
+    "editionId": "edicao:champions-league:2019-20",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:bayern-munich",
+    "editionId": "edicao:champions-league:2019-20",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:inter-milan",
+    "editionId": "edicao:champions-league:2019-20",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:borussia-dortmund",
+    "editionId": "edicao:champions-league:2019-20",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:arsenal",
+    "editionId": "edicao:champions-league:2019-20",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:lazio",
+    "editionId": "edicao:champions-league:2019-20",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:sporting-cp",
+    "editionId": "edicao:champions-league:2019-20",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:olympique-lyonnais",
+    "editionId": "edicao:champions-league:2019-20",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:rb-leipzig",
+    "editionId": "edicao:champions-league:2019-20",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:ajax",
+    "editionId": "edicao:champions-league:2019-20",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:atalanta",
+    "editionId": "edicao:champions-league:2019-20",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:bayer-leverkusen",
+    "editionId": "edicao:champions-league:2019-20",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:porto",
+    "editionId": "edicao:champions-league:2019-20",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:benfica",
+    "editionId": "edicao:champions-league:2019-20",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:wolfsburg",
+    "editionId": "edicao:champions-league:2019-20",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:eintracht-frankfurt",
+    "editionId": "edicao:champions-league:2019-20",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:marseille",
+    "editionId": "edicao:champions-league:2019-20",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:sevilla",
+    "editionId": "edicao:champions-league:2019-20",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:real-sociedad",
+    "editionId": "edicao:champions-league:2019-20",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:psv",
+    "editionId": "edicao:champions-league:2019-20",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:shakhtar-donetsk",
+    "editionId": "edicao:champions-league:2019-20",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:galatasaray",
+    "editionId": "edicao:champions-league:2019-20",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:newcastle-united",
+    "editionId": "edicao:champions-league:2019-20",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:aston-villa",
+    "editionId": "edicao:champions-league:2019-20",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:feyenoord",
+    "editionId": "edicao:champions-league:2019-20",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:dynamo-kyiv",
+    "editionId": "edicao:champions-league:2019-20",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:slavia-praha",
+    "editionId": "edicao:champions-league:2019-20",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:young-boys",
+    "editionId": "edicao:champions-league:2019-20",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:antwerp",
+    "editionId": "edicao:champions-league:2019-20",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:paok",
+    "editionId": "edicao:champions-league:2019-20",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:celtic",
+    "editionId": "edicao:champions-league:2019-20",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:rangers",
+    "editionId": "edicao:champions-league:2019-20",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:viktoria-plze",
+    "editionId": "edicao:champions-league:2019-20",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:malm-ff",
+    "editionId": "edicao:champions-league:2019-20",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:lens",
+    "editionId": "edicao:champions-league:2019-20",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:juventus",
+    "editionId": "edicao:champions-league:2018-19",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:barcelona",
+    "editionId": "edicao:champions-league:2018-19",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:manchester-united",
+    "editionId": "edicao:champions-league:2018-19",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:manchester-city",
+    "editionId": "edicao:champions-league:2018-19",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:real-madrid",
+    "editionId": "edicao:champions-league:2018-19",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:chelsea",
+    "editionId": "edicao:champions-league:2018-19",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:atletico-madrid",
+    "editionId": "edicao:champions-league:2018-19",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:bayern-munich",
+    "editionId": "edicao:champions-league:2018-19",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:tottenham",
+    "editionId": "edicao:champions-league:2018-19",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:liverpool",
+    "editionId": "edicao:champions-league:2018-19",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:inter-milan",
+    "editionId": "edicao:champions-league:2018-19",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:napoli",
+    "editionId": "edicao:champions-league:2018-19",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:arsenal",
+    "editionId": "edicao:champions-league:2018-19",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:lazio",
+    "editionId": "edicao:champions-league:2018-19",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:olympique-lyonnais",
+    "editionId": "edicao:champions-league:2018-19",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:porto",
+    "editionId": "edicao:champions-league:2018-19",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:borussia-dortmund",
+    "editionId": "edicao:champions-league:2018-19",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:marseille",
+    "editionId": "edicao:champions-league:2018-19",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:atalanta",
+    "editionId": "edicao:champions-league:2018-19",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:benfica",
+    "editionId": "edicao:champions-league:2018-19",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:real-sociedad",
+    "editionId": "edicao:champions-league:2018-19",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:bayer-leverkusen",
+    "editionId": "edicao:champions-league:2018-19",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:rb-leipzig",
+    "editionId": "edicao:champions-league:2018-19",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:sporting-cp",
+    "editionId": "edicao:champions-league:2018-19",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:sevilla",
+    "editionId": "edicao:champions-league:2018-19",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:ajax",
+    "editionId": "edicao:champions-league:2018-19",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:wolfsburg",
+    "editionId": "edicao:champions-league:2018-19",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:shakhtar-donetsk",
+    "editionId": "edicao:champions-league:2018-19",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:galatasaray",
+    "editionId": "edicao:champions-league:2018-19",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:psv",
+    "editionId": "edicao:champions-league:2018-19",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:dynamo-kyiv",
+    "editionId": "edicao:champions-league:2018-19",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:eintracht-frankfurt",
+    "editionId": "edicao:champions-league:2018-19",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:feyenoord",
+    "editionId": "edicao:champions-league:2018-19",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:paok",
+    "editionId": "edicao:champions-league:2018-19",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:newcastle-united",
+    "editionId": "edicao:champions-league:2018-19",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:celtic",
+    "editionId": "edicao:champions-league:2018-19",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:young-boys",
+    "editionId": "edicao:champions-league:2018-19",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:aston-villa",
+    "editionId": "edicao:champions-league:2018-19",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:viktoria-plze",
+    "editionId": "edicao:champions-league:2018-19",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:slavia-praha",
+    "editionId": "edicao:champions-league:2018-19",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:lens",
+    "editionId": "edicao:champions-league:2018-19",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:rangers",
+    "editionId": "edicao:champions-league:2018-19",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:malm-ff",
+    "editionId": "edicao:champions-league:2018-19",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:antwerp",
+    "editionId": "edicao:champions-league:2018-19",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:real-madrid",
+    "editionId": "edicao:champions-league:2017-18",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:barcelona",
+    "editionId": "edicao:champions-league:2017-18",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:bayern-munich",
+    "editionId": "edicao:champions-league:2017-18",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:manchester-united",
+    "editionId": "edicao:champions-league:2017-18",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:chelsea",
+    "editionId": "edicao:champions-league:2017-18",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:juventus",
+    "editionId": "edicao:champions-league:2017-18",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:manchester-city",
+    "editionId": "edicao:champions-league:2017-18",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:arsenal",
+    "editionId": "edicao:champions-league:2017-18",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:atletico-madrid",
+    "editionId": "edicao:champions-league:2017-18",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:tottenham",
+    "editionId": "edicao:champions-league:2017-18",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:borussia-dortmund",
+    "editionId": "edicao:champions-league:2017-18",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:inter-milan",
+    "editionId": "edicao:champions-league:2017-18",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:napoli",
+    "editionId": "edicao:champions-league:2017-18",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:liverpool",
+    "editionId": "edicao:champions-league:2017-18",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:bayer-leverkusen",
+    "editionId": "edicao:champions-league:2017-18",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:atalanta",
+    "editionId": "edicao:champions-league:2017-18",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:marseille",
+    "editionId": "edicao:champions-league:2017-18",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:real-sociedad",
+    "editionId": "edicao:champions-league:2017-18",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:lazio",
+    "editionId": "edicao:champions-league:2017-18",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:rb-leipzig",
+    "editionId": "edicao:champions-league:2017-18",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:olympique-lyonnais",
+    "editionId": "edicao:champions-league:2017-18",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:porto",
+    "editionId": "edicao:champions-league:2017-18",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:sporting-cp",
+    "editionId": "edicao:champions-league:2017-18",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:benfica",
+    "editionId": "edicao:champions-league:2017-18",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:sevilla",
+    "editionId": "edicao:champions-league:2017-18",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:wolfsburg",
+    "editionId": "edicao:champions-league:2017-18",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:galatasaray",
+    "editionId": "edicao:champions-league:2017-18",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:shakhtar-donetsk",
+    "editionId": "edicao:champions-league:2017-18",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:ajax",
+    "editionId": "edicao:champions-league:2017-18",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:eintracht-frankfurt",
+    "editionId": "edicao:champions-league:2017-18",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:feyenoord",
+    "editionId": "edicao:champions-league:2017-18",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:newcastle-united",
+    "editionId": "edicao:champions-league:2017-18",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:psv",
+    "editionId": "edicao:champions-league:2017-18",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:paok",
+    "editionId": "edicao:champions-league:2017-18",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:aston-villa",
+    "editionId": "edicao:champions-league:2017-18",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:rangers",
+    "editionId": "edicao:champions-league:2017-18",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:antwerp",
+    "editionId": "edicao:champions-league:2017-18",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:young-boys",
+    "editionId": "edicao:champions-league:2017-18",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:celtic",
+    "editionId": "edicao:champions-league:2017-18",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:malm-ff",
+    "editionId": "edicao:champions-league:2017-18",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:lens",
+    "editionId": "edicao:champions-league:2017-18",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:real-madrid",
+    "editionId": "edicao:champions-league:2016-17",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:barcelona",
+    "editionId": "edicao:champions-league:2016-17",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:bayern-munich",
+    "editionId": "edicao:champions-league:2016-17",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:manchester-united",
+    "editionId": "edicao:champions-league:2016-17",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:chelsea",
+    "editionId": "edicao:champions-league:2016-17",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:arsenal",
+    "editionId": "edicao:champions-league:2016-17",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:manchester-city",
+    "editionId": "edicao:champions-league:2016-17",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:atletico-madrid",
+    "editionId": "edicao:champions-league:2016-17",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:juventus",
+    "editionId": "edicao:champions-league:2016-17",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:tottenham",
+    "editionId": "edicao:champions-league:2016-17",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:borussia-dortmund",
+    "editionId": "edicao:champions-league:2016-17",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:inter-milan",
+    "editionId": "edicao:champions-league:2016-17",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:bayer-leverkusen",
+    "editionId": "edicao:champions-league:2016-17",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:liverpool",
+    "editionId": "edicao:champions-league:2016-17",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:olympique-lyonnais",
+    "editionId": "edicao:champions-league:2016-17",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:napoli",
+    "editionId": "edicao:champions-league:2016-17",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:sporting-cp",
+    "editionId": "edicao:champions-league:2016-17",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:wolfsburg",
+    "editionId": "edicao:champions-league:2016-17",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:benfica",
+    "editionId": "edicao:champions-league:2016-17",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:porto",
+    "editionId": "edicao:champions-league:2016-17",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:galatasaray",
+    "editionId": "edicao:champions-league:2016-17",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:marseille",
+    "editionId": "edicao:champions-league:2016-17",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:real-sociedad",
+    "editionId": "edicao:champions-league:2016-17",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:lazio",
+    "editionId": "edicao:champions-league:2016-17",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:atalanta",
+    "editionId": "edicao:champions-league:2016-17",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:sevilla",
+    "editionId": "edicao:champions-league:2016-17",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:psv",
+    "editionId": "edicao:champions-league:2016-17",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:shakhtar-donetsk",
+    "editionId": "edicao:champions-league:2016-17",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:ajax",
+    "editionId": "edicao:champions-league:2016-17",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:rb-leipzig",
+    "editionId": "edicao:champions-league:2016-17",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:celtic",
+    "editionId": "edicao:champions-league:2016-17",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:eintracht-frankfurt",
+    "editionId": "edicao:champions-league:2016-17",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:feyenoord",
+    "editionId": "edicao:champions-league:2016-17",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:newcastle-united",
+    "editionId": "edicao:champions-league:2016-17",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:aston-villa",
+    "editionId": "edicao:champions-league:2016-17",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:lens",
+    "editionId": "edicao:champions-league:2016-17",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:rangers",
+    "editionId": "edicao:champions-league:2016-17",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:young-boys",
+    "editionId": "edicao:champions-league:2016-17",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:paok",
+    "editionId": "edicao:champions-league:2016-17",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:malm-ff",
+    "editionId": "edicao:champions-league:2016-17",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:barcelona",
+    "editionId": "edicao:champions-league:2015-16",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:real-madrid",
+    "editionId": "edicao:champions-league:2015-16",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:bayern-munich",
+    "editionId": "edicao:champions-league:2015-16",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:chelsea",
+    "editionId": "edicao:champions-league:2015-16",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:manchester-city",
+    "editionId": "edicao:champions-league:2015-16",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:arsenal",
+    "editionId": "edicao:champions-league:2015-16",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:juventus",
+    "editionId": "edicao:champions-league:2015-16",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:manchester-united",
+    "editionId": "edicao:champions-league:2015-16",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:borussia-dortmund",
+    "editionId": "edicao:champions-league:2015-16",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:tottenham",
+    "editionId": "edicao:champions-league:2015-16",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:wolfsburg",
+    "editionId": "edicao:champions-league:2015-16",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:atletico-madrid",
+    "editionId": "edicao:champions-league:2015-16",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:liverpool",
+    "editionId": "edicao:champions-league:2015-16",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:bayer-leverkusen",
+    "editionId": "edicao:champions-league:2015-16",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:olympique-lyonnais",
+    "editionId": "edicao:champions-league:2015-16",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:napoli",
+    "editionId": "edicao:champions-league:2015-16",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:porto",
+    "editionId": "edicao:champions-league:2015-16",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:galatasaray",
+    "editionId": "edicao:champions-league:2015-16",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:inter-milan",
+    "editionId": "edicao:champions-league:2015-16",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:benfica",
+    "editionId": "edicao:champions-league:2015-16",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:marseille",
+    "editionId": "edicao:champions-league:2015-16",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:lazio",
+    "editionId": "edicao:champions-league:2015-16",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:sevilla",
+    "editionId": "edicao:champions-league:2015-16",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:real-sociedad",
+    "editionId": "edicao:champions-league:2015-16",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:shakhtar-donetsk",
+    "editionId": "edicao:champions-league:2015-16",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:ajax",
+    "editionId": "edicao:champions-league:2015-16",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:sporting-cp",
+    "editionId": "edicao:champions-league:2015-16",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:paok",
+    "editionId": "edicao:champions-league:2015-16",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:newcastle-united",
+    "editionId": "edicao:champions-league:2015-16",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:psv",
+    "editionId": "edicao:champions-league:2015-16",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:eintracht-frankfurt",
+    "editionId": "edicao:champions-league:2015-16",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:atalanta",
+    "editionId": "edicao:champions-league:2015-16",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:aston-villa",
+    "editionId": "edicao:champions-league:2015-16",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:feyenoord",
+    "editionId": "edicao:champions-league:2015-16",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:celtic",
+    "editionId": "edicao:champions-league:2015-16",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:rb-leipzig",
+    "editionId": "edicao:champions-league:2015-16",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:young-boys",
+    "editionId": "edicao:champions-league:2015-16",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:lens",
+    "editionId": "edicao:champions-league:2015-16",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:malm-ff",
+    "editionId": "edicao:champions-league:2015-16",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:barcelona",
+    "editionId": "edicao:champions-league:2014-15",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:real-madrid",
+    "editionId": "edicao:champions-league:2014-15",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:bayern-munich",
+    "editionId": "edicao:champions-league:2014-15",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:chelsea",
+    "editionId": "edicao:champions-league:2014-15",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:manchester-united",
+    "editionId": "edicao:champions-league:2014-15",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:manchester-city",
+    "editionId": "edicao:champions-league:2014-15",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:borussia-dortmund",
+    "editionId": "edicao:champions-league:2014-15",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:arsenal",
+    "editionId": "edicao:champions-league:2014-15",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:juventus",
+    "editionId": "edicao:champions-league:2014-15",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:tottenham",
+    "editionId": "edicao:champions-league:2014-15",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:atletico-madrid",
+    "editionId": "edicao:champions-league:2014-15",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:napoli",
+    "editionId": "edicao:champions-league:2014-15",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:galatasaray",
+    "editionId": "edicao:champions-league:2014-15",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:liverpool",
+    "editionId": "edicao:champions-league:2014-15",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:lazio",
+    "editionId": "edicao:champions-league:2014-15",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:inter-milan",
+    "editionId": "edicao:champions-league:2014-15",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:real-sociedad",
+    "editionId": "edicao:champions-league:2014-15",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:bayer-leverkusen",
+    "editionId": "edicao:champions-league:2014-15",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:porto",
+    "editionId": "edicao:champions-league:2014-15",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:benfica",
+    "editionId": "edicao:champions-league:2014-15",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:wolfsburg",
+    "editionId": "edicao:champions-league:2014-15",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:marseille",
+    "editionId": "edicao:champions-league:2014-15",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:sporting-cp",
+    "editionId": "edicao:champions-league:2014-15",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:sevilla",
+    "editionId": "edicao:champions-league:2014-15",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:shakhtar-donetsk",
+    "editionId": "edicao:champions-league:2014-15",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:aston-villa",
+    "editionId": "edicao:champions-league:2014-15",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:eintracht-frankfurt",
+    "editionId": "edicao:champions-league:2014-15",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:olympique-lyonnais",
+    "editionId": "edicao:champions-league:2014-15",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:newcastle-united",
+    "editionId": "edicao:champions-league:2014-15",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:ajax",
+    "editionId": "edicao:champions-league:2014-15",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:psv",
+    "editionId": "edicao:champions-league:2014-15",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:atalanta",
+    "editionId": "edicao:champions-league:2014-15",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:feyenoord",
+    "editionId": "edicao:champions-league:2014-15",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:celtic",
+    "editionId": "edicao:champions-league:2014-15",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:paok",
+    "editionId": "edicao:champions-league:2014-15",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:malm-ff",
+    "editionId": "edicao:champions-league:2014-15",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:rb-leipzig",
+    "editionId": "edicao:champions-league:2014-15",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:lens",
+    "editionId": "edicao:champions-league:2014-15",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:young-boys",
+    "editionId": "edicao:champions-league:2014-15",
+    "finalStage": "GroupStage"
+  },
+  {
+    "clubId": "clube:rangers",
+    "editionId": "edicao:champions-league:2014-15",
+    "finalStage": "GroupStage"
   }
 ]
