@@ -331,14 +331,14 @@ export function createLeagueView(store, repo) {
   // Events
   startBtn.addEventListener('click', startSimulation);
 
-  // Check team completeness
+  // Also listen for the inline button's custom event
+  document.addEventListener('elite-cup:start-league', startSimulation);
+
+  // Check team completeness — hide the external startBtn (we use inline now)
   function checkTeamComplete(state) {
-    if (!state.team || !state.team.assignments) {
-      startBtn.style.display = 'none';
-      return;
-    }
+    startBtn.style.display = 'none'; // always hidden, we use inline button
+    if (!state.team || !state.team.assignments) return;
     const count = Object.values(state.team.assignments).filter(v => v != null).length;
-    startBtn.style.display = count >= 11 ? 'block' : 'none';
     if (count < 11) container.style.display = 'none';
   }
 

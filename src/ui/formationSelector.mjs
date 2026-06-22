@@ -153,6 +153,11 @@ export function createFormationSelector(store, repo) {
   }
   phase2.appendChild(clubSelect);
 
+  // Club crest display
+  const clubCrestDisplay = document.createElement('div');
+  clubCrestDisplay.className = 'club-crest-display';
+  phase2.appendChild(clubCrestDisplay);
+
   // Edition select
   const editionTitle = document.createElement('h3');
   editionTitle.className = 'sidebar-title';
@@ -213,14 +218,24 @@ export function createFormationSelector(store, repo) {
 
     if (!repo) return;
 
-    // Check if team is complete (11/11) — hide the list
+    // Check if team is complete (11/11) — show start button inline
     if (state.team && state.team.assignments) {
       const assignedCount = Object.values(state.team.assignments).filter(v => v != null).length;
       if (assignedCount >= 11) {
         const completeMsg = document.createElement('div');
-        completeMsg.classList.add('candidate-instruction');
-        completeMsg.innerHTML = '✅ <strong>Time completo!</strong><br>Use o botão abaixo para iniciar a liga.';
+        completeMsg.classList.add('candidate-complete');
+        completeMsg.innerHTML = '✅ <strong>Time completo!</strong>';
         candidateList.appendChild(completeMsg);
+
+        // Embed the start button directly here
+        const inlineStartBtn = document.createElement('button');
+        inlineStartBtn.className = 'league-start-button';
+        inlineStartBtn.textContent = '⚽ INICIAR LIGA';
+        inlineStartBtn.addEventListener('click', () => {
+          // Trigger the league start via a custom event
+          document.dispatchEvent(new CustomEvent('elite-cup:start-league'));
+        });
+        candidateList.appendChild(inlineStartBtn);
         return;
       }
     }
@@ -301,11 +316,30 @@ export function createFormationSelector(store, repo) {
   clubSelect.addEventListener('change', () => {
     store.setFilterClub(clubSelect.value || null);
     renderEditionOptions();
+    updateCrestDisplay();
   });
 
   editionSelect.addEventListener('change', () => {
     store.setFilterEdition(editionSelect.value || null);
   });
+
+  function updateCrestDisplay() {
+    const clubId = clubSelect.value || null;
+    clubCrestDisplay.innerHTML = '';
+    if (!clubId || !repo) return;
+    const club = repo.clubsById.get(clubId);
+    if (club && club.crest) {
+      const img = document.createElement('img');
+      img.src = club.crest;
+      img.alt = club.name;
+      img.className = 'club-crest-img';
+      const name = document.createElement('span');
+      name.className = 'club-crest-name';
+      name.textContent = club.name;
+      clubCrestDisplay.appendChild(img);
+      clubCrestDisplay.appendChild(name);
+    }
+  }
 
   // ===================== SYNC STATE =====================
 

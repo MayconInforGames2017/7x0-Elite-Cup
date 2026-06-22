@@ -87,6 +87,27 @@
   padding: 4px 0;
 }
 
+/* Club crest display */
+.club-crest-display {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 0;
+  min-height: 32px;
+}
+
+.club-crest-img {
+  width: 28px;
+  height: 28px;
+  object-fit: contain;
+}
+
+.club-crest-name {
+  font-size: 12px;
+  font-weight: 700;
+  color: #e8edf2;
+}
+
 .formation-buttons {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -337,6 +358,16 @@
   font-size: 11px;
   color: #7a8fa3;
   text-align: center;
+}
+
+.candidate-complete {
+  padding: 12px 10px;
+  border: 1px solid #4aad4a;
+  border-radius: 6px;
+  font-size: 12px;
+  color: #4aad4a;
+  text-align: center;
+  margin-bottom: 8px;
 }
 
 .candidate-error {

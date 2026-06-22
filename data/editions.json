@@ -1,10 +1,62 @@
 [
-  { "id": "edicao:champions-league:1955-56", "leagueId": "liga:champions-league", "season": "1955-56", "label": "European Cup 1955-56" },
-  { "id": "edicao:champions-league:1956-57", "leagueId": "liga:champions-league", "season": "1956-57", "label": "European Cup 1956-57" },
-  { "id": "edicao:champions-league:1957-58", "leagueId": "liga:champions-league", "season": "1957-58", "label": "European Cup 1957-58" },
-  { "id": "edicao:champions-league:1958-59", "leagueId": "liga:champions-league", "season": "1958-59", "label": "European Cup 1958-59" },
-  { "id": "edicao:champions-league:1959-60", "leagueId": "liga:champions-league", "season": "1959-60", "label": "European Cup 1959-60" },
-  { "id": "edicao:champions-league:1960-61", "leagueId": "liga:champions-league", "season": "1960-61", "label": "European Cup 1960-61" },
-  { "id": "edicao:champions-league:1961-62", "leagueId": "liga:champions-league", "season": "1961-62", "label": "European Cup 1961-62" },
-  { "id": "edicao:champions-league:2023-24", "leagueId": "liga:champions-league", "season": "2023-24", "label": "European Cup 2023-24" }
+  {
+    "id": "edicao:champions-league:2014-15",
+    "leagueId": "liga:champions-league",
+    "season": "2014-15",
+    "label": "Champions League 2014-15"
+  },
+  {
+    "id": "edicao:champions-league:2015-16",
+    "leagueId": "liga:champions-league",
+    "season": "2015-16",
+    "label": "Champions League 2015-16"
+  },
+  {
+    "id": "edicao:champions-league:2016-17",
+    "leagueId": "liga:champions-league",
+    "season": "2016-17",
+    "label": "Champions League 2016-17"
+  },
+  {
+    "id": "edicao:champions-league:2017-18",
+    "leagueId": "liga:champions-league",
+    "season": "2017-18",
+    "label": "Champions League 2017-18"
+  },
+  {
+    "id": "edicao:champions-league:2018-19",
+    "leagueId": "liga:champions-league",
+    "season": "2018-19",
+    "label": "Champions League 2018-19"
+  },
+  {
+    "id": "edicao:champions-league:2019-20",
+    "leagueId": "liga:champions-league",
+    "season": "2019-20",
+    "label": "Champions League 2019-20"
+  },
+  {
+    "id": "edicao:champions-league:2020-21",
+    "leagueId": "liga:champions-league",
+    "season": "2020-21",
+    "label": "Champions League 2020-21"
+  },
+  {
+    "id": "edicao:champions-league:2021-22",
+    "leagueId": "liga:champions-league",
+    "season": "2021-22",
+    "label": "Champions League 2021-22"
+  },
+  {
+    "id": "edicao:champions-league:2022-23",
+    "leagueId": "liga:champions-league",
+    "season": "2022-23",
+    "label": "Champions League 2022-23"
+  },
+  {
+    "id": "edicao:champions-league:2023-24",
+    "leagueId": "liga:champions-league",
+    "season": "2023-24",
+    "label": "Champions League 2023-24"
+  }
 ]
